@@ -1,0 +1,135 @@
+Purescript on AWS Lambda
+
+AWS Lambda is a service for provisioning code without the need to provision servers. It is a more constrained environment then EC2. JVM, Python, and Node.js are the only available runtimes (as of this writing). But you only pay for the compute cycles you use.
+
+Purescript is a typed, functional programming language that compiles to JavaScript. It resembles Haskell, though there are some semantic differences.
+
+The code for this article is on Github. https://github.com/kofno/BasicLambda
+
+AWS Lambda Primer
+
+AWS Lamba allows you to provision your code as a Lambda Function. Each function is a small, constrained runtime environment. You can choose to execute your code on a JVM, Python, or Node.js runtime. Since Purescript targets JavaScript, we will focus on Node.js.
+
+You may deploy your Lambda Function as a single file, or as a zip file containing a full Node.js module.
+
+Lambda Functions support many triggering mechanisms. SNS topics, S3 events, calls through the API Gateway, cron style scheduling, etc. You can configure your function to execute in response to any of these.
+
+Your code will execute in response to a trigger. By default, AWS Lambda requires your index.js file and executes the exported handler function.
+
+A handler function is a javascript function that accepts two arguments.
+
+The first argument is data. Data is just a JavaScript object. Its contents depends on how you are triggering the Lambda Function. We’ll come back to the data object.
+
+The second argument is the context. The context object contains meta information about the lambda. It also contains succeed and fail callbacks for indicating when the function has completed.
+
+Here is an example of what a simple Lambda function handler might look like:
+
+"use strict"; exports.handler = function(data, context) { if (data.key1 && data.key2) { context.succeed(data); } else { context.fail("I have no idea what kind of object this is."); } };
+
+This is a Lambda function written in Javascript. Let’s try writing one in Purescript.
+
+Purescript Example
+
+Purescript is a pure functional language with strong types. It shares a great deal in common with Haskell. We will be reviewing a couple features of the language that are pertinent to our work. You can read more about Purescript in the Purescript by Example book.
+
+Eff - the Side Effect Type
+
+Every program needs to perform native side effects to be useful. Native side effects includes writing to the screen or sending and receiving data.
+
+Purescript is a pure functional language. Because of this, it needs a special type to compose side effects. We call this type Eff.
+
+The Eff type signature looks like this:
+
+foreign import Eff :: # ! -> * -> *
+
+Let’s unpack this signature.
+
+The # kind is a rows constructor. Rows are like a records object. The ! kind is for side effects. The first part of signature describes rows of side effects.
+
+The * kind describes a type. The * -> * defines a type constructor. The last part of the Eff signature specifies a type constructor.
+
+So an Eff type is a row of side effects wrapped around another type. Here’s an Eff example from the Purescript book:
+
+main :: Eff (console :: CONSOLE, random :: RANDOM) Unit main = do n <- random print n
+
+The type of this function tells us a lot. We know there are side effects. We know that the side effects are writing to the console and generating a random number. We know that the function returns a Unit, which is a PureScript type for no meaningful return value.
+
+We are going to be using native side effects in our Lambda function. Remember, I said that the context object has succeed and fail methods. These methods tell the Lambda function to end. This is a native side effect.
+
+Let’s create a simple context type for Purescript.
+
+foreign import data Context :: *
+
+Here we’ve described our Context as a type. We also will need to define an effect. We’ll call our effect LAMBDA.
+
+foreign import data LAMBDA :: !
+
+We need to call succeed or fail on the context object so the Lambda shuts down. Purescript is a functional language. We can’t call methods on the Context type. Instead, we will call these methods from JavaScript, wrapping them in functions using FFI.
+
+Before we write the functions, let’s write out the function signatures.
+
+foreign import succeed :: forall eff. Context -> String -> Eff (lambda :: LAMBDA | eff) Unit foreign import fail :: forall eff. Context -> String -> Eff (lambda :: LAMBDA | eff) Unit
+
+Both these functions have the same type signature. They take a Context. Then they take a String, which Lambda logs when it ends the process. And they both have a LAMBDA side effect.
+
+Now we’ll look at the JavaScript implementation of these functions. Since both implementations look the same, we’ll only show succeed .
+
+exports.succeed = function(context) { return function(message) { return function() { context.succeed(message); }; }; };
+
+It may surprise you that succeed is not a two argument function. Instead, each item in our type signature is a nested function. This is because PureScript, like Haskell, curries every function call.
+
+Calling succeed with a Context as an argument returns a function. Calling that function with a message argument returns a zero argument function. Calling the zero argument function executes our side effect action.
+
+Processing Data with PureScript Foreign
+
+We are not introspecting the Lambda context object. Because of that, we can get away with a simple representation; the Context type. The data object is a different story. We need to extract data from that object. For that, we will use the purescript-foreign library.
+
+Javascript allows us to poke around in any object using the dot notation. Purescript requires you to be a bit more upfront about the structure of the data you are expecting. For this example, we will assume a simple Javascript object:
+
+{ key1: "key1" , key2 : "key2" }
+
+You might receive this object in a Lambda function through the API Gateway. Before we can use this in our Lambda function, need to convert it to a Purescript type. This type will work fine for us:
+
+data LambdaData = LambdaData { key1 :: String , key2 :: String }
+
+The purescript-foreign library will convert a foreign Javascript object into our new LambdaData type. To do this, we will use the Foreign type, the F type, and the IsForeign type class.
+
+The Foreign type represents any data from an unreliable source. It is like our Context type from before.
+
+The F is an error type that returns from our type class instance (more on that soon). F is actually an alias for an Either type. An Either type represents one of two possible outcomes; a Left and a Right . The Left value is usually reserved for reporting an error. The Right value holds the value if the computation was successful. This is the F definition:
+
+type F = Either ForeignError
+
+The IsForeign type class defines a read function. We will provide our own instance of read for the LambdaData type. This is where we provide the code for converting a foreign object to a Purescript type.
+
+instance lambdaDataIsForeign :: IsForeign LambdaData where read value = do k1 <- readProp "key1" value k2 <- readProp "key2" value return $ LambdaData { key1: k1, key2: k2 }
+
+Here we are just reading ‘key1’ and ‘key2’ from the foreign value. If they are both there, then we construct a LambdaData type and return it wrapped in a Right . If they are not there, then our read function will return a Left along with the error message.
+
+Writing the Handler
+
+We are now ready to write our Purescript handler. Here’s the type signature I came up with:
+
+handler :: forall eff. Context -> Foreign -> Eff (lambda :: LAMBDA | eff) Unit
+
+The handler function takes a Context. It then takes in the data, as a Foreign. It performs an action that has a side effect, but no meaningful value. The forall eff and | eff just mean “there may be other side effects, too”. We are explicit about listing LAMBDA as a side effect, because we know we are going to call success or fail .
+
+Here is one possible implementation of this function:
+
+handler c d = do process $ readData d return unit where readData :: Foreign -> F LambdaData readData = read process :: F LambdaData -> Eff (lambda :: LAMBDA | eff) Unit process (Left err) = fail c $ show err process (Right d) = succeed c $ show d
+
+One last thing; how can we get the Lambda function to call our handler? Purescript curries all function arguments; we can’t create a function that matches Lambda’s expectations.
+
+We will need to keep our index.js file around to execute the Purescript code. The JavaScript file will now look like this:
+
+"use strict"; var lambda = require('BasicLambda') exports.handler = function(data, context) { lambda.handler(context)(data)(); };
+
+Here we call the Purescript handler from within JavaScript. Remember that PureScript functions are always curried. We call the handler and hand it the context. It returns a function to us, which we call by passing in the data. We get a third function back. It is our side effect. This function takes no arguments when we call it.
+
+Notice that our Purescript module is compatible with node’s implementation of CommonJS. We can require the module, just like any other Javascript module.
+
+Conclusion
+
+I tried to show how to write an AWS Lambda function in Purescript. I kept the functionality basic, so I could focus on compatibility. Future tutorials may show fetching S3 objects or manipulating images using ImageMagic.
+
+The full code for this tutorial is available on Github. Clone the repo and you should be able to build and deploy the Lambda yourself. If you deploy the Lambda yourself, play with different test data. See how the Lambda reports errors or success.

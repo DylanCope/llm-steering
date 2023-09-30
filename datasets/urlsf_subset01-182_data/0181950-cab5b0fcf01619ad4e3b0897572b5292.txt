@@ -1,0 +1,23 @@
+Scientists are a skeptical bunch. We never accept claims without evidence and we spend large parts of our careers trying to show that other scientist's claims are wrong. This self scrutiny is one of our best traits, and it is a major reason why science advances over time.
+
+With this said, it often surprises people that scientists are in such strong agreement about human impacts on the Earth's climate. Many studies, including research by Doran and Zimmerman, Anderegg and colleagues, and more recently by my colleague's team, Cook et al., have shown conclusively that the world's climate scientists agree, to about 97 percent, that humans are significantly impacting the climate. But many people ask, how can they be so sure?
+
+There are a number of reasons why we know humans are causing many of the changes we are seeing today. Among them, is the use of attribution studies, often called "fingerprinting". Scientists look at the patterns of climate change and ask, do they have the fingerprint of natural variation, or humans?
+
+One of the most well-known climate change attribution scientists is Dr. Benjamin Santer. He and his team have developed tools to separate natural climate variations from human-induced changes by using a number of different tools. Their latest work was just published in the Proceedings of the National Academy of Sciences and is titled "Human and Natural Influences on the Changing Thermal Structure of the Atmosphere".
+
+The method is somewhat complex; it involves the comparison of climate observations with the output of climate models. Specifically, they compared satellite observations from two different groups, with output from 20 climate models that participated in the most recent Coupled Model Intercomparison Project (CMIP-5). In the models, they calculated what the Earth would be like without us. The "world without us" scenarios have natural changes to the environment caused by volcanoes, the Sun, and internal climate variability (phenomena like El Niños and La Niñas). They wanted to know whether the "world without us" could have displayed the types of changes to the climate that we are seeing today.
+
+Next, the scientists calculated what the Earth would be like if human emissions had occurred, but natural variations in volcanoes and the Sun had not. These "human only" simulations tell us what we expect the impact to be from greenhouse emissions alone; they give us an estimate of the human "fingerprint".
+
+Finally, the models were used to estimate the amount of internal variability in the climate, without human impacts or forced changes from volcanoes and the sun. This third step quantifies the impact of things like El Niños, La Niñas, and other natural variations.
+
+With these three calculations complete, the scientists then went to the observational record, extracting data from satellite measurements of the Earth's climate. They searched the measurements for the "human only effect" by comparing the measurements to the three sets of simulations. In particular, they looked at the signal-to-noise ratio, which helps tell them which of the three solutions ("world without us", "human only" or "natural variability") fit the observations best.
+
+What did they find? Certain patterns emerge that are consistent with the "human only" scenario. For instance, the heating of the lower atmosphere and cooling of the upper atmosphere, which satellites clearly see, could only happen if human emissions were the culprit. But the study went further; they actually stacked the deck of cards in favor of nature. They used solar and volcanic variations much larger than those that actually occurred since 1979. The strategy was to see if even a worst case "world without us" could be made to look like the current measurements. But, even that didn't work. The human influence still stood out.
+
+Perhaps the best summary is in the abstract of the paper.
+
+"We show that a human-caused latitude/altitude pattern of atmospheric temperature change can be identified with high statistical confidence in satellite data. Results are robust to current uncertainties in models and observations … Our results provide clear evidence for a discernible human influence on the thermal structure of the atmosphere".
+
+In climate science, as with most science, formal proofs are not possible. But I've read hundreds or perhaps thousands of scientific articles in my life, and this is about as convincing as it gets.

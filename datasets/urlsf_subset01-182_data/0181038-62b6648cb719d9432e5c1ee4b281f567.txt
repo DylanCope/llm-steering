@@ -1,0 +1,21 @@
+The OpenBSD project has released the first portable version of LibreSSL, the team's OpenSSL fork – meaning it can be built for operating systems other than OpenBSD.
+
+The LibreSSL project, which aims to clean up the buggy and inscrutable OpenSSL code, was founded about two months ago by a group of OpenBSD developers, so it only makes sense that getting it running on that OS would be their priority.
+
+With the release of LibreSSL 2.0.0 on Friday, however, many of the dependencies on OpenBSD have been removed and the library can now be built for various flavors of Linux, Solaris, OS X, and FreeBSD.
+
+Note that this is still considerably fewer platforms that the original OpenSSL library supported. But OpenSSL's portability approach had become one of extreme overkill, with the code incorporating numerous hacks and workarounds to make it run on such outdated platforms as VMS, OS/2, NetWare, 16-bit Windows, and even DOS.
+
+By comparison, LibreSSL is focusing on Unix-like operating systems for now, although a Windows port may appear in the future.
+
+In a presentation given in May, LibreSSL developer Bob Beck explained that much of the initial work on LibreSSL involved deleting code that only existed to provide support for oddball systems. Between that effort and removing redundant and unused code, the LibreSSL group was able to shrink the size of the OpenSSL codebase by about 23 per cent.
+
+The LibreSSL developers have also worked to get OpenSSL's unorthodox and inconsistent source code into "kernel normal form" (KNF), a standard C coding style used by the OpenBSD project.
+
+In addition, although the goal of the LibreSSL project is to create a secure, drop-in replacement for OpenSSL, the developers have also tried to undo some of the OpenSSL developers' more ill-advised design decisions.
+
+For example, the OpenSSL library relies on a quirky custom memory-management layer that behaves in strange ways, which makes it impossible to audit the code with tools designed to flag memory management problems. The LibreSSL team has been replacing this code with new routines that use memory allocation routines from the standard C library, making it far easier to spot bugs.
+
+The portable version of LibrSSL 2.0.0 is available now from the LibreSSL directory of the various OpenBSD mirror sites around the globe.
+
+Meanwhile, work continues on a parallel effort to clean up the original OpenSSL code base, a project that has been sponsored by the Linux Foundation, among others. The LibreSSL project, on the other hand, says it has yet to receive a stable commitment of funding. ®

@@ -1,0 +1,41 @@
+Punctual trams run quietly along the street out front. It looks like any other office building in Zürich. But inside the nondescript building of SIX Interbank Clearing, a small unit of professionals maintains the list of the world’s currency codes.
+
+Last week in that very same building, I had the honor of presenting the bitcoin cryptocurrency to a gathered audience of various bank officials at an e-commerce conference. And I mentioned that the individual, or committee, that endorses and finalizes XBT as the ISO currency code for bitcoin will earn their spot in history next to Satoshi Nakamoto.
+
+Of course, a new code for a brand new asset class is not comparable to an achievement in financial cryptography and distributed consensus, but it is significant nonetheless because of its impact on the evolution of math-based currencies.
+
+The ISO 4217 standard for currency codes is published by a voluntary, non-governmental organization independent of any national agenda. It operates more or less as a body that approves the three-character currency codes of new countries or regions. In some cases, the code reflects a non-governmental unit such as gold (XAU) and silver (XAG).
+
+Beyond the regulations and government approval that so frequently underpin discussions about the legitimacy of bitcoin, a different type of legitimacy is emerging and it has the ability to out-survive the elected administrations of legal jurisdictions.
+
+This market-based legitimacy holds the key to bitcoin’s success – not the sanctions and official blessings for what’s an appropriate monetary unit. Governments and regulators may come and go, but customs and convention persevere.
+
+Currency code XBT is a sign of this growing market-based influence, at least among the organizations currently depending on such codes. Governments generally follow rather than lead market adoption because it is too difficult to alter the course of momentum.
+
+Uniquely, bitcoin operates as both a value transfer network and a separate unit of account. Therefore, it doesn’t require the services of a third-party intermediary to approve and route transactions. However, as a monetary unit, bitcoin offers great opportunities for those who desire to trade or price in bitcoin and perhaps layering services on top of the protocol.
+
+At the top of the pyramid is SWIFT, a member-owned cooperative that provides the communication platform to connect more than 10,000 banking organizations in 210 countries (16 more countries than the United Nations).
+
+SWIFT’s influence is so pervasive that its ecosystem is a daily barometer of global economic performance such as GDP growth rates, capital flows, and foreign exchange trade volatility.
+
+Once again, bitcoin is a major topic of conversation at Sibos, the annual SWIFT conference being held in Dubai this year.
+
+In prepared remarks yesterday, SWIFT CEO Gottfried Leibbrandt said, “I would not see why we at Swift could not send transactions in bitcoin as a currency.” If they do, they will undoubtedly look to the ISO for the currency code. The Bitcoin Foundation had two scheduled appearances at the SWIFT conference.
+
+Also, the payment networks like VISA, MasterCard, and American Express all rely on the ISO 4217 codes for international transactions and currency conversion. Once the member banks start requesting settlement in bitcoin for certain transactions, the payment networks will look to the ISO for the corresponding currency code.
+
+XE.com, one of the world’s leading providers of Internet foreign exchange tools and services, recently began displaying bitcoin prices in XBT across their data feed. Founded in 1993, the company licenses over 35,000 XE Currency Converters, provides commercial currency data to over 1,000 clients, and serves 18 million unique users per month.
+
+Service provider OANDA also displays bitcoin prices using the currency code XBT. OANDA is a market maker and a trusted source for currency data, serving both individuals and financial institutions. Founded in 1995, it provides access to one of the world’s largest historical, high frequency, filtered currency databases serving over 30 million requests per month.
+
+Not to be outdone, Bloomberg in August announced that they were testing XBT price quotes internally lending more ammunition to the push for formal code adoption.
+
+In the bitcoin trading world, exchange operator Kraken became the first to make the formal switch to XBT this week and other bitcoin exchanges are expected to follow suit.
+
+In the retail foreign exchange trading world, platform market leaders like MetaTrader 4 are witnessing client firms undertaking the bitcoin modifications on their own. Although not expressing trades in XBT yet, the gradual adoption of bitcoin into existing forex platforms signals a huge shift in market trading. So far, only three companies are known to have incorporated bitcoin into the MT4 environment, including AvaTrade, BTC-E, and Bit4X.
+
+XBT may represent the beginning for bitcoin standards and market-based legitimacy, but it is certainly not the end. Next up on the standards agenda is the Unicode symbol for bitcoin with B⃦ or ฿ as the two leading contenders.
+
+Disclaimer: The views expressed in this article are those of the author and do not necessarily represent the views of, and should not be attributed to, CoinDesk.
+
+Follow author on Twitter.

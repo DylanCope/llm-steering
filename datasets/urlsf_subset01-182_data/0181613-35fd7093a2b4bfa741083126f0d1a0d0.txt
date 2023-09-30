@@ -1,0 +1,115 @@
+No matter how cool your interface is, it would be better if there were less of it.
+
+— Alan Cooper, father of visual basic
+
+Managing a public project is not an easy task. Chances are you might incur in common pitfalls that will get you stuck along the way. Whenever progress starts to slow down, maintainers tend to give up and move on to other things. This might happen whenever developers make decisions about their designs that can lead to overly complicated APIs or buggy libraries. Besides that, there are many other aspects maintainers need to carefully take into account that are usually overlooked. Some challenges poised include creating a healthy community around the project, moderating third party changes, keeping a coherent versioning system or managing a public repository, just to name a few.
+
+Creating a new library
+
+It all starts whenever you spot a recurring problem in the code at hand that we have already solved a couple times. As engineers, we are compelled to create a generic solution to avoid the need to rewrite the same algorithms over and over again. Going one step forward, such identified area of improvement might not be unique to you and other engineers might be struggling, if not with the exact same issue, at least with very similar ones. In this scenario, public coding comes to save the day. It will not only solve your problem but also will give other developers insight on how similar issues can be faced. Additionally, by sharing your code, you will unlock a world of possibilities to learn new techniques, idioms, patterns and more.
+
+If you are decided to kick-start a new library, first step is to clearly define what your problem is. Pro-tip: Try to conceptually framework the issue under consideration. Imagine that your library has been already published by one of the best developers you know and you are just using it. What would you expect from it? Would it be fast? Would it be small? Or maybe it would be highly flexible? Prioritize those characteristics and stick to them while developing your library development. This exercise will help you make the right design choices whenever there are multiple options to tackle a given problem (adding a new feature might decrease efficiency or make the library significantly more complicated than originally designed).
+
+On top of everything, you should always aim to follow one single rule:
+
+Simple things must be easy to build, complex things might be hard to use
+
+Adding unneeded complexity to your library or API can ruin your project since it will be harder to use and develop. At some point, even yourself might not be able to find the time to maintain and support your own code.
+
+To wrap things up:
+
+Prioritize your library goals from the beginning.
+
+Aim to code the most basic implementation, ie. the one that solves your problem (and only your problem).
+
+Keep your abstractions down to the minimum.
+
+Case of study
+
+Imagine that we want to create a new Java library to drive RC cars homogeneously from your mobile device. For the sake of usability, the objective is to come with an interface to make it really easy to interact with cars of any model, brand, and year. Our main goals are:
+
+The API should be as easy to use as possible.
+
+The interface should feature only a few possible actions but they should be flexible.
+
+It is important to keep in mind that these characteristics are just an example. Every developer should pick the ones he or she would like to see in their projects. At this point, there is no wrong answer when wondering what are the goals of your library.
+
+Once our priorities are well defined, we can create our first version of our public API:
+
+CARumi v0.0.1
+
+/** * Methods invoked on the instance will operate directly on the physical * car immediately */ public class CARumi { /** * Creates an instance of a CARumi associated to a specific RC car. */ public CARumi(String name) {/*...*/} /** * Accelerates the car in the specified amount expressed as m/s */ public void throttle(int amount) {/*...*/} /** * Slows down the car in the specified amount expressed as m/s */ public void brake(int amount) {/*...*/} /** * Turns the car to the left. The rotation angle is expressed in radians */ public void turnLeft(int angle) {/*...*/} /** * Turns the car to the right. The rotation angle is expressed in radians */ public void turnRight(int angle) {/*...*/} }
+
+This represents the initial interface that we will be iterating in the following sections. Every method incorporates a little comment documenting what that method does. If you have reached this point and think our API can be somehow improved let's jump to the next point.
+
+One good name is worth a thousand lines of code
+
+One of the most remarkable issues that open source developers face is the fact of developers not reading the provided documentation. I believe we should not entirely blame them. Sometimes reading documentation can be really boring. It requires a lot of time and concentration. We are not going to show you how to write good documentation. Instead we'll make sure that your lazy users to do not need it at all.
+
+Our CARumi API has an ambiguity problem. We force our users to do an extra effort to use our library since a lot of the information required to use correctly CARumi is only found within the comments.
+
+We can not hope that all our users will happily spend time reading the entire documentation and then use the library. Some will be eager to play around with the code directly. We can make their lives easier if we make our API as self-documented as possible. Here's how:
+
+CARumi v0.0.5
+
+public class CARumi { public CARumi(String carModel) {/*...*/} public void throttle(int metersPerSecond) {/*...*/} public void brake(int metersPerSecond) {/*...*/} public void turnLeft(int angleInRadians) {/*...*/} public void turnRight(int angleInRadians) {/*...*/} }
+
+I have removed all the comments for two reasons, the first one is to make it easier to read. The second reason is to show you how those users read your API. As you can see we have replaced the name of the parameters to give them a more meaningful name. With this simple step, we have removed a lot of the ambiguity in our code, we now have some of our library prerequisites written directly into the code!
+
+There are still some other problems that we should take into consideration so let's jump directly into the next section.
+
+Watch your visibility
+
+It is really important that our library only exposes what we want it to expose. While implementing each of the features of our library we must always be aware of the visibility of our classes, methods, and attributes. Using an object-oriented programming language like Java, we should also take care of inheritance.
+
+Here is an example of some of the inner details of our class:
+
+public class CARumi { public String carModel; protected CarAdapter adapter; // ... CarAdapter getCarAdapter(String carModel) {/*...*/} }
+
+There are several issues, both, with these attributes and with the method getCarAdapter . Users can actually use them easily even though they are just implementation details. Besides that, there is still a more dangerous issue, we are allowing users to subclass CARumi. That means users have a lot of control over our implementation and can (and probably will) take advantage of it. The main reason we don't want to allow this situation is basically to avoid giving support for unknown flows and usages.
+
+The best option here is to think about the problem in reverse. Instead of working with code that is public by default, we should hide all our classes and methods and make them visible only whenever we are sure that's something we want to support. The new improved API looks like:
+
+public final class CARumi { private String carModel; private CarAdapter adapter; // ... private CarAdapter getCarAdapter(String carModel) {/*...*/} }
+
+Now we are certain we are only exposing the desired functionality. Still our library has some usability issues. Let's go back to our API definition and see how to make our API easier to use and more robust.
+
+External classes are (kind of) evil
+
+We have two different problems with our current implementation:
+
+The first one is that input parameters are too restrictive . We are forcing our users to use exclusively radians and meters per second.
+
+. We are forcing our users to use exclusively radians and meters per second. The second issue is exactly the opposite. Our input parameters are too generic!. There is no way to avoid our users to initialize the CARumi class with a car model we can't handle or to call the throttle method with a value expressed in kilometers per hour.
+
+The first thing we are going to do is to limit which car models are available. In order to do so, we are going to create an enumerate containing all our supported models:
+
+public enum CarModel { DODGE_VIPER_2003_BIZAC, TOYOTA_COROLA_1993_HASBRO, /*...*/ }
+
+Once we solved the initializer, let's move on into the methods to control the car. Our goal is to make these methods generic enough to be able to use alternative speed and rotation units. On the other hand, we also want to make it harder for our users to misuse the library. This can be solve by forcing them to think what units they are using. For our throttle and brake methods we can create a new class representing the power:
+
+public final class Power { private Power(int metersPerSecond) {/*...*/} public static Power inMetersPerSecond(int metersPerSecond) {/*...*/} public static Power inKilometersPerHour(int kilometersPerHour) {/*...*/} public static Power inHorsePower(int horsePower) {/*...*/} }
+
+There are several issues we are solving with one single class. Let's review them one by one:
+
+We are reducing the chance of users sending a wrong parameter by forcing them to specify the speed units.
+
+We are making our API more flexible. Most of our users won't need to convert their speed values to the ones the library supports. However, there is a chance the user is using yet another unit we didn't think about. Even in that scenario, the user has more possibilities to transform such values to something the library understands. We could also implement other Power constructors to support their unit in future releases.
+
+constructors to support their unit in future releases. If we want to support other power values, we could do it while keeping backward compatibility and keeping the CARumi API as simple as it was.
+
+We can move validation out of our main class. This means that we will fail earlier if there is something wrong in the user parameters.
+
+We can do the same with our rotation units to obtain the same benefits:
+
+public final class Rotation { private Rotation(int radians) {/*...*/} public static Rotation inRadians(int radians) {/*...*/} public static Rotation inDegrees(int degrees) {/*...*/} }
+
+After applying these changes our API will look as follows:
+
+CARumi v0.2.0
+
+public final class CARumi { public CARumi(CarModel carModel) {/*...*/} public void throttle(Power power) {/*...*/} public void brake(Power power) {/*...*/} public void turnLeft(Rotation rotation) {/*...*/} public void turnRight(Rotation rotation) {/*...*/} }
+
+Upon carefully following the above guidelines, we should be pretty satisfied with our resulting API. It's flexible and dead easy to use. Best of all, we could even start using it without reading a single line of documentation!
+
+In the next blog posts part this series, we will add a new feature to our library and see other problems we may find along the way of programming public APIs. We will also cover other hot topics that are not directly related to programming but are hugely important when developing open source projects.

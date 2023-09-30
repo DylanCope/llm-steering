@@ -1,0 +1,95 @@
+Prosthetics are life-changing, but they are also far from perfect. They can be painful to wear for long periods, require expensive, custom creation and result in their wearers needing ongoing therapy. They can also leave a lot lacking in the aesthetics department, unless you’ve got the budget for multiple high-end versions.
+
+However, a new prosthetics technology could put an end to all that, and although it is early in development, it could truly transform the prosthetics industry for good.
+
+The technology, the brainchild of Oliver Armitage, a final year biomaterials and biomaterial attachments PhD student in the University of Cambridge’s engineering department, is not a specific prosthetic, but a universal attachment system not unlike a computer’s USB.
+
+On the outside any prosthetic can connect to our device via a standard plug-and-play connector
+
+Replacing an amputee’s arm or leg stump, the technology is permanently integrated into the bone – known as being osseointegrated – providing a universal connector for any and all prosthetics to attach to. This not only improves the wearer’s comfort, as it avoids the current situation where the skin and flesh on an amputee’s stump is squashed between their bone and prosthetic, but means that prosthetics can be mass produced and sold by retailers, allowing amputees to build a collection for different uses, from sports to black tie.
+
+“On the outside any prosthetic can connect to our device via a standard plug-and-play connector,” explained Armitage, who is co-founder and director of the newly-formed Cambridge Bio-Augmentation Systems, which is developing the technology. “On the outside what we’re going to release is an open, public, free-to-develop-for standardized interface, sort of a two-part male and female connector.”
+
+What’s more, the technology, which will be available through surgery to both new amputees and those with existing stump-and-socket set-ups, will support neural control of prosthetics, something that is by no means universal in current prosthetics technology.
+
+“The device also includes the standard neural connection and provides a number of channels of neural data to control the prosthetic,” said Armitage.
+
+Truly aesthetic prosthetics
+
+Perhaps one of the most exciting aspects of this technology is its potential to widen the range of prosthetics on offer.
+
+“Anyone can build a prosthetic for this device or can just buy their new prosthetic online,” said Armitage. “It means that really we can take the delivery of prosthetics out of the healthcare and hospital setting, where we need all this therapy and it needs to be fitted by a specialist, to a position where prosthetics can really be sold as a retail model, because technologically they can be attached very easily and hence and hospitals aren’t required to be involved in that process.”
+
+In particular, this could spark a prosthetics maker culture, where amputees can design and make their own prosthetics for special occasions, cosplay or even to match outfits.
+
+I’m aiming for a world in which someone like Nike or Adidas is like ‘here’s the one to play football with’
+
+“The thing that really excites me about it is that by having an open standard development platform that anyone can use, you enable prosthetic creativity,” he added. “So yes, you allow all of the current Ottobock and Össur prosthetics to be osseointegrated immediately, and that’s fantastic, it means the majority of patients are going to have better use out of their prosthetics, but what it also means that a guy at home in a shed can decide he wants to make something because it fits exactly his needs.
+
+“It doesn’t have to look like an arm; it can be something that looks like an arm, it can be something completely separate to an arm, as long as it fulfils the role that he wants from it. And then he can have multiple, because they’re clip-on, clip-off he can change them for different aspects if the patient so desires.”
+
+This could also result in major retailers designing prosthetics as part of their own fashion lines.
+
+“It opens the market not just to lone wolfs – people who have a great idea and go ‘I’m going to try and make one of these’ – but to aesthetic and sportswear manufacturers. I’m aiming for a world in which someone like Nike or Adidas is like ‘here’s the one to play football with’.”
+
+Cutting the cost of prosthetics
+
+While there is a clear appeal to amputees, Cambridge Bio-Augmentation Systems needs to also make their proposition appealing to healthcare providers and prosthetics manufacturers if their universal system is to become successful.
+
+The current socket design used for prosthetics is very expensive because each socket has to moulded to the intended user’s stump, but Armitage does not anticipate that changing the connection standard will result in a loss for manufacturers.
+
+“The overall cost to prosthetics can come down without us ever having to impinge on the prosthetics manufacturer’s bottom line, because the cost of a prosthetic is built into the socket and the device,” he said. “The manufacturer who is making the device, their device is going to be the same price, but the total cost the patient sees has gone down.”
+
+This approach also means lower costs to healthcare providers, a selling point that is likely to be one of the biggest divers of its adoption.
+
+“For a patient it’s a technological argument, for a hospital or a healthcare provider, there’s still the initial surgery, but then there’s a massively reduced cost in the follow-on care of the amputee,” he said.
+
+The system will be installed in a single surgery, replacing the current surgery to form the amputee’s stump, but would completely do-away with the long-term care that is required to treat stump damage and reshaping that is caused by the current socket system.
+
+“All of that follow-on care that currently exists around caring for the stump is incurred by the healthcare provider, so our value proposition to the healthcare provider is the reduced follow-on and lifetime costs of amputee care as well as the prosthetic they’re buying for the patient being cheaper.“
+
+Boosting amputee comfort
+
+Of course for patients the biggest draw will undoubtedly be the added comfort that this system provides. At present, prosthetics see a significant drop-off over time due to the discomfort they can cause, but Armitage believes their osseointegrated system could put an end to this.
+
+“There are a lot of amputees who choose not to wear a lot of prosthetics at the moment, but to me when I’ve technologically got there is when I see an amputee get home and decide not to take their prosthetic off,” he said.
+
+“Right now I get home in a shirt and trousers and I instantly change into sweats; amputees get home and take their prosthetic off and go ‘oh great, I don’t have to wear that anymore’ but I’m aiming for a scenario where it’s not actually desirable to do that.”
+
+There are a lot of amputees who choose not to wear a lot of prosthetics at the moment
+
+And what’s more, trials results from other non-neural osseointegrated devices suggest that this type of connection can indeed boost comfort.
+
+“There’s a couple of osseointegrated devices around now – they’re not aiming for the same level of technological features as we are – but there’s been some published literature surrounding how amputees with osseointegrated devices feel, and they report a much higher sense of self around their prosthetic,” he said.
+
+“They see it as much more part of them rather than as an assistive device, and that is because it is starting to be integrated and is performing higher function. Especially for upper leg amputees – they find certain actions like sitting much more comfortable.”
+
+Paralympian benefits
+
+This improvement in comfort is likely to be particularly appealing to amputee athletes, such as paralympians, as wear on the stump is one of the biggest roadblocks to effective training.
+
+“It’s not their cardiology and their muscular systems, it’s the sores and the pain at the end of their stumps,” said Armitage.
+
+“They have to wait for those to heal as they start to wear, because effectively you’re putting biomechanical load through a load of skin. So if you think about it, you’ve got the prosthetic, which is effectively functioning like your bone, it’s taking the load, and then you’ve got a lump of soft tissue, with skin on it, and then bone again.
+
+“So the load has to go through this lump of soft tissue, which isn’t in any way designed to take it.”
+
+Timescale to reality
+
+As exciting as the technology is, there is some way to go before it will be available to amputees.
+
+Although Armitage has been working on the technology in some form for the last four years, Cambridge Bio-Augmentation Systems was only incorporated in early May this year, and will be filing patents on the inside of the device within the next few months.
+
+However, the company has already garnered considerable attention and support from startup accelerators despite its early stage.
+
+“We’re part of MassChallenge accelerator, but also we’ve received some pre-seed funding from the Founder.org accelerator, which is based out of California, and they’re run by Michael Baum, a very sucessful Silicon Valley entrepreneur,” said Armitage.
+
+“He, through Founder.org, has given us some pre-seed money, and then we’re in a position where over the next eight months to a year we’re ramping up to be in a position to start our first animal trials, to start the medical device approval process.”
+
+Getting a medical device approved for human use can be a lengthy process, requiring multiple steps to prove its safety and effectiveness. However, Armitage is confident of gaining full approval within the decade, and getting the device implanted in humans long before that.
+
+“If we do well and we plan our regulatory strategy well and we get through in the shortest time it could be something like five or six years from now, in the worst case it could be eight to ten,” he said.
+
+“It will start being used in human patients in about three years, that’s in the initial very small, probably about ten people, clinical trials and then probably a year to two years after that you would start an open clinical trial where a much wider group can have it, and people can at that point opt in and say ‘yeah, I’d quite like one’.
+
+“ So the first point at which people could really say ‘I would like one of these’ would be somewhere around five years from now, but they’d have to go to a specific hospital that was conducting the trial, and then maybe around two years after that it would hit the wider market.”

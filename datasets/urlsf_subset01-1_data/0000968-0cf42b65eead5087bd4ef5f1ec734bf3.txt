@@ -1,0 +1,57 @@
+Ghost Psychology
+
+Pacman contents
+
+Ghost personalities
+
+Ghost modes
+
+Evidence of forward thinking
+
+ghost personalities
+
+I don't have any problem with any of the ghosts. Remember, I'm perfect.
+
+-- Billy Mitchell, world Pac-Man champion
+
+Shadow / Blinky
+
+Blinky begins each level moving at the same speed as all of the other ghosts, but after you've eaten a certain number of dots, he begins to speed up. It is customary to refer to this change as the point when he takes on the identity of 'Cruise Elroy'. Blinky becomes Cruise Elroy earlier and earlier as you progress to higher and higher levels as illustrated in the following table.
+
+LEVEL ACCELERATES WHEN DOTS REMAINING IS EQUAL TO... 1 20 2 30 3 40 4 40 5 40 6 50 7 50 8 50 9 60 10 60 11+ unknown
+
+Unlike the other ghosts, Blinky will also tend to follow close on your tail even when you turn and will often still chase you even in scatter mode.
+
+Speedy / Pinky
+
+Pinky, Inky and Clyde always move at the same speed relative to one another so the name Speedy is plainly misleading. However, the name may have been earned by the fact that Pinky is almost always the first of the ghosts to reverse direction when going in and out of scatter mode.
+
+Pinky seems to have a tendency to go around blocks in an anticlockwise direction unlike Blinky and Clyde who seem to prefer going clockwise. This means that if Blinky and Pinky reach the opposite side of a block to where you are, they'll come at you from opposite sides of it. They can often trap you like this so be careful of this deadly duo.
+
+Bashful / Inky
+
+Inky is dangerous because he's unpredictable. Given the same choices, he will often take different turns at different times. There might be rhyme and reason to his behaviour, but we haven't recognised it yet. One theory is that Inky's behaviour depends on his proximity to Blinky almost as if he is too afraid to act on his own (like some people who never go to a cinema by themselves). Another unconfirmed theory about Inky is that he will often turn off if Pac-Man charges him. These theories might have emerged as a result Inky's nickname (Bashful), the same kind of reasoning that has lead many authorities to believe erroneously that Pinky (aka Speedy) is actually faster than the other ghosts. For this reason, we have decided to reserve our judgement until further evidence can be obtained.
+
+Pokey / Clyde
+
+Clyde is either short-sighted or stupid. He will often turn off rather than approach you. His heart doesn't seem to be in it at all. A consequence of Clyde's unwillingness to take part is that it's often hard to round all of the ghosts up into a single cluster which is nice to do just before eating a power pill.
+
+ghost modes
+
+I felt it would be too stressful for a human being like Pac Man to be continually surrounded and hunted down. So I created the monsters' invasions to come in waves. They'd attack and then they'd retreat. As time went by they would regroup, attack, and disperse again. It seemed more natural than having constant attack.
+
+-- Toru Iwatani, creator of Pac-Man
+
+Every now and then all of the ghosts will simultaneously cease their pursuit of Pac-Man and head for their home corners. We call this scatter mode and contrast it with the ghosts' usual attack mode. Scatter mode means the ghosts will leave you alone for a while so it's a good opportunity to clean up those awkward areas of the screen. But be careful, the ghosts don't stay in scatter mode for long and will only enter it a maximum of four times on the one life and level (i.e. the count resets after losing a life or when a level is completed). It is particularly important to take advantage of scatters on levels where the ghosts don't turn blue at all after eating power pills.
+
+The ghosts in their home corners
+
+The moments when the ghosts change in and out of scatter mode are determined by a timer, not by the number of dots eaten and are marked by the ghosts all simultaneously reversing direction. At the beginning of a level or after losing a life, the ghosts emerge from the ghost-hut already in scatter mode. This and the second scatter are both 7 seconds long, but the third and fourth scatters are only 5 seconds each. The attack waves between scatter periods last for 20 seconds each. The mode sequence is summarised in the following table.
+
+MODE DURATION IN SECONDS scatter 7 attack 20 scatter 7 attack 20 scatter 5 attack 20 scatter 5 attack forever
+
+Be careful of the red ghost because he will sometimes still pursue you while in scatter mode. This may be related to the Cruise Elroy phenomenon.
+
+When Pac-Man eats a power pill, the ghosts enter blue mode. During this period, the scatter timer is paused. When ghosts leave blue mode, they return to whatever mode they were in when the power pill was eaten and the timer count continues. The ghosts move more slowly while in blue mode and decisions are not made in the same way they are in either scatter or attack modes. Note that all mode changes are marked by the ghosts reversing direction with the exception of when the ghosts leave blue mode. Note also that the ghosts don't actually all reverse at exactly the same time, but within a few time steps of one another.
+
+evidence of forward thinking

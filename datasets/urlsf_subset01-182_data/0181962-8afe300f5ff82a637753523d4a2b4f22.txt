@@ -1,0 +1,73 @@
+read
+
+The last article walked through the key generation process and all of the traps that will end in an insecure key. Even after that, though, a new key pair doesn't do you any good whatsoever if you can't get it to the people you want to communicate with. As the saying goes, "encryption is easy; key distribution is hard."
+
+There are two main approaches to key distribution: the Certificate Authority model, and the Web of Trust model. Both have slight variations and extensions as they are implemented in the "real world", but they boil down to roughly the same fundamentals.
+
+Certificate Authorities
+
+The Certificate Authority (or CA) model is the basis for the majority of encryption used on the internet today. From corporate intranets to securing your bank's website, Certificate Authorities is the method of choice for making sure that the key you are using to talk to someone actually belongs to the person you want to reach. SSL/TLS, which secures (essentially) all encrypted HTTP traffic in the world, mandates the use of the CA model.
+
+The Certificate Authority model is very simple. Baked into your web browsers and your operating systems is a list of companies which you trust to validate identities on the internet, and so-called "root certificates" for those authorities. You might be surprised to know just how many of them there are, and with names that you probably have never even heard of. At the time of this writing, there are 180 root certificates that are distributed by the Mozilla Foundation with their Firefox browser, and other browsers and operating systems will have similarly large counts, though some of the specifics may vary slightly.
+
+The complete list has many names that are recognizable - the governments of France, Japan, Spain, Taiwan, The Netherlands, and Turkey, for instance - as well as many names that aren't nearly so familiar. Did you know that companies like Atos, Buypass, Camerfirma, Izenpe, and WISeKey can all sign certificates that will be instantly trusted by your computer? This is not to say that any of these companies is necessarily untrustworthy - but it also points out the fundamental flaw of Certificate Authorities: you need to have at least one agency that you trust, fundamentally, to authorize all the others. - and you need it at the very beginning.
+
+If it's not included in your browser, or in your operating system, you have no way of determining if any list of certificate authorities that you retrieve in the future is authentic. These CAs, well-meaning as they may be, are a target for attack. Hackers have compromised them in the past, issuing fake certificates which were used to impersonate Google, among other things. It is commonly believed that the United States Government stole certificates for use in distributing targeted malware to disrupt the Iranian nuclear program. CAs have also made mistakes, issuing certificates with more authority than they were intended to have. These CAs are large targets precisely because of the pedestal on which we put them.
+
+Slimming down the list of CAs is certainly a good idea in theory, but in practice it is very difficult. All the certificates issued by those CAs -- and all the certificates issued by their delegates -- need to be reissued. Nor does it answer the solve the harder question: how do we choose who to trust?
+
+Web of Trust
+
+Many people would draw a parallel between the web of trust and communism: great in theory, but terrible in practice. The web of trust takes a decidedly more personal approach to solving the problem of key distribution - or, as today's Silicon Valley VC-hotbed would say if it was reinvented today, "a social network for key distribution."
+
+Whereas every person who uses a particular version of an operating system or browser works from the same, universal set of CAs, no two people have the same view of the web of trust, even if they have an overlapping layout.
+
+The web of trust, most commonly known as the PGP web of trust, is built on the concept of "nearness". Each person starts out trusting no one but themselves, and their own keys. Through a process of in-person verification of stranger's keys, potentially at a ceremony the like of which would once have resulted in a burning at the stake due to the cryptic incantations, the goal is to establish a link of verified keys and trusted parties between you and anyone you would want to communicate with. The hope is, with enough people that you have a trust relationship with, you can reach anyone that you might want to talk to through a minimum of hops.
+
+If you have read that paragraph a couple of times and still have no idea what the fuck it means, have no fear: that's a quite common for first exposure to the web of trust. Unlike the Certificate Authority heirarchical architecture, the web of trust is a distributed mesh of relationships, and it is far from simple.
+
+There are two fundamental operations in the web of trust: verifying (or attesting to) a key and assigning trust to an identity. Let's start with the more common one - verifying a key.
+
+Key Signing
+
+You and a friend (named Alice, by convention) have both managed to generate a secure key and you now want to be able to communicate securely. Key exchange is relatively simple if you can meet in person - but how can you leverage people who you meet in person to talk to people that you can't?
+
+You and Alice meet in person and exchange a copy of each other's public keys. This can be done by giving each other a USB stick with the copy of the public key on it, or more commonly, giving each other a piece of paper with a relatively short "fingerprint" of the key that you can use to retrieve the key from a server while trusting that it hasn't been altered. If you don't know Alice that well, you might also examine a few copies of her identification, to ensure she really is the person she says she is.
+
+When you go home that night, you "sign" a particularly formed statement that PGP compatible systems know how to read which states that you believe that Alice's key, with the fingerprint that you received from her earlier, actually belongs to her. You then send this attestation to Alice for her to distribute publically. Once she does so, anyone who retrieves a copy of her key will also receive your attestation.
+
+Leveraging Trust
+
+You go around to all of your other friends and exchange keys with each other. At the end of the day, you build up a nice network of people that you have signed keys from. How does this help you?
+
+While you have signed a bunch of different people's keys, you still don't have a mechanism to reach anyone whose keys that you haven't met yourself. However, there's a simple thing you can do to extend your network. As well as attesting to one of your friend's keys, you can also tell your PGP system that you trust this particular friend to verify identities on your behalf. You can even publish this statement of trust publicly. When you do so, other people who trust you can leverage your verifications to reach people that you have met and they haven't, and vice-versa.
+
+Great! Everyone publishes their trusts, everyone publishes their verifications, and we can reach everyone that we want to. This is great! No single point of failure to compromise, leveraging real-world relationships. How social! How Web 2.0!
+
+Getting Stuck in the Web
+
+So, that's it. The web of trust is great. Problem solved. Right? ... Right?
+
+Not quite. The largest network of PGP servers, SKS Keyservers, has around four million keys in its database [1]. Of those four million, the largest group of keys for which there is a validation path to every other key in that group is less than 60,000 [2]. That means, only 1.5% of keys on the key server can actually be validated through the largest web of trust (called the "strong set"). All of the other 98.5% of keys are disconnected - either signed by no one, or signed by a small group of people that has no connection to the larger group.
+
+This problem is called the "small world" problem, and it is the giant hole in the web of trust. The web of trust depends on a large interconnected graph, with published trust levels, in order to "walk" the path to the key of someone you want to talk to. In practice, even if you manage to get into that 1.5% of the strong set, you are probably too "far away" on the graph to use it all that effectively.
+
+This is a bit confusing, so let's work through a real-world example. Let's say I want to send an email to Linus. I have a key in the strong set, and so does he, so I should be able to leverage that web of trust to retrieve a key that I can be confident he actually controls, right?
+
+Well... sort of. No one that I trust fully to validate keys on my behalf has signed Linus' key. People who I trust fully have signed keys that have signed keys that have signed Linus' key, but nothing direct. When I ask GPG what the trust level of Linus' key is, it tosses up its hands:
+
+pub 2048R/0x79BE3E4300411886 2011-09-20 Key fingerprint = ABAF 11C6 5A29 70B1 30AB E3C4 79BE 3E43 0041 1886 uid [ unknown] Linus Torvalds <[email protected]> sub 2048R/0x88BCE80F012F54CA 2011-09-20
+
+Digging into this further, GPG (by default) uses the following pattern to dictate how trusted a key is:
+
+A key is trusted if it has been signed by you, or signed by someone you trust fully; OR A key is trusted if it has been signed by three people who you marginally trust; AND The path between the key and you is 5 steps or shorter.
+
+What does this mean for me emailing Linus? Well, #1 isn't valid - I haven't signed Linus' key, nor has anyone I fully trust signed it. No one that I marginally trust has signed his key.
+
+One technique that is (somewhat controversially) used is the idea of transitive trust. Most frequently, this is stated that trust is transitive at one level less than the parent. That means, if I trust someone fully, and they sign someone's key (let's say, Bob), then I marginally trust Bob to sign keys on my behalf. Trust, in reality, doesn't really work this way - but let's pretend for a moment. Does that help me talk to Linus?
+
+It gets me closer, but not close enough. I have three different paths of length three between Linus and myself. Of those three paths, two of them start with someone who I trust fully, and one of them starts with someone I trust marginally. This means that two of the people who have signed Linus' key get assigned the ability to produce marginally trusted signatures, and one has an untrusted signature. Two marginal signatures isn't enough to satisfy rule #2, so the trust level remains unknown, and it's not "safe" for me to email Linus and have confidence that the key really belongs to him.
+
+Now what?
+
+Well, shit. We covered the two most common models for key distribution, and we have a long list of why they both suck. Now what? In the next article, we will cover some of the less common approaches to key distribution and see if any of those look better.

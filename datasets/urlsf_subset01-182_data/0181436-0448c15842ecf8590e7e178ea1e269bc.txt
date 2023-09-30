@@ -1,0 +1,33 @@
+Lattice 3.0: Functional Programming in Rust
+
+Andrew Lucker Blocked Unblock Follow Following Jun 5, 2017
+
+… and there were many migraines throughout the kingdom.
+
+Our FRP windowing library “Lattice” is finally stabilizing on APIs. The dust is settling and the result is surprisingly clean. There were many times in the development of this library where this outcome was doubtful. For an example of what this library allows us to do, see the following code:
+
+v.append(Text::new("assets/Macondo-Regular.ttf", "paragraph justified paragraph justified paragraph justified paragraph justified paragraph justified paragraph justified paragraph justified paragraph justified paragraph justified paragraph justified paragraph justified paragraph justified paragraph justified").color([0.4, 0.4, 1.0, 1.0]).shadow([-3,-3,3,3],[1.0,1.0,1.0,1.0]).scale(2.0, "em").width(25.0, "%").align("justify").translate_x(150.0, "px").translate_y(150.0, "px"));
+
+This code renders a long paragraph with justified text in a custom font and a host of other display properties. If you squint you might even be able to see the ghost of HTML/CSS. This type of code is coming to native thanks to a host of technological advancements. Rust is at the forefront of this movement towards further empowering the programmer while preventing much of the risk that comes with such powerful abstractions.
+
+The real exciting parts start though with the FRP style. ReactJS for example is an FRP inspired framework, on native we do not have as powerful of abstractions. The web has nice abstractions at the cost of a huge complicated browser requirement. What is happening currently across native programming communities is a gradual unbundling of web front-end candy into smaller irreducible native elements.
+
+I am sponsoring Rust right now, but the same could be said about Swift for Mac and iOS. These languages are starting to pull in much of the spirit of the Functional Programming community and channel that energy into composable code. If there is one concept to takeaway from Functional, for me that would be composability. Being able to reuse concepts without boilerplate is the hallmark of mathematical reductionist philosophy.
+
+To break down the above example, why FRP is such a breakthrough in interface concepts, the sanitization and declarative semantics are key. Take for example the same code in the dominant procedural style.
+
+Vec<Glyphs> glyphs = font.render_glyphs("paragraph justified paragraph justified", 2.0*EM)
+
+apply_color(glyphs, [0.4, 0.4, 1.0, 1.0]);
+
+apply_shadow(glyphs, [-3,-3,3,3],[1.0,1.0,1.0,1.0]);
+
+textwrap_justify(glyphs, 25.0, "%");
+
+translate_x(glyphs, 150.0, "px");
+
+translate_y(glyphs, 150.0, "px");
+
+There are a couple of issues with this code. First, where is data coming from and where is it going. We can take it for granted that there is some global state being manipulated by all these elements. That alone basically rules out any clean threaded code. Second, there is an explosion of complexity in these methods. Do they work together well, or are there mutual incompatibilities. These are the things that are hard to test, even if they get integrated into the graphics platform.
+
+This exploding complexity is the reason that graphics platforms are such timesinks and headaches for anyone that works with them. It’s not a programmer issue, it’s a language issue. Finally we have tools to address these design limitations, and the future is bright. Here is to more better faster UIs.

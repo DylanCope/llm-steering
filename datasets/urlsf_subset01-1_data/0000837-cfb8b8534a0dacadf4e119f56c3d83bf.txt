@@ -1,0 +1,89 @@
+When Canadian government officials visited St. Petersburg last year for the G20, they swapped their email addresses with temporary ones and left their Canadian cellphones behind.
+
+The U.S. State Department's bureau of diplomatic security, meanwhile, recently warned that visitors to Russia should have "no expectation of privacy," that all means of communication should be "assumed to be monitored."
+
+Since the Cold War, Russia's reputation as an intrusive state has been well established. But as the Sochi Olympic Games approach, the host country appears to be aiming for surveillance gold.
+
+In fact, security experts are warning athletes, journalists, spectators and government officials that the coming Olympics will see the most invasive security measures the Games have ever seen.
+
+The warnings are based partly on the work of two Russian investigative journalists who uncovered the plan to significantly soup up existing surveillance technology in Sochi in time for the arrival of thousands of foreigners.
+
+With the support of the University of Toronto's Citizen Lab at the Munk school of global affairs, an academic group that looks at technology, human rights and security, Andrei Soldatov and Irina Borogan made their discovery using open source documents relating to preparations for the Games.
+
+They found, for example, that a Russian company promising ultra-fast, free WiFi in Sochi is also installing DPI or Deep Packet Inspection technology.
+
+DPI has legitimate uses, but in this case it is apparently aimed at allowing authorities to filter email for key words and track who's talking to whom, as well as what they're saying.
+
+Journalists Andrei Soldatov and Irina Borogan: Unprecedented surveillance for an Olympic Games? (Nahlah Ayed / CBC)
+
+In short, Soldatov explained to CBC News, every phone call, every email, every social media message in Sochi will be accessible, traceable by Russia's Federal Security Service — the FSB — the organization in charge of securing the Olympics.
+
+"I think it's very intrusive," Soldatov said in an interview in Moscow. "Everyone should expect that all their communications, all the technical devices like smart phones, laptops, will be completely transparent."
+
+Force of habit
+
+Critics say the FSB is emboldened to take such extraordinary measures by the first Russian president ever to have once been an active agent of the KGB (the FSB's precursor) — and for whom the Sochi Games is a deeply personal project.
+
+Vladimir Putin "just decided that his favourite security service, the FSB, should be given all powers it needs to secure the Olympics, and to make it perfect," Soldatov says.
+
+A public decree last month also allows for all data collected in Sochi to be stored for three years.
+
+"It's actually an excellent opportunity for counter-intelligence because you might gather … personal data of so many important people," Soldatov suggests.
+
+The FSB, an impenetrable organization with little oversight, is run out of Lubyanka, the old KGB headquarters, an imposing building in the heart of Moscow that is currently under construction and shrouded in scaffolding.
+
+FSB officials believe the elevated threat of terrorism warrants tough measures, but at their only news conference on the subject so far, in October, they promised those measures would be "invisible."
+
+These security measures range from the deployment of a whole brigade of elite special forces to the unprecedented requirement of background checks for spectators.
+
+But it's the extent of all the surveillance the FSB is planning that has deepened much of the disquiet, at home and abroad, over the coming games.
+
+A Russian soldier patrols the air defence missile military base stationed near the Olympic park at the Black Sea resort city of Sochi in November. (Yuri Kadobnov / AFP/Getty Images)
+
+For Russia, surveillance measures may be something of a force of habit. Not only was surveillance a key pillar of the Communist regime in the old Soviet Union, but it is also apparently still seen in some Russian circles as having been the key to a "perfect" 1980 Moscow Olympics.
+
+There appears to be the temptation, says Soldatov, to try to replicate the 1980 experience for Sochi 2014.
+
+In 1980, "it was mostly about how to deal with hostile foreign forces," he says. "And I think this kind of mentality is still alive."
+
+The obvious difference today, of course, is the technology now at their disposal.
+
+In years past, the KGB would have needed teams of people to follow an individual, now a smartphone is all they need.
+
+Drones overhead
+
+There is much more to Sochi's ultra-modern security plan — one that some security analysts believe could set a new standard in invasive surveillance and large-event security for years to come.
+
+At Sochi's central command centre, officials monitor a wall of smart cameras on the streets — thousands installed especially for the Olympics.
+
+"This whole territory is being controlled," says Eduard Lutovinov, deputy director of the Sochi command centre. "We think we are very prepared security-wise. The threat is no bigger now than in any other city that ever hosted the Olympics."
+
+Recent events, of course, suggest otherwise. A series of suicide bombings in Volgograd have rattled Russians, and follow a vow by Chechen Islamist militant Doku Umarov to disrupt what he calls the "Satanic games."
+
+A Russian police officer stands on a street in Sochi in December. Security was stepped up in the wake of two recent terror incidents. (Reuters)
+
+Sochi is adjacent to the often-restive North Caucasus, roiled by repression and a constant insurgency.
+
+So Sochi is sealed tight, its streets a gauntlet of checkpoints under the vigilant watch of at least 70,000 police and soldiers. As well, an entire brigade of elite special forces are deployed in the mountains nearby.
+
+On top of that, Russia's Olympic arsenal will include anti-ballistic missiles, an underwater sonar system, even underwater machine guns.
+
+Another part of the arsenal are drones that will be, for the first time, monitoring the Games from above, as well as robotic bomb detectors that will prowl the Olympic grounds below.
+
+But if fighting terrorism was the chief motivation, then the approach is suspect, argues Soldatov. Some of the planned measures are "completely useless to prevent terrorist attacks," he says.
+
+"You can't use drones to prevent suicide bombers … But they're very good things to prevent [protests] because it might spot people trying to gather."
+
+Russia recently agreed to allow an official protest zone at Sochi. But the overall aim, Soldatov suggests, is to stop any criticism or protest that may embarrass Putin or his pet project as the world watches.
+
+Sochi activists have already reported being harassed by authorities as a result of their activism, and what appears to be surveillance of their communications.
+
+Sochi activist Vladimir Kimaev: 'You can hear they are listening in.' (Corinne Seminoff/CBC)
+
+Sochi activist Vladimir Kimaev, who has been writing about the environmental impact of the coming Games, says his house has been raided twice, and that officials somehow always know local plans for any protest.
+
+"For example, here's my phone and you can hear they're listening in, there's an echo," he says. "I can hear when they start recording, they are absolutely eavesdropping on me."
+
+Human Rights Watch says it has documented similar cases since 2008.
+
+The FSB declined repeated requests for an interview. The International Olympic Committee also would not comment, saying security related queries were a matter for local authorities.

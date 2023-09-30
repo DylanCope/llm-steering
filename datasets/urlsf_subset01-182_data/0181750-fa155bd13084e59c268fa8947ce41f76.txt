@@ -1,0 +1,49 @@
+Google
+
+SAN FRANCISCO--Google Wallet is growing up and it's not just about paying for stuff by tapping your phone anymore.
+
+On Wednesday, the company made three announcements at its Google I/O developer conference with regard to Google Wallet that take the service well beyond specialized tap and go technology to make Google Wallet more usable on the Web.
+
+"We are not pulling away from NFC," Peter Hazlehurst, director of product management for Google Wallet said in an interview. "We are simply making a much richer Wallet experience. There are still places where NFC can't be used. And not every device has it yet."
+
+Still, Hazlehurst said he thinks that NFC's time will come. And in the future as the technology proliferates, it will become more useful. In the meantime, there are a lot of things that Google can do to make the online buying experience, whether it's from a mobile device or from a desktop or laptop computer, easier and more streamlined.
+
+Payments via Gmail
+
+The first new feature is the ability to send money to and from Google Wallet via e-mail. Google also issued APIs, or application programming interfaces, that developers can use to access Google Wallet and make buying stuff within Android apps and on the Web easier for consumers by stream-lining the process and allowing customers to avoid re-entering payment information. And finally, Google has created APIs that developers can use to allow merchants to add easy access to loyalty cards and programs.
+
+The e-mail payment functionality is probably the most interesting of the three announcements since it finally makes it as easy to make a digital payment to a friend or anyone else as it is to attach a photo or document in an e-mail.
+
+You can even send money to people who aren't using Gmail. And it's free to send money if your bank account is linked to your Google Wallet or by using a Google Wallet prepaid account. Service fees apply for sending a money using a Google Wallet linked credit card or debit card.
+
+Here's how it works. To send money in Gmail, hover over the attachment paperclip, click the "$" icon to attach money to your message, enter the amount you wish to send, and press send.
+
+Sending money via Gmail is currently available only on the desktop. To send money via a phone you can go to the Google Wallet mobile site at wallet.google.com. In order to send or receive money, you will need to set up a Google Wallet account. And the e-mail money transfers only work for money sent within the U.S.
+
+Google
+
+Google's Hazlehurst said that consumers shouldn't worry about security issues when sending money via Gmail. The company offers the Google Wallet Purchase Protection plan, which covers users 100 percent against eligible unauthorized payments. And he said that no actual account information is transferred via e-mail.
+
+The feature will be rolling out over the coming months throughout the U.S. to users over the age of 18. You can also get access to the "$" attachment icon if a friend has the feature and sends money to you.
+
+Instant Buy
+
+Google also announced the new Instant Buy API for developers to help streamline the online buying experience. The new API will allow app developers and Web developers to use Google+ single-sign on technology to provide all the user and credit card information necessary when buying physical goods within an app or online.
+
+In a nutshell, consumers can purchase things from an app or online store with just a couple of clicks. The company and one of its initial Instant Buy partners, Priceline, showed off how easy this process can be during a demonstration at a Google developer session here today.
+
+The way to think of it is a more streamlined PayPal button for Google users. Google has already signed up several partners including Airbnb, Booking.com, Uber, and Expedia, who will all integrate the functionality into their apps.
+
+Google claims that the new functionality not only makes it easier for consumers to complete their purchases, but it's also more secure. How? The merchants themselves never get access to the full the full credit card number, which means that sensitive account information isn't stored on multiple merchant Websites.
+
+Google
+
+Google Wallet Objects API
+
+The company also announced it will allow Google Wallet users to include any loyalty card in their Google Wallet. Previous implementations of Google Wallet have been limited in the loyalty cards that could be added to the digital wallet. Now consumers can add loyalty cards and other items into the wallet, including tickets.
+
+The capability is similar to what Apple has introduced as part of its Passbook capability. But Google's Hazlehurst says it goes a bit further.
+
+Google is also offering an API for developers to make signing up for those loyalty cards easier. It will also give brands that use the API to develop functionality into their mobile apps the ability to leverage other Google services to make redeeming offers or pushing offers to consumers easier. Specifically, this might mean using geofencing technology to know when a customer is in the vicinity and sending him a special offer.
+
+Google is already working with several brands, including Alaska Airlines, The Body Shop, BJs Restaurants, Marriott Rewards, and RetailMeNot.

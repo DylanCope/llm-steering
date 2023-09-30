@@ -1,0 +1,1 @@
+docker build -t drc/act-add:latest ./docker

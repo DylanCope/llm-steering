@@ -1,0 +1,51 @@
+Riding your bike to work is a good way to reduce your carbon footprint. But how green is the place you ride your bike to?
+
+Buildings use an enormous amount of energy. According to a Department of Energy report, they accounted for 39 percent of primary energy consumption in the U.S. in 2010. Commercial buildings, such as office and retail space, used about 46 percent of that, for a total of about 19 percent overall.
+
+The top three uses of all that energy are lighting, heating, and cooling. Much of this is wasted on running air conditioning in empty rooms, or heating spaces with old windows and bad insulation. California's Title 24 energy efficiency regulations, all new non-residential buildings and some remodeled buildings will be required to meet certain standards, and many states are following suit with similar laws. But this still leaves millions of older buildings squandering power heating empty conference rooms with drafty windows.
+
+>'Facilities and real-estate people are the last on the budget. They only get money when something breaks.'
+
+The irony is that investments in energy efficiency should pay for themselves in the long run by slashing utility bills. But the up-front costs are often a barrier, says Jesse Foote, an analyst at Navigant Research. "A building manager might not be able to lay out capital for those sorts of upgrades, even if it has a fairly good payback period," he says. "They might be capital constrained, or there might be rules about how money can be spent, or there might not be someone willing to stick their necks out and do it."
+
+Joe Costello, the CEO of a startup called Enlighted, puts it more bluntly. "Facilities and real-estate people are the last on the budget," he says. "They only get money when something breaks." But Enlighted wants to fix this problem.
+
+Ruggedized Sensor. Enlighted
+
+The Sunnyvale, California company builds devices that can detect heat, light, and motion, and it pairs them with a software system that can control lighting—and soon heating and cooling—based on the data these sensors collect. Costello calls Enlighted "Nest for the commercial real estate world," referring to the internet of things company now owned by Google, but that's only part of the pitch. The company also lets businesses use its technology without paying any up-front costs. Thanks to a clever financing model, customers only have to pay as much as the tech saves them each month.
+
+According to Foote, it's a model used by many other companies trying to remake offices with more efficient lighting, heating, and cooling, including electronics giant Philips, and it could be just the thing that many businesses need to finally move their offices into a much greener place.
+
+Sensors, Sensors Everywhere
+
+No, environment sensors aren't anything new. But Enlighted is part of a growing number of startups taking a new approach. Instead of placing motion sensors around an office and using a centralized server to make decisions at a per room level, Enlighted places sensors and controls on each light fixture, enabling a more fine-tuned control and more accurate sensor readings.
+
+Traditional, motion controlled automation systems are a good idea in theory, but as Costello tells it, they can lead to problems. If you're sitting still at your desk, the system may switch of the lights if you don't move around enough. Worse, false alarms can trigger the lights, leading to more waste.
+
+Costello says one of Enlighted's potential customers installed a motion detecting system in its warehouse that couldn't tell the difference between humans walking around the shop floor and boxes moving around on a conveyer belt, so it would leave the lights on when the machines were running, even if there were no people in the room. But this won't happen with Enlighted. Because the company incorporates multiple types of sensors into its devices, it can, in theory, make more accurate analysis about whether a human is in a room or not.
+
+Enter the Mesh Network
+
+The other trick is that these sensors are smart enough to think for themselves. Although the devices can be controlled remotely through a server, each one has an on-board processor that can make decisions independently without relying on direction from a central machine.
+
+This might sound like a more expensive approach, but CTO and co-founder Tanuj Mohan explains that this actually cuts installation costs because the sensors share data through a wireless network and tap into the light fixture for power. That means you don't need any new networking or electric cabling to support them.
+
+Tanuj Mohan. Enlighted
+
+The usual problem with this idea is that the sensor network would overload the network switches. But Mohan, who had worked on building networks at the wireless networking company Tropos, knew it was possible to work around this limitation by using an approach called mesh networking. In a mesh network, each node connects to one or more neighboring nodes, instead of directly to the central hub. That way the hub doesn't get overloaded with connections from all the different devices.
+
+Paying It Forward
+
+Enlighted isn't alone in bringing wireless multi-sensors to office lighting systems. Other companies such as CommScope, Daintree Networks and Digital Lumens are trying to do much the same thing. But the most exciting part of the company's pitch is its business model.
+
+Before installing a system at a customer's office, Enlighted—not the customer—will take out loans based on how much the customer is expected to save with its sensor tech. Then customers merely pays Enlighted a percentage of the money the tech saves them each month–without paying anything up-front. And because Enlighted only takes a percentage of the savings, the customers still start seeing a cost improvement right away.
+
+Once the payment period is over, the customer never pays another dime to Enlighted. That means the amount Enlighted ends up making depends on how much money its customers actually save. That provides extra incentive for Enlighted to make sure its products deliver on its promises, which are pretty bold. Customers still have the option of paying up-front, the old fashioned way, but the new way to pay can potentially bring the company's tech to a much wider audience.
+
+Beyond Enlighted
+
+Enlighted hopes that its offering will extend well beyond lighting. By using multiple sensors, Enlighted can not only determine whether there's a person in a room, but how many people. This can provide insights into which spaces are under or overused, or provide security information. Retailers can use it to monitor how people move through stores, or which parts of the store they spend time in.
+
+The company is building its own heating and cooling automation system, but the platform is also designed to integrate with other building systems. That means other companies can build automation systems based on the data gathered by Enlighted.
+
+At the same time, Enlighted could feed the wider market in other ways. Greening the office buildings of the world will mean a lot more than just installing office automation products. It will also mean replacing windows, installing solar panels, or integrating ways of recycling waste water. All of those things will cost money up front, but save money in the long-term. And the model Enlighted has embraced may make these technologies more available to building owners—or eventually even consumers—regardless of their budgets.

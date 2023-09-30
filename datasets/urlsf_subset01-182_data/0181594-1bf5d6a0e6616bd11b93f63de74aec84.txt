@@ -1,0 +1,79 @@
+Jack Houston and the Necronauts is a pulp sci-fi inspired adventure game where you portray Captain Jack Houston on his deadliest mission: to man the first rocket to explore a savage, alien world!
+
+The Concept
+
+Think "The Dig", if Ben from Full Throttle gut-punched Boston Low and commanded the mission in his place. The interface will be a fairly streamlined verb coin point & click system. The setting should be familiar to anyone who's seen Tom Corbett: Space Cadet or Perry Rhodan: bubble helmets, rockets 'n ray guns galore.
+
+The Story
+
+In the year 1999, a retired Jack Houston is recruited by the Venture Aeronautics and Space Transportation (VAST) corporation for one last mission: to man the first rocket to Venus. The rocket is designed to penetrate the hazy atmosphere and land on the surface, where some believe Jack may find the first signs of life in our solar system. En route, something goes terribly wrong and Jack's rocket crash lands in an alien ocean, where he rests in cryogenic sleep for 1,000 years. The world he wakes up to is one of savage beast men who worship a devil god with the power to control the dead. These strange entities are able to inhabit the remains of any creature after death, fortifying and building upon their skeletal structures until they are virtually indestructible war machines. With the tribal inhabitants of the entire planet under their crushing heel, the undead Venusian warlords threaten to pulverize Jack like an ant. But our clever test pilot will uncover a shocking revelation about the origin of these “Necronauts,” a connection between the creatures and himself that could be their undoing… and his.
+
+This isn't the mission Jack signed up for, and even if he finds a way off the planet, the Earth he knew is gone. What Jack will find, however, is a whole new universe where space travel is common place and aliens are everywhere. A galaxy of adventure he could never have dreamed is waiting for him, if only he can survive the perils of this vicious planet!
+
+The Setting
+
+Jack’s adventure takes place not far from home, on our neighboring planet of Venus. But this isn’t the lifeless planet we know today, this Venus is a sweltering vine jungle teaming with strange beasts of horn, tooth and claw. This is the world of adventure imagined and glorified in sci-fi magazines and novels of the 40's and 50's, by science fiction authors and artists whose legacies include John Carter of Mars, Carson of Venus, Buck Rogers, Flash Gordon, Tom Corbett: Space Cadet, Perry Rhodan and many more. In this future world, humans have conquered space and found a new frontier beyond our imagination.
+
+Stacy Davidson
+
+Davidson’s love of computer games began at the age of eight with the introduction of a TI-99/4A computer into his household. He later developed a short Extended Basic text adventure called The Quest, followed by many simple arcade and RPG game prototypes on his Commodore 64. He spent a year in Quality Assurance at Origin Systems/EA, published his own shareware game called Shadow of the Lost Citadel, and has spent the last eleven years working in motion pictures as a producer, director, cinematographer, editor, sound designer and visual effects supervisor at his own studio, Odyssee Pictures. In 2010, his fan-game project Han Solo Adventures was featured in Star Wars: Uncut and The People vs. George Lucas. Now at the helm of his new game studio, Davidson is looking forward to exploring the adventure genre in his never ending quest to recapture the glorious days when mysteries were solved and legends born one click at a time.
+
+You can check out Davidson's work with a trailer for his horror film Sweatshop, and his music video for the metal band Outworld (because metal. \m/etal!!)
+
+The Team
+
+Stacy Davidson is an accomplished effects artist and game designer, but he is also counting on the help of a small team of artists. The level of involvement of other team members will depend on the level of funding we achieve. We have already tapped the talent of concept artists Patrick Reilly, Mitchell Malloy, Giacomo Tappainer and Mike Oliver, and would love to continue to utilize them.
+
+We also have at our disposal a team of effects artists including Mike Oliver, Kristi Boul and Marcus Koch, all of whom have extensive experience in sculpting, molding and casting, and who all have their own valuable creative vision to offer, as well as helping to speed up the process immensely.
+
+Iain Kelso
+
+Internationally acclaimed composer Iain Kelso has already begun work on a riveting original score for Jack Houston. His score for the feature film Jacob, produced by Odyssee Pictures and featuring Michael Biehn (The Terminator, Aliens, Tombstone, The Divide), recently won the Platinum Award at WorldFest International Film Festival. Samples of his work can be heard here.
+
+The Production
+
+In film production, it's always the same deal. We pitch a project to investors, raise money, make the movie, and then cross our fingers that we will a) get a great domestic distribution deal, b) have lots of luck at the international markets selling foreign rights, and c) become profitable enough to repay all our investors and make enough for ourselves to launch another picture. That way of working is frankly crazy. With Kickstarter, you as the fans and players can make a project like this a reality by backing it ahead of time and, as long as we do our job, there's no taking chances on market fluctuations, agent fees, greedy distributors, tea leaves, fortune cookies or the ramblings of the Voodoo Lady at the International House of Mojo. We get to create the best game possible and put it right into the hands of the very fans who backed us. No middle men what so ever. Within three weeks of the project being funded, we will go into production full time and begin filling YOU in with regular updates and behind-the-scenes videos keeping you involved in the project every step of the way. You'll have exclusive access to the dev team through the private backers' forum, and high level backers will even have certain perks including quarterly producer reports and the opportunity to vote on critical in-game content.
+
+Platforms and Localization
+
+At the base goal, we will be using Adventure Game Studio as the base engine, which supports PC and has limited support for Linux. If we continue that path, we will do all we can to support Linux at launch, within the capabilities of that engine, and begin work on a Mac port after launch.
+
+However, we are also formulating a stretch goal that will allow us to develop the game using a different engine that will fully support PC, Mac and Linux at first launch, then iPad and Android tablets soon after. We are committed to seeing Jack on multiple platforms no matter what, but exceeding our funding goals will allow us to do so immediately at launch.
+
+At the base goal, the game will be released with English voice over and on-screen text. We are currently formulating a small, attainable stretch goal that will allow us to translate the game text into many other languages at launch. Again, we are committed to supporting as many languages as possible. If we do not attain this goal, other languages will follow sometime after launch.
+
+Kicking it Forward
+
+We solemnly pledge 5% of the profits from the finished product back to the Kickstarter community to help fund other people's dreams. http://kickingitforward.org
+
+We want all our backers to be super excited about being a part of Jack Houston and the Necronauts!
+
+Digital Rewards
+
+At the basic $15 level, we will get you a download code for the full game, DRM-FREE, which will include an in-game designer commentary audio track, a new HD wallpaper every month, exclusive access to beta-testing and access to our private forum community and video updates for backers-only. At $30 we'll throw in a digital download of the original score. At $60 you'll also get a PDF of "Crafting the World of Jack Houston and the Necronauts" which chronicles the complete development process covering sculpting, molding/casting, stop motion animation, miniature building and game development.
+
+We also have a special "ALL-DIGITAL INTERNATIONAL PACKAGE" at $95 which gives you a huge assortment of nifty digital rewards for international backers who'd rather not mess with pesky customs issues.
+
+Physical Rewards
+
+After that, the rewards start to get physical...
+
+Attribution & Gratitude
+
+Some public domain video clips were used courtesy of NASA.
+
+All concept art is the work of Patrick Reilly, Mitchell Malloy, Giacomo Tappainer and Mike Oliver.
+
+Examples of the Jack Houston team visual effects work featured shots from Psychic Experiment (A.K.A. "Walking Distance") featuring Debbie Rochon, Glenn Morshower, Katie Featherston, Reggie Bannister and Adrienne King, from Upstart Filmworks and Lionsgate Entertainment, written and directed by Mel House. More info here.
+
+Some music created by Jack Houston composer Iain Kelso was used courtesy Odyssee Pictures from the feature film Jacob.
+
+Voice over work was provided by professional voice actor Otis Twelve, and recorded courtesy of Vince Twelve, creator of the spectacular new adventure game Resonance from XII Games and Wadjet Eye Games (which also features Otis Twelve, and effects work from Odyssee Pictures/Warbird Games, check it out!)
+
+Join Team Jack!
+
+This project means more to me than you can know. The story is pure Edgar Rice Burroughs pulp adventure, the art design is a Frazetta-fueled dream (Frank Frazetta happens to be our lead concept artist Patrick Reilly's biggest influence), the environment and creatures will be right out of a Harryhausen movie, and just wait 'til you hear the way this soundtrack is shaping up. It's the grab a ray gun, hop in a rocket and blast off to Venus fantasy I've seen in my head ever since I first laid eyes on Amazing Stories magazine, and heard my first episodes of X Minus One and Tom Corbett: Space Cadet.
+
+I truly can't wait to get started on Jack Houston, so please grab a bubble helmet, holster your ray gun, and fire up the engines because this is surely going to be one seriously kick ass ride!
+
+~Stacy Davidson

@@ -1,0 +1,17 @@
+Share
+
+The so-called SensiVest is the creation of Israel company Sensible Medical. Using the same tech the military use for seeing through walls, it looks straight through the chest and into the lungs. It’s meant to be worn by the patient for 90 minutes each day and is designed for outpatient use — meaning that it can be used in their home, rather than the hospital. Wexner Medical Center is currently carrying out a randomized, clinical trial to test the SensiVest’s efficacy.
+
+So far, things are looking good.
+
+“The vest is based on radar technology,” Dr. Rami Kahwash, a principal researcher involved in the study, told Digital Trends. “It uses sensors that emit electromagnetic waves which let it calculate the fluid content of the wearer’s lungs. That number is then transmitted to a secure website, where it can be accessed by physicians. If the patient is recording these numbers daily, then by the end of the week or month we’ll have a set of numbers that give us a good idea of the amount of fluid in their lungs.”
+
+The SensiVest clinical trial is still underway, but a previous investigation suggested that use of the SensiVest can mean 87 percent fewer hospital readmissions.
+
+That is not just about giving physicians an easier day, though. According to Kahwash, by the time patients present in the hospital, it can be too late to act. Studies have shown that the buildup of fluid in the lungs can actually start two weeks before patients seek help, which opens up a potentially lifesaving use for this technology.
+
+“The hope is that if we can track this trend of fluid in the lungs, we can intervene early on as soon as we see that the numbers are going up,” Kahwash said.
+
+At present, patients do not see the numbers that the device gathers. That could change in the future, though. Kahwash hypothesized that, should the numbers be made available to the patient, doctors could also provide them with a manual algorithm — letting them adjust their medication dosage according to the numbers gathered by the SensiVest.
+
+“Perhaps that way we may eliminate the physician out of the cycle, which could result in more prompt interventions on a day-by-day basis,” Kahwash said.

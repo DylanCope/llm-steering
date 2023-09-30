@@ -1,0 +1,35 @@
+SpaceX has an announcement to make. Curiously, it chose to hide it in the fine print, but here goes...
+
+SpaceX is taking reservations for Mars.
+
+Hold on a minute...
+
+You may think that you've already heard this news before. One month ago (almost to the day), Elon Musk famously penciled in "2018" as the date SpaceX will launch its first Red Dragon space capsule to Mars. Specifically, the company will use its new Falcon Heavy lift vehicle to carry a specially designed Dragon 2 spacecraft to Mars, then land said capsule vertically on the Red Planet, firing SuperDraco thrusters to brake its descent.
+
+From that position, SpaceX's Red Dragon would theoretically be able to relaunch from Mars, where the gravity is less than 38% of Earth normal, and return to Earth -- fuel permitting. (That's not Musk's plan, however. He's running this mission himself, and paying out of pocket, just to collect information in preparation for subsequent manned and unmanned missions to Mars.)
+
+But that's not what we're talking about today. Today, we're following up on our review of SpaceX's latest update to its space-launch price list, which came out earlier this month. As we discussed yesterday, the first and most obvious change that SpaceX made to its price list was a price increase of $800,000 on plain-vanilla Falcon 9 satellite launches to Earth geosynchronous transfer orbit (GTO). Prices are going up 1.3%, and cargo capacity is increasing 13.4%.
+
+The more Earth-shaking -- or perhaps Mars-quaking -- change is this: SpaceX has added a new line item to its price list. It now publicly advertises the transportation of a "payload to Mars" as one of its "capabilities & services."
+
+Shipping and handling are extra
+
+SpaceX now charges $62 million to lift 5.5 metric tons of cargo to Earth GTO. Ninety million dollars will buy you transportation of up to eight metric tons to GTO. But now, SpaceX offers a third option: It says it can transport up to four metric tons of cargo to Mars aboard one of its Falcon 9 rockets -- or 13.6 mT aboard the new Falcon Heavy once that rocket begins operations.
+
+Note that SpaceX describes these capabilities in a line separate from its "standard payment plan" price of $62 million for a Falcon 9 launch, or $90 million for the Falcon Heavy. The company isn't promising any specific price tag for the Mars launch service, and is not offering to send you, or anyone else, specifically, to Mars. The company is only offering to transport cargo at this time. But even so, it's a unique service.
+
+In every sense of the word
+
+I don't use "unique" lightly. Right now, and probably for the foreseeable future, SpaceX really is the only private company advertising the capability to send payloads to Mars.
+
+Governmental organizations such as NASA, the European Space Agency, the Soviet Union, and later Russia, have all sent landers to Mars. Some of them even landed intact. What SpaceX is promising to do, though, is send cargo to Mars -- say, a Mars rover of your choosing and building -- land it safely, and land it in a manner that could, conceivably, permit it to come back home again.
+
+Among private companies, this truly is unique. Granted, other companies are following SpaceX's lead in developing rockets that can launch, land, and then launch again. Airbus (NASDAQOTH:EADSY) is developing a reusable rocketship it calls ADELINE, which can launch into space, then fly back to land on an airstrip. Boeing (NYSE:BA) and Lockheed Martin (NYSE:LMT), through their joint venture United Launch Alliance, are developing a system for landing rockets by deploying parachutes after reentry, then snagging the 'chutes by helicopter and delivering them to the ground.
+
+What's SpaceX's endgame?
+
+Both Airbus' idea and the one being floated (get it?) by Boeing and Lockheed Martin have merit in a terrestrial sense. Reusable rockets should enable cheaper launches of Earth satellites, because you wouldn't be building an entirely new rocket for each launch, then throwing it away and building a new one for the next launch.
+
+Reusable rockets will therefore make satellite launches much cheaper here on Earth -- but for SpaceX, that's only a side benefit. The real objective is making Mars landings -- and Mars launchings -- possible.
+
+But here's the thing: Airbus' plan, and Boeing and Lockheed's, as well, depends on the presence of an established infrastructure to support rocket relandings -- airstrips in Airbus' case; helicopters for Boeing and Lockheed. The problem is that both landing strips and helicopters are in pretty short supply on Mars. If you want to land there, and have any hope of relaunching, then SpaceX's system is the only way to go.

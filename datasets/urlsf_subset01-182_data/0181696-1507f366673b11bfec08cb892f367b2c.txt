@@ -1,0 +1,107 @@
+GraphQL Deep Dive: The Cost of Flexibility
+
+Samer Buna Blocked Unblock Follow Following Mar 16, 2016 Unlisted
+
+GraphQL logo
+
+GraphQL is a language. If we teach GraphQL to a software application, that application will be able to declaratively communicate any data requirements to a backend data service that also speaks GraphQL.
+
+Just like a child can learn a new language fast, while a grown-up will have a harder time picking it up, starting a new application from scratch using GraphQL will be a lot easier than introducing GraphQL to a mature application.
+
+To teach a data service to speak GraphQL, we need to implement a runtime layer and expose it to the clients who want to communicate with the service. Think of this layer on the server side as simply a translator of the GraphQL language, or a GraphQL-speaking agent who represents the data service.
+
+This layer, which can be written in any language, defines a generic graph-based schema to publish the capabilities of the data service it represents. Client applications who speak GraphQL can query the schema within its capabilities. This approach decouples clients from servers and allows both of them to evolve and scale independently.
+
+A GraphQL request can be either a query (read operation) or a mutation (write operation). For both cases, the request is a simple string that a GraphQL service can interpret, execute, and resolve with data in a specified format. The popular response format that is usually used for mobile and web applications is the JavaScript Object Notation (JSON).
+
+GraphQL Queries
+
+Here’s an example of a GraphQL query that a client can use to ask a server about the name and email of user #42:
+
+{
+
+user(id: 42) {
+
+name,
+
+email
+
+}
+
+}
+
+Here’s a possible JSON response for that query:
+
+{
+
+"data": {
+
+"user": {
+
+"name": "John Doe",
+
+"email": "john@example.com"
+
+}
+
+}
+
+}
+
+The request and response in a GraphQL communication are related. A request determines the shape of its data response, and a data response can be used to easily construct its suitable request.
+
+GraphQL on the server is just a specification that defines various design principles, including a hierarchical structure, support of arbitrary code, a strong type system, introspective nature, and many more.
+
+GraphQL Mutations
+
+Reading is just one of the four CRUD operations that a client can communicate to a server. Most clients will also communicate their need to update the data. In GraphQL, this can be done with Mutations.
+
+A GraphQL mutation is very similar to a GraphQL query, but with runtime awareness that resolving the mutation will have side effects on some elements of the data. A good GraphQL runtime implementation executes multiple GraphQL mutations in a single request in sequence one by one, while it executes multiple GraphQL queries in the same request in parallel.
+
+GraphQL fields, which we use in both queries and mutations, accept arguments. We use the arguments as data input for mutations. Here’s an example GraphQL mutation that can be used to add a comment to a post using markdown.
+
+mutation {
+
+addComment(
+
+postId: 42,
+
+authorEmail: "mark@fb.com",
+
+markdown: "GraphQL is clearly a **game changer***"
+
+) {
+
+id,
+
+formattedBody,
+
+timestamp
+
+}
+
+}
+
+I threw the markdown feature into the mix to demonstrate how a GraphQL mutation can handle both writing and reading at the same time. It’s just another function that we resolve on the server, but this function happens to do multiple things. It will persist the comment data that we received through the field arguments, and then it will read the database-generated timestamp, process the markdown of the comment, and return back a JSON object ready to be used to display that new comment in the UI. We will see an example of how to define a GraphQL mutation on the server in later posts.
+
+Problems and Concerns
+
+Perfect solutions are fairy tales. With the flexibility GraphQL introduces, a door opens on some clear problems and concerns.
+
+One important threat that GraphQL makes easier is resource exhaustion attacks (AKA Denial of Service attacks). A GraphQL server can be attacked with overly complex queries that will consume all the resources of the server. It’s very simple to query for deep nested relationships (user -> friends -> friends …), or use field aliases to ask for the same field many times. Resource exhaustion attacks are not specific to GraphQL, but when working with GraphQL, we have to be extra careful about them.
+
+There are some mitigations we can do here. We can do cost analysis on the query in advance and enforce some kind of limits on the amount of data one can consume, or a timeout to kill requests that take too long to resolve. Also, since GraphQL is just a resolving layer, we can handle the rate limits enforcement at a lower level under GraphQL.
+
+If the GraphQL API endpoint we’re trying to protect is not public, and is meant for internal consumption of our own clients (web or mobile), then we can use a whitelist approach and pre-approve queries that the server can execute. Clients can just ask the servers to execute pre-approved queries using a query unique identifier. Facebook seems to be using this approach.
+
+Authentication and authorization are other concerns that we need to think about when working with GraphQL. Do we handle them before, after, or during a GraphQL resolve process? To answer this question, think of GraphQL as a DSL (domain specific language) on top of our own backend data fetching logic. It’s just one layer that we could put between the clients and our actual data service (or multiple services). Think of authentication and authorization as another layer. GraphQL will not help with the actual implementation of the authentication or authorization logic; it’s not meant for that. However, if we want to put these layers behind GraphQL, we can use GraphQL to communicate the access tokens between the clients and the enforcing logic. This is very similar to the way we do authentication and authorization with RESTful APIs.
+
+One other task that GraphQL makes a bit more challenging is client data caching. RESTful APIs are easier to cache because of their dictionary nature: this location gives that data. We can use the location itself as the cache key. With GraphQL, we can adopt a similar basic approach and use the query text as a key to cache its response. However, this approach is limited, not very efficient, and can cause problems with data consistency. The results of multiple GraphQL queries can easily overlap, and this basic caching approach would not account for the overlap.
+
+There is a brilliant solution to this problem though. A Graph Query means a Graph Cache. If we normalize a GraphQL query response into a flat collection of records, giving each record a global unique ID, we can cache those records instead of caching the full responses. This is not a simple process though, there will be records referencing other records, and we will be managing a cyclic graph there. Populating and reading the cache will need query traversal. We need to code a layer to handle the cache logic. However, this method will overall be a lot more efficient than response-based caching. Relay.js is one framework that adopts this caching strategy and auto-manages it internally.
+
+Finally, and possibly the most important problem that we should be concerned about with GraphQL, is the problem that’s commonly referred to as N+1 SQL queries. GraphQL query fields are designed to be stand-alone functions, and resolving those fields with data from a database might result in a new database request per resolved field.
+
+For a simple RESTful API endpoint logic, it’s easy to analyze, detect, and solve N+1 issues by enhancing the constructed SQL queries. For GraphQL dynamically resolved fields, it’s not that simple. However, there is one possible solution that Facebook is pioneering for this problem: DataLoader.
+
+As the name implies, DataLoader is a utility one can use to read data from databases and make it available to GraphQL resolver functions. We can use DataLoader instead of reading the data directly from databases with SQL queries, and DataLoader will act as our agent to reduce the actual SQL queries we send to the database. DataLoader uses a combination of batching and caching to accomplish that. If the same client request resulted in a need to ask the database about multiple things, DataLoader can be used to consolidate these questions and batch-load their answers from the database. DataLoader will also cache the answers and make them available for subsequent questions about the same resources.

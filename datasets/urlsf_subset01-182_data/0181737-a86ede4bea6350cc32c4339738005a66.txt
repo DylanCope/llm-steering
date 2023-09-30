@@ -1,0 +1,37 @@
+Men have one copy, women have two, but scientists have long puzzled over why the human X chromosome mostly contains genes that are active in a small number of tissues. Now, a team of researchers led by the University of Bath studying the evolution of this X chromosome has discovered why it contains such an unusual mixture of genes.
+
+In humans, males have XY chromosomes, females have XX but only one of these is active, meaning that both sexes only have one active copy of the X chromosome.
+
+Scientists discovered in 2002 that the X chromosome is unusual because it contains very few of the most important genes needed for basic cell function -- dubbed "housekeeping" genes.
+
+Now the team, a collaboration between researchers at the University of Bath and Uppsala University, along with members of the FANTOM consortium, have found out why.
+
+They analysed the world's largest compendium of data on gene activity (expression) and looked at how activity on the X chromosome compares with that on other chromosomes.
+
+In a paper published in the journal PLoS Biology, they found that the peak level of gene expression on the X chromosome was under half that of other chromosomes where we have two functioning copies.
+
+The study was led by Professor Laurence Hurst, Director of the Milner Centre for Evolution based in the Department of Biology & Biochemistry at the University of Bath.
+
+He explained: "Since we showed that X-linked genes tend to be relatively tissue specific over a decade ago, the reason as to why the X chromosome is so odd has bugged me.
+
+"In the end, we have found the answer to be quite simple. Whereas most chromosomes operate in pairs, meaning there are two copies of each gene in every cell, in contrast, we only have one active copy of the X chromosome.
+
+"This means it is not sustainable for highly active genes to be on the X chromosome. Housekeeping genes tend also to be highly active -- they just couldn't survive on the X."
+
+The team also identified which genes have moved from the X to the other chromosomes over evolutionary time and those that have gone the other way.
+
+They found that those genes that have migrated onto the X chromosome have much lower peak rates of expression that those making the reverse trip.
+
+Hurst explained: "It's a bit like traffic on a busy road -- a highway with two lanes can have a lot more and faster traffic on it than a single lane highway.
+
+"A consequence of having a single chromosome is that, like a one lane road, there will be gene expression traffic tailbacks on the X chromosome especially at peak periods. Hence our X chromosome will not be a tolerable home for the most highly expressed genes."
+
+The study also found that, unlike those found on other chromosomes, the more highly expressed genes on the X chromosome were less prone to increasing their expression level over evolutionary time.
+
+Senior author Lukasz Huminiecki of Uppsala University commented: "This fits with our traffic analogy as, if there is a tailback, it is hard to increase the speed of the cars on the road."
+
+The team also found that there has been an evolutionary exodus of genes that are highly expressed at peak times from the X chromosome, suggesting these genes cannot function on this chromosome due to the fact there is only one active copy. For example, genes that are active in tissues such as the pancreas which secretes a large number of protein hormones, are noticeably rare on the X chromosome compared to the non-sex chromosomes.
+
+Huminiecki added: "With the remarkable resolution of the FANTOM gene expression data, we have shown that none of the prior explanations resolves fully the mysteries of the X. For example, if you exclude genes expressed in tissues that are found in only one sex or are involved in making sperm, the remainder still have relatively tissue-specific activity."
+
+The work has implications for new medical treatments such as gene therapy as it suggests that replacement genes should not be inserted into the X chromosome because traffic tailbacks may limit the extent to which the gene can be expressed.

@@ -1,0 +1,253 @@
+lichter Profile Blog Joined September 2010 1001 YEARS KESPAJAIL 22175 Posts Last Edited: 2017-03-26 05:52:57 #1
+
+
+
+These changes should have little or no effect on gameplays, since SC:R will allegedly be compatible with BW 1.16.
+
+
+
+Patch Will Happen 3/30 US Time. More details soon?
+
+
+
+In preparation for StarCraft: Remastered, SC:BW will be receiving its first official patch since January 21, 2009—almost 8 years ago. This patch mostly contains bug fixes and added functionality, with only 2 changes to unit bugs.These changes should have little or no effect on gameplays, since SC:R will allegedly be compatible with BW 1.16. StarCraft v1.18a Patch Notes
+
+
+
+StarCraft and Brood War will now be completely FREE.
+
+
+
+Specific Changes & Improvements
+
+* Please “Run as Admin” during patching; it is required by modern operating systems and your first client run will migrate saves to avoid issues from Windows system admin changes
+
+Added windowed fullscreen or windowed mode; use Alt+Enter to switch between
+
+
+
+Added UTF-8 support
+
+
+
+Added Keybind options
+
+
+
+Added cursor clamping in game while windowed; unclamped in menus
+
+
+
+Added Popular Maps to streamline finding games or game types
+
+
+
+Added options to display actions per minute
+
+
+
+Added Observer mode
+
+
+
+Added opponent information when joining a game lobby
+
+
+
+Added autosaving for replays
+
+
+
+Added in game timer option
+
+
+
+Added UPnP support
+
+
+
+Improved gameplay responsiveness during multiplayer by increasing turn rate to match LAN speeds over Battle.net
+
+
+
+Improved UI layout in Battle.net sections
+
+
+
+Improved behavior of available lobbies within the Join game section
+
+
+
+Improved compatibility with Windows 7, 8.1, and 10
+
+
+
+Improved anticheat
+
+
+
+Improved installation and patching performance
+
+
+
+Native support for Fish
+
+
+
+Bug Fixes
+
+Fixed palette issues to correct rainbow water, 80s Kerrigan, and other graphic glitches
+
+
+
+Fixed problems with LAN game discovery
+
+
+
+Fixed IME support and other text artifacts in Battle.net menus
+
+
+
+LAN and Legacy Battle.net fixes
+
+
+
+Valkyries will fire missiles regardless of population size
+
+
+
+Dragoons will not freeze and require a Stop order before accepting new orders
+
+
+
+Known Issues
+
+Mac is not supported this patch, but is in progress
+
+
+
+The profile section is currently unavailable
+
+
+
+With Blizzard keen to improve BW functionality and play experience, what other features, add-ons, or bugs do you think Blizzard should add to the game? StarCraft and Brood War will now be completely* Please “Run as Admin” during patching; it is required by modern operating systems and your first client run will migrate saves to avoid issues from Windows system admin changesWith Blizzard keen to improve BW functionality and play experience, what other features, add-ons, or bugs do you think Blizzard should add to the game? Administrator YOU MUST HEED MY INSTRUCTIONS TAKE OFF YOUR THIIIINGS
+
+BLinD-RawR Profile Blog Joined April 2010 ALLEYCAT BLUES 43985 Posts Last Edited: 2017-03-26 05:26:36 #2 Valkyries will fire missiles regardless of population size
+
+Dragoons will not freeze and require a Stop order before accepting new orders
+
+
+
+there will be riots
+
+
+
+Also screen size is wider waiting for Fana to complain. there will be riotsAlso screen size is wider waiting for Fana to complain. Moderator Woo Jung Ho, never forget.| Twitter: @BLinDRawR
+
+Probemicro Profile Joined February 2014 3708 Posts Last Edited: 2017-03-26 05:28:19 #3 >Valkyries will fire missiles regardless of population size
+
+>no balance change
+
+
+
+pick one
+
+X10A Profile Blog Joined January 2011 Canada 9832 Posts #4 Never thought I'd see the day this'd happen.
+
+Damn CJ/T8 Fighting//#1 STX and Bisu anti <3//YES X10A is based off the Freedom Gundam
+
+c3rberUs Profile Blog Joined December 2010 Japan 11274 Posts #5 I am quietly optimistic. Please don't screw up Writer Movie, 진영화 : "StarCraft will never die".
+
+Xalorian Profile Joined September 2011 Canada 422 Posts Last Edited: 2017-03-26 07:12:46 #6
+
+
+
+User was warned for this post Key binding options?! That could screw up the balance at the highest level some what, but I don't care, it means I might be able to enjoy playing again! PogChamp
+
+Cryoc Profile Joined July 2011 Germany 792 Posts #7 On March 26 2017 14:25 BLinD-RawR wrote:
+
+Show nested quote +
+
+Valkyries will fire missiles regardless of population size
+
+Dragoons will not freeze and require a Stop order before accepting new orders
+
+
+
+there will be riots
+
+
+
+Also screen size is wider waiting for Fana to complain. there will be riotsAlso screen size is wider waiting for Fana to complain.
+
+I hope they fixed the stop order issue for every unit and not just the dragoon. I hope they fixed the stop order issue for every unit and not just the dragoon. http://www.twitch.tv/cryoc
+
+prOxi.swAMi Profile Blog Joined November 2004 Australia 3066 Posts #8 Please help, drowning in my own jizz AKA WonderBoy ¯\_(ツ)_/¯ http://www.proxiteam.net
+
+vicml21 Profile Joined May 2007 Canada 165 Posts #9 Im very excited for the keybind options, this way I can play sc2 and bw at the same time. "Meow" - Probe
+
+lestye Profile Joined August 2010 United States 3106 Posts #10 How are they just gonna skip 1.17? "You guys are just edgelords. Embrace your inner weeb desu" -Zergneedsfood
+
+Asunanas Profile Joined April 2011 44 Posts #11 the keybind options will honestly help so much for accessibility
+
+Raelcun Profile Blog Joined March 2008 United States 3714 Posts #12 There isn't a single thing in those patch notes I don't love.
+
+Ribbon Profile Blog Joined April 2010 United States 5278 Posts #13 What does uPnP support mean? Would this affect hosting games?
+
+Die4Ever Profile Joined August 2010 United States 15181 Posts Last Edited: 2017-03-26 05:41:12 #14 On March 26 2017 14:39 Ribbon wrote:
+
+What does uPnP support mean? Would this affect hosting games?
+
+yea it should fix those issues that required people to fuck with their router settings to play online
+
+
+
+"One solution for NAT traversal, called the Internet Gateway Device Protocol (IGD Protocol), is implemented via UPnP. Many routers and firewalls expose themselves as Internet Gateway Devices, allowing any local UPnP control point to perform a variety of actions, including retrieving the external IP address of the device, enumerate existing port mappings, and add or remove port mappings. By adding a port mapping, a UPnP controller behind the IGD can enable traversal of the IGD from an external address to an internal client."
+
+
+
+https://en.wikipedia.org/wiki/Universal_Plug_and_Play#NAT_traversal yea it should fix those issues that required people to fuck with their router settings to play online"One solution for NAT traversal, called the Internet Gateway Device Protocol (IGD Protocol), is implemented via UPnP. Many routers and firewalls expose themselves as Internet Gateway Devices, allowing any local UPnP control point to perform a variety of actions, including retrieving the external IP address of the device, enumerate existing port mappings, and add or remove port mappings. By adding a port mapping, a UPnP controller behind the IGD can enable traversal of the IGD from an external address to an internal client." "Expert"
+
+Lorch Profile Joined June 2011 Germany 3420 Posts Last Edited: 2017-03-26 05:42:24 #15 On March 26 2017 14:37 lestye wrote:
+
+How are they just gonna skip 1.17?
+
+
+
+Same as Windows 9. They do this to emphasise how huge the changes are.
+
+
+
+So I guess this is goodbye to ICCUP? Smart of them to include fish, but it seems like iccup will be a thing of the past. Upnp support is great. Will feel really strange to play on official b.net servers, let's hope their anti-hack is actually any good.
+
+
+
+It honestly feels like they actually read the rumour threads and listened to what fans wanted. Can't believe this is something blizz is doing in 2017. Same as Windows 9. They do this to emphasise how huge the changes are.So I guess this is goodbye to ICCUP? Smart of them to include fish, but it seems like iccup will be a thing of the past. Upnp support is great. Will feel really strange to play on official b.net servers, let's hope their anti-hack is actually any good.It honestly feels like they actually read the rumour threads and listened to what fans wanted. Can't believe this is something blizz is doing in 2017.
+
+Ribbon Profile Blog Joined April 2010 United States 5278 Posts #16 On March 26 2017 14:39 Die4Ever wrote:
+
+Show nested quote +
+
+On March 26 2017 14:39 Ribbon wrote:
+
+What does uPnP support mean? Would this affect hosting games?
+
+yea it should fix those issues that required people to fuck with their router settings to play online yea it should fix those issues that required people to fuck with their router settings to play online
+
+
+
+That's massive for me. Not being able to mess with my apartment's router is the reason I stopped playing BW. That'sfor me. Not being able to mess with my apartment's router is the reason I stopped playing BW.
+
+Morbidius Profile Joined November 2010 Brazil 2169 Posts #17 Keybinds fuck yeah. I wonder how the people who were saying that ''pressing bad keybinds is a skill'' feel now that regular BW has it. Who is it you think you see?
+
+peanuts Profile Blog Joined May 2012 United States 1101 Posts #18 This is going to open up the game to so many new players, myself included. So hype to dust off the macro and finally learn how to play! Writer "My greatest skill is my enjoyment of the game" - Grubby | @TL_Peanuts
+
+Psyonic_Reaver Profile Blog Joined June 2007 United States 3973 Posts #19 MatchMaking sounds good to me. So wait? I'm bad? =(
+
+LittLeLives Profile Blog Joined April 2010 United States 684 Posts Last Edited: 2017-03-26 05:50:10 #20 On March 26 2017 14:47 peanuts wrote:
+
+This is going to open up the game to so many new players, myself included. So hype to dust off the macro and finally learn how to play!
+
+What kept you before? OS compatibility? What kept you before? OS compatibility?
+
+1 2 3 4 5 24 25 26 Next All

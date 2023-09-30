@@ -1,0 +1,41 @@
+Phishing is one of the largest and most difficult challenges for any enterprise security team. It’s the great equalizer of security; we all have to deal with it. Well executed phishing attacks can trick people into making simple yet costly mistakes.
+
+One way companies guard against these phishing campaigns is to deploy commercial intrusion detection solutions, which analyze payloads in sandboxes where they can be safely checked before reaching an employee’s inbox. This is the core competency of most email intrusion detection systems (IDS) available on the market today.
+
+At Uber, we decided to build our own email IDS for a couple of reasons:
+
+To drive operational benefits in price, extensibility, and performance
+
+To exercise full control over features and alerts so we can adjust to evolving threats in real time
+
+To capture advanced insight for debugging intrusion alerts and email processing at Uber in general
+
+Operational benefits drove many of our design choices, starting with the decision to build it in a cloud based web hosting environment. For example, Amazon’s AWS has native components that include SES, Lambda workers, S3 buckets, VPCs, a few EC2 hosts, a Memcached cluster, and an Elasticsearch cluster. Using an on-demand platform gives us flexibility around when and how we use the IDS while conserving both processing and costs by not running it all the time. Amazon SNS gives us a scalable way to manage queues.
+
+Our email IDS reflects the microservice architecture at Uber. Like our overall architecture, the IDS splits each email into several pieces and analyzes these pieces in parallel through various on-demand pipelines. We also took advantage of existing tools and services in the market, such as cloud-based services and various in-house analysis services. For example, we use an entire cluster of automated sandboxes in EC2 as well as alternative cloud-based sandboxes. This architectural strategy gave us the opportunity to explore new security services while simultaneously debugging, developing new features, and optimizing performance in existing pipelines.
+
+Fast and Reliable
+
+Solving for speed and performance is a constant priority at Uber. Many commercial IDS solutions offer comparable analysis capabilities, but they’re often black boxes, so we get little debugging insight into their operations. We built two versions of our IDS to ensure email availability while we test and develop new features. Both instances run out-of-band, as to not delay the delivery of email with analysis time. One version runs in production; the other is used for testing. In this manner we can continuously develop and integrate new functionality and alert logic into our IDS, based on attacks and trends we see in the wild. Our production instance then has the ability to both alert on and delete emails in under a minute of them landing in an employee’s inbox.
+
+By leveraging the existing capabilities of a large web hosting service, we were able to move much faster than developing everything ourselves. ElastiCache’s native Memcached service deduplicates certain processing events, which speeds up our ability to process campaigns and large automated bulk email. Next, the native Elasticsearch functionality lets us cluster our identical signals for campaign and impact analysis. Not only does this help us identify phishing campaigns, but it also reduces the time required to process information before we get alerts. We’ve tailored the popular GAM library into our own library, nicknamed superGAM. When our email IDS flags malicious emails, our context automation platform uses superGAM to delete the emails automatically before employees read them. Furthermore, automated monitoring—including uptime metrics and alerts on metrics—gives us an early warning system so we can address any bugs detected in the email IDS when they’re still small.
+
+Future-Proof
+
+An important expectation for solutions we build in-house is the ability to scale and adapt as the company grows and threats evolve. Therefore, our email IDS is designed to be highly extensible and accommodate future changes. For example, because of the way we designed our Lambda functions, we can connect or switch out other vendor products or in-house services with ease. This is important as more people with unique expertise join our team because we can easily plug in whichever tools or pipelines they bring to the table.
+
+Additionally, the microservice architecture of our IDS enables separate, concurrent analysis. This means specialized members of our team can work on individual components of the IDS relevant to their specific domain expertise. For example, someone trained in reverse engineering can work on binary analysis tools, while someone else works on components dedicated to threat intel, and another person works in natural language processing. This setup allows us to continuously update and refine each part of the system in tandem with the other microservices the team develops.
+
+Cost Effective
+
+Building our own solution reduced our annual costs to a fraction of the price of a commercial solution. With a cloud based storage service such as AWS, we can closely monitor costs and make immediate adjustments based on our needs. For example, we generate finance reports based on tags to determine the cost of specific components. In addition to increasing the speed of analysis, the deduplication efforts mentioned before play a major role in reducing processing costs.
+
+We also run several intel vendor solutions alongside our IDS for extra checks on threat intelligence and email context. These are services we’re already paying for in other parts of the organization, so connecting them to IDS extracts even more value from those existing contracts, giving us additional temporal alerts regarding email senders, domains, and IP addresses being used in current attack campaigns.
+
+Extensibility and Beyond
+
+With an extensible platform, you can continuously explore and add new capabilities as microservices are developed on the team, such as analysis for natural language processing, analysis of DOM components, or even a URL analysis engine. For example, we have plans to add an advanced static analysis pipeline, which will require strong reverse engineering capabilities. We also constantly refine our threat intelligence sources and applications. With this design, we can further develop the abstraction of rule files to decouple the alert logic from the infrastructure, with the aim of either sharing rules or open sourcing the infrastructure code later. Either way, the platform remains customizable and grows with the team, making it a valuable resource for our Security Response team.
+
+Dan Borges is an incident response engineer on Uber’s Security Engineering team.
+
+We’re continuing to hire and grow our Security Engineering team. Visit our Careers Page for security engineering openings.

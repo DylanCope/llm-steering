@@ -1,0 +1,109 @@
+Dodge Pond, which sits on the outskirts of East Lyme, Conn., is an ordinary New England lake. It’s home to fish like bluegill and alewife, along with smaller organisms like water fleas, algae, and bacteria. There are viruses in Dodge Pond, too, most of which infect its bacteria. And one of Dodge Pond’s viruses, known as OMKO1, has now earned it a place in medical history.
+
+Earlier this year, in an experimental treatment, doctors put 100 million OMKO1 viruses into a man’s chest to save his life.
+
+I recently met that man. Dr. Ali Khodadoust is an ophthalmologist who works in New Haven, 40 miles west of Dodge Pond. When I arrived in Khodadoust’s waiting room, he was going over some forms with his secretary. His shock of hair was nearly as white as his doctor’s coat. We headed into his office, Khodadoust walking slowly and guardedly. “I may tip over at any time,” he confessed.
+
+advertisement
+
+So would I if were 80 years old and had spent the past four years fighting a devastating infection. All things considered, Khodadoust seemed in good health — certainly good enough to chat for two hours about OMKO1, about his illness, about his long career transplanting corneas and training new doctors.
+
+During our conversation, he would sometimes carefully rise from his chair to lead me down hallways so that he could show me fading framed photographs chronicling his work at Johns Hopkins and Yale, as well as in Shiraz, the Iranian city where he was born and to which he returned to build an eye hospital.
+
+In 2012, all that came to a halt. “I was working in the operating room on a Friday, and Saturday I went jogging,” Khodadoust told me. “At the end of the jog I felt a very slight shortness of breath. Two of my brothers had had heart attacks, so I said I’d check it out.”
+
+Khodadoust ended up having a coronary artery bypass; his cardiologist patched a section of his aorta with a piece of plastic mesh. The whole procedure went off without a hitch, after which Khodadoust went home to recover. But things quickly went south. Within 48 hours, he had developed a raging fever and had to be rushed back to the hospital. When surgeons opened his chest, they discovered that an infection had destroyed his sternum, and his chest cavity was filled with blood and pus.
+
+When Dr. Deepak Narayan, a surgeon at Yale New Haven Hospital, looked in Khodadoust’s chest, he knew precisely what had happened. There was a moss-green patch on his aorta. It had to be an infection with a common species of bacteria called Pseudomonas aeruginosa. “You take one look and you know what it is,” said Narayan.
+
+Before Narayan and the other doctors could even think about treating the infection, they had to save Khodadoust’s life. “He was beyond ill — his heart actually burst on the table,” said Narayan. He and his colleagues patched up Khodadoust’s heart with a piece of lung tissue, and then drained and cleaned out his chest cavity. When they were finally done, they protected his heart with a fatty membrane from his abdomen and then closed the gap where his sternum had been with muscle and skin. They doubted he would survive long.
+
+When Khodadoust thinks back to that time, he remembers being in absolute darkness. “A tiny string was stretching from me to infinity,” he said.
+
+He felt he was being given a choice. “Do you want to go back or not? To be or not to be? I pictured my children, I pictured my wife. Tears in their eyes.” Khodadoust decided to return. “How can I help it?”
+
+‘This was not life’
+
+Khodadoust survived the operation. But now Narayan and the other doctors had to fight the infection that had nearly killed their patient. Pseudomonas aeruginosa is harmless to healthy people, but it can be deadly for anyone with a weakened immune system. People with cystic fibrosis can get Pseudomonas aeruginosa infections in their lungs, which can lead to fatal pneumonia. Khodadoust may have gotten infected by a tiny patch of bacteria that grew on the mesh used to fix his aorta.
+
+Narayan and his colleagues prescribed a heavy course of antibiotics to get rid of the infection. But the bacteria turned out to be resistant and couldn’t be eradicated. Meanwhile, Khodadoust’s body made things worse. It reacted to the infection by creating a tunnel-like cavity called a fistula that formed a hole on the surface of his chest. His Pseudomonas colonized the fistula, too.
+
+After three months on antibiotics in the hospital, Khodadoust was allowed to go home. He still had a major infection, which required him to keep an IV port in his chest. Three times a day he had to take a massive dose of antibiotics to keep the bacteria at bay. Yet the microbes would still manage to overwhelm the drugs from time to time, causing sepsis and sending him back to the hospital for even more aggressive treatments. Narayan and his colleagues ruled out any more surgery. If they tried to take out the infected plastic mesh or close the fistula, they might spread the infection around even more and kill him.
+
+“They did not dare touch me,” said Khodadoust. “I don’t blame them.”
+
+Khodadoust fell in to a miserable medical limbo. “Life had no meaning with a tube connected to my chest and every eight hours having to get 8 grams antibiotics,” he said. “This was not life.”
+
+And then, out of the blue, Narayan received a visit from someone with an idea. His visitor was a young scientist named Benjamin Chan. Chan wondered if Narayan wanted to test out an experimental weapon against infections. Perhaps viruses could kill bacteria that antibiotics could not.
+
+Chan was hardly the first scientist to have this idea. Bacteria-infecting viruses, known as bacteriophages, were discovered a century ago. They make a living by slipping inside their microbial hosts and hijacking their biochemistry to make many new copies of themselves. Many species of bacteriophages then burst out of their host, killing it in the process. One of the discoverers of bacteriophages, a Canadian doctor named Felix d’Herelle, immediately recognized that they might be able to cure bacterial infections.
+
+D’Herelle’s treatment came to be known as phage therapy. By the 1920s, it was common in Europe and North America. You could buy phage-laced powder for skin infections over the counter. D’Herelle brought his bacteriophages to countries including Egypt and India to tame outbreaks of cholera and other diseases.
+
+Once antibiotics came to light, however, phage therapy virtually disappeared from most countries. Doctors gained more confidence in antibiotics, because they were simple chemicals that could be rigorously tested. Bacteriophages, by contrast, were mysterious, quasi-living things that scientists still barely understood. And despite phage therapy’s apparent success, its proponents had not done enough to prove that it was reliably safe and effective.
+
+Phage therapy still remained popular in the Soviet Union. Stalin’s soldiers had their wounds treated with viruses during World War II. After the fall of communism, some ex-Soviet researchers brought phage therapy to the West, where it attracted more curiosity this time. Decades of antibiotic prescriptions — along with rampant use of the drugs on livestock — had driven the evolution of resistant bacteria. Phage therapy might work where antibiotics failed.
+
+Still, since then, phage therapy research has only puttered along on a small scale. Skeptics have raised many questions about whether it can ever work on a large number of patients. And they have fretted that, under certain circumstances, bacteria could evolve resistance to bacteriophages, just like they do to antibiotics. If doctors were to blast patients with a bacteriophage, they could foster the evolution of resistance.
+
+“You recreate the original problem,” said Paul Turner, a virologist at Yale.
+
+Turner has been studying bacteriophages for over two decades, and in recent years he’s been investigating how to apply what he’s learned to phage therapy. In 2013, he hired Chan as an associate research scientist to take the lead on the project. Chan’s first order of business was to hunt for new bacteriophages that they could use to fight infections in new ways.
+
+Hyacinth Empinado/STAT
+
+A daring plan
+
+Finding bacteriophages was the easy part. The world’s supply of these viruses is unimaginably vast — by one estimate, there are 10,000,000,000,000,000,000,000,000,000,000 bacteriophages on Earth.
+
+Chan didn’t want to find just any bacteriophage, though. He wanted to find ones that infected species that cause opportunistic infections, like Pseudomonas aeruginosa. And he wanted bacteriophages that could work with antibiotics, rather than replace them.
+
+His logic was simple. Pseudomonas aeruginosa, for example, resists antibiotics by building powerful pumps that quickly flush out the drugs before they can cause harm. Chan and Turner wondered if there was a bacteriophage that infected the bacteria by landing on those pumps and injecting its genes inside.
+
+If such a virus existed, it might be able to kill off a lot of Pseudomonas aeruginosa in an infection. The only way for bacteria to survive would be to have a mutation that made it impossible for them to make the pumps. The bacteriophage couldn’t invade them. But in the process, they would make themselves vulnerable to antibiotics. It might be possible to follow up phage therapy with antibiotics and completely wipe out an infection.
+
+Chan began searching for his hypothetical virus. He searched samples of soil, sewage, compost, and water. Pulling the bacteriophages out of the samples, he unleashed them on Pseudomonas aeruginosa to see if any of them could infect it. To see if they were using the bacteria’s antibiotic pumps, he observed whether they could infect microbes that he had engineered to be pumpless.
+
+He kept finding new bacteriophages, but none quite fulfilled his dream.
+
+Then Chan grabbed a sample of water that another scientist in the lab had gotten months earlier at Dodge Pond. He found a few bacteriophages in the water, too. “Just randomly in the middle of the night, I tried one and it worked,” says Chan. It attacked Pseudomonas through its pump, a molecule called outer-membrane-porin M. Chan dubbed the virus of his dreams OMKO1 (short for outer-membrane-porin M knockout dependent phage #1).
+
+Chan and Turner began studying OMKO1 and its bacterial hosts in petri dishes. But they wanted to know if it could actually help people. Phage therapy is not approved for regular use by the Food and Drug Administration. But Chan and Turner wondered if the agency might grant a “compassionate use” exception for patients who couldn’t be cured with antibiotics.
+
+“You know,” Narayan told Chan, “I have the patient for you.”
+
+Narayan gave Chan Pseudomonas aeruginosa that had been cultured from Khodadoust’s infection. Chan unleashed OMKO1 on the bacteria, and, as he had hoped, it killed off most of the microbes. When he inspected the survivors, he found that they had altered pumps that the bacteriophages couldn’t invade. But Chan could then kill them off with antibiotics that had previously failed to cure Khodadoust. The experiment suggested that this bacteriophage might get rid of his infection.
+
+Narayan developed a detailed plan for the procedure and then got FDA approval for it. Meanwhile, Chan bred OMKO1 to become even more deadly against Khodadoust’s bacteria, selecting the viruses that killed the microbes fastest to produce the next generation. He then carefully prepared a purified batch of the viruses, which then had to be tested for contaminants by an outside lab.
+
+Finally, in January 2016, Chan made his way to Yale New Haven Hospital with a syringe loaded with a mix of OMKO1 viruses and an antibiotic called ceftazidime.
+
+Chan was sick with worry. Even though he had done everything he could to ensure this procedure would go well, it might still go wrong. The viruses might fail to find their microbial victims and get washed away. If they did infect the bacteria, the situation could actually get worse. OMKO1 might kill so many microbes at once that Khodadoust might go into shock.
+
+“I distinctly remember the red cart they brought in, with all the bring-this-guy-back-to-life gear on it,” said Chan. “I thought, ‘Oh man, this can’t go bad.’”
+
+Narayan pushed the needle into Khodadoust’s chest and advanced it slowly. When the needle reached the aorta, though, the doctors discovered that the vessel wall had developed thick scars. Despite hours of probing, they couldn’t find a spot where they could inject the viruses to the site of the infection. “It was just a ton of stress,” said Chan.
+
+Narayan and his surgical team settled on a plan B. They put the bacteriophages and the antibiotics in the fistula’s opening. If they were lucky, the bacteriophages would encounter the bacteria there and make their way down to the aorta on their own.
+
+After the procedure, Khodadoust went home, resuming his daily antibiotics, and later traveled back to Shiraz to spend time with his relatives there. Five weeks after the phage therapy, a tiny spike of bone poked into Khodadoust’s fistula, causing massive bleeding. Despite the risks, his doctors in Iran decided that they had to perform surgery.
+
+“They didn’t have much of a choice — he would have been dead in two minutes,” said Narayan.
+
+Newsletters Sign up for our Daily Recap newsletter Please enter a valid email address. Privacy Policy Leave this field empty if you're human:
+
+The doctors opened Khodadoust’s chest again, repaired the damage, and replaced the plastic mesh with a new graft. The procedure saved Khodadoust’s life. But what was even more astonishing was what his doctors found when they tested the tissue from Khodadoust’s chest for Pseudomonas. They found nothing.
+
+“You’re in the eye of the storm and you don’t see any Pseudomonas, so clearly something must have killed it,” said Narayan.
+
+Khodadoust showed up at Narayan’s office over the summer, without an IV port in his chest and off antibiotics. He had recovered completely from his four-year infection. “I couldn’t believe it,” Narayan said. “He looked like a million bucks.”
+
+The road ahead
+
+This fall, Narayan and his colleagues presented Khodadoust’s story at a medical conference and are in the midst of publishing reports about OMKO1 and the case study.
+
+They’re delighted that Khodadoust is doing well, but they don’t want to draw too many lessons about phage therapy from a single case. “Just because we discovered something doesn’t mean I think it’s going to save the world,” said Turner. “I’m not convinced yet. I want to see that data.”
+
+Fortunately, there are signs that phage therapy is going to get some of the attention it will need to become a regular part of medicine. In January, for example, the National Institutes of Health announced a batch of grants to fund studies on phage therapy. NIH researchers are also going to run an animal trial with OMKO1. They’ll test it against Pseudomonas infections in mice, and the results of the experiment should be ready by next summer. If they turn out well, it may be possible to run a small clinical trial on OMKO1. One possibility would be to test the virus on people with cystic fibrosis, to see if it can defeat stubborn Pseudomonas lung infections.
+
+For his own part, Khodadoust said, he’s grateful for whatever good the viruses did in bringing him truly back to life. “I don’t regret I decided to be,” he said.

@@ -1,0 +1,91 @@
+Media playback is unsupported on your device Media caption Steve Ballmer: 'This is one of two or three big moments in Microsoft's history'
+
+Microsoft's chief boss has confirmed he plans to release more devices.
+
+Steve Ballmer told the BBC: "Is it fair to say we're going to do more hardware? Obviously we are... Where we see important opportunities to set a new standard, yeah we'll dive in."
+
+The chief executive's comments came ahead of a Windows 8 launch event in New York, following which Microsoft's Surface tablet will go on sale.
+
+News other devices are likely to follow may worry other PC manufacturers.
+
+Mr Ballmer caused a stir when he revealed in June that his company was making its own family of tablet computers - one offering extended battery-life powered by an Arm-based chip, the other using Intel's technology to offer a deeper Windows experience.
+
+Media playback is unsupported on your device Media caption A look at Microsoft's Surface tablet
+
+Until now Microsoft had focused on software and relied on third-parties to make hardware, with a few exceptions such as its Xbox games consoles and Kinect gesture sensors.
+
+The chief executive of Taiwanese PC-maker Acer told the Financial Times in August that the Surface would have "a huge negative impact for the [PC] ecosystem and other brands" adding that he had been in touch with Microsoft to discuss his concerns.
+
+But Dell - the world's third largest computer maker - was less bothered by the move.
+
+"The announcement of Surface was necessary to have a proof of concept and to get people excited about what was coming to push application development and create some buzz out there," Kirk Schell, vice president of Dell's client and consumer product group, recently told the BBC.
+
+"They've invested so much in Windows 8 it was important to make it work, so I felt Surface was the logical thing to do."
+
+Much of Microsoft's launch event was later dedicated to promoting Windows 8 certified computers from the firm's "partners" including Sony, Dell, Lenovo and Acer.
+
+At the launch It's easy to become immune to the pomp of a technology product launch in New York. There's the obligatory tiny portions of food and the hyperbolic presentations, peppered with phrases like "best ever", "magical" and "revolutionary." But for once, it really was a landmark event - Windows 8 needs to be a success if Microsoft is to thrive. Steve Ballmer was eager to emphasise that this was a step into the future, for a company that has long been accused of staying in the past. In his trademark booming voice, he proclaimed it, of course, "an exciting day" and said that this launch "shatters perceptions of what a PC now really is". The question is whether all the manufactured hype can translate into real enthusiasm for Microsoft's reimagining of the PC experience.
+
+Touch-controlled tiles
+
+Windows 8 is a radical update to Microsoft's core product. The operating system introduces a touchscreen-controlled interface featuring tiles.
+
+As well as acting as buttons to launch individual apps, the tiles allow installed software to provide status updates on a computer's home screen. These can include details about the latest emails received, news headlines or social network posts created by friends.
+
+Users can also switch into a more traditional desktop mode.
+
+Devices running the Windows RT version of the new software will only be allowed to install third-party software from Microsoft's curated Windows Store. But other machines will give users the ability to launch programs sourced from elsewhere.
+
+Windows RT is designed to run on machines powered by CPUs (central processing units) based on designs by the British firm ARM, while more fully-featured versions of Windows 8 will run on the x86-based architecture chips used by Intel and AMD.
+
+The strategy allows Windows to compete against both iPads and Android-based tablets as well as higher-end laptops and desktop computers.
+
+Analysts warn the move carries both risks and rewards.
+
+Image caption Much of Microsoft's launch event was spent promoting machines made by other companies
+
+"Buyers craving a Windows tablet, touch laptop, or a touch all-in-one PC will jump for Windows 8, once they work through the processor choice confusion," said Frank Gillett from consultants Forrester Research.
+
+"[But] for some the prospect of learning a new interface will cause them to consider alternatives, most likely Apple's Mac; although some will also check out Google's Chrome OS offerings."
+
+Other Linux-based competitors are also hoping to gain ground including free-to-use alternatives Ubuntu and Debian. Research In Motion may also attempt to revitalise its own tablet sales when it launches Blackberry 10 next year.
+
+Surface phone?
+
+Before smartphones arrived Microsoft dominated the market, powering about 95% of personal computing device sales, according to Forrester. It says that figure has now shrunk to 30%.
+
+Surface addresses the software's firm's need to jumpstart demand for Windows-powered tablets.
+
+There is growing speculation that Mr Ballmer's next step could be to order the launch of Microsoft's own mobile phone.
+
+Analysis Reminding the Microsoft CEO that he has presided over a period which has seen its stock market valuation eclipsed by Apple is maybe untactful. He comes back fighting though, insisting that he is proud of what his company has delivered to investors. It all makes for a slightly testy encounter. Read Rory's full blog
+
+Despite positive reviews, devices running the Windows Phone 7 operating system captured less than a 4% share of global shipments in the July-to-September quarter, according to a study by IDC.
+
+Chris Green, principal technology analyst at Davies Murphy Group Europe, is convinced work is already underway on a Surface Phone but added that it might never go on sale.
+
+"Microsoft is hedging its bets," he said.
+
+"The firm is heavily invested in Nokia succeeding with its Windows Phone handsets but can't allow for its failure to torpedo the platform."
+
+Nokia, HTC and Samsung have announced they will sell new handsets based on Microsoft's upcoming Windows Phone 8 operating system which launches next week.
+
+The product resembles and is based on the same kernel - or software core - as its PC equivalent.
+
+"At the very least Microsoft will be developing its own handset to go to market in case Nokia and others don't do better," Mr Green added.
+
+'Whatever is required'
+
+Nokia's own chief executive Stephen Elop appears fairly relaxed about the prospect of competing with his former employer.
+
+Image caption Nokia's boss Stephen Elop previously worked under Mr Ballmer as an executive at Microsoft
+
+"[It would be] a stimulant to the ecosystem," he told analysts on a recent conference call transcribed by news site Seeking Alpha.
+
+"We're encouraging HTC, and Samsung, and Microsoft or whomever, to have devices in the market and to be making whatever investments that help spur the ecosystem on."
+
+Mr Ballmer would not be drawn on the exact nature of his future plans.
+
+"We have committed ourselves on a path where we will do whatever is required from both a hardware and a software innovation perspective and the cloud innovation perspective in order to propel the vision that we have," was all he would tell the BBC.
+
+For now the only confirmed hardware on the horizon is a Pro version of the Surface tablet, set to go on sale in January.

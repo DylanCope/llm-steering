@@ -1,0 +1,65 @@
+Looking Back
+
+Digging through some old filesystem backups this weekend, I came across the following directory:
+
+drwxr-xr-x 2 tseaver tseaver 4096 1998-06-20 18:31 ./ drwxrwxrwt 19 root root 20480 2008-06-22 13:15 ../ -rw-r--r-- 1 tseaver tseaver 8455 1998-06-20 23:46 biblio.py
+
+It turns out that that script was my very first "real" Python program, written just after finishing the tutorial section of the original edition of Mark Lutz' Programming Python [1]. The job of the script was to make the a small research library's catalog available for ad-hoc searches, first via a Tk interface, and later as a CGI script.
+
+The most interesting thing about the application today is that I could do both of those tasks within hours of starting the application, having just learned the language. It did neither of them terribly well (at least by my standards today), but it solved a real problem for a real client, at very little cost.
+
+Finding Python
+
+Up to that summer, I had been earning my keep as a senior developer / software architect on very large C++ / CORBA applications, with some server-side Java / CORBA thrown in for good measure. I was unhappy with the available tools for testing such applications, in particular because they were nearly as rigid to build as the applications-under-test. I had been following the evolution of what came to be called Extreme Programming on the "mother-of-all wikis"[2], and wanted to make testing a more central part of my toolkit.
+
+After searching a bit, I found Fnorb[3], a Python-based CORBA ORB, which promised a more "scripty" way to write my test applications. I went on to write literally a thousand such tests that summer, vastly improving the test coverage for the CORBA apps, and making what felt like enormous strides in both my productivity and my knowledge of Python. I was able to set up the testing jig as a simple CGI application, allowing anybody on the team to run one or all of the available tests, and review the results in their web browser, without having to install or learn Python at all, which was a big win for the project.
+
+IPC7 and the birth of Zope
+
+Almost by chance, I learned just a week or so beforehand that the Seventh International Python Conference was being held in Clear Lake, just south of Houston, where I lived at the time. I registered and showed up, knowing nobody in the Python community. I felt right at home, and was able to talk to Martin Chilvers, the original author of Fnorb.
+
+More crucially, it was at this conference that Paul Everitt announced that Digital Creations would be open-sourcing their web application server, Principia, under a not-yet-decided name. I had looked briefly at Bobo, the precursor to Zope's publisher, during the summer, and was interested in following the new development. I subscribed very early on to the main Zope list, and have been using / developing / promoting / cursing it ever since (in no particular order, sometimes all in one day :).
+
+"When the going gets weird, the weird turn pro."[4]
+
+I began using Zope to build project intranets, especially using ZWiki[5], and in fact contributed the "classic Wiki" markup implementation to that project. I was also interested in extending my CORBA stuff to integrate with Zope, and began talks with Rob Page and Paul Everitt about what such and integration might look like. They suggested that we continue the discussion at the IPC in Washington (late January 2000). I came to the conference and learned a lot more, deciding that I would consider leaving self-employed status for a shot at the "dot-com brass ring" with Digital Creations.
+
+I spent five years there, driving several big projects and taking on the job of shepherding the CMF (nee PTK) to maturity. As the company changed directions, from a services-based model to one built around products, and later hosting, I found myself less useful, and less comfortable, and finally left the company to return to self-employed status.
+
+Since then, I formed a new company, Agendaless Consulting[6], with two other ex-DC/ZC veterans, Chris McDonough and Paul Everitt. We continue to do mostly Zope and Plone based consulting, and have kicked off a new effort, "Repoze"[7], which aims to make Zope development fit in better with other Python frameworks, while making some of Zope's innovations easier to use within those frameworks.
+
+Lessons Learned
+
+So, looking back over ten years' of Python web programming, what stands out?
+
+"Reuse is hard". Because Python often makes it easier to rewrite a feature than to reuse a version which "does almost what I want," folks often don't pay enough attention to factoring out the reusable bits from those which are of only local interest.
+
+"Persistence means always having to say you're sorry." (I've jokingly referred to this as "Seaver's Law of Software Engineering"). The obvious corrolary is that any system should build in a way to dump and reload precious data from any persistent store, into some format which can be read / manipulated by tools other than those which created it.
+
+"Repeatability is way undervalued." We still see lots of cases where the application can only be made to work on one box or OS, or where code is not checked in to a VCS, or where a new developer on a project can flail for weeks without becoming productive. Paying the up-front tax to make the system software trivially reproducible on any POSIX- compliant box pays enormous dividends over the life of any non-trivial project.
+
+"Testing is no place to get fancy." The temptation to factor out "reusable" parts of a testing framework is nearly always a bad idea. Tests need to be clear, simple, and test exactly one thing, or they lose their value. Tests which depend on features not impelmented in the module they are supposed to test end up being fragile and slow, as well as tending to do poorer coverage of the moule-under-test.
+
+"The usefulness of a given framework seems inversely proportional to its size." Frameworks are about expressing a given feature in terms of interactions between unvarying logic (implemented in the framework itself), and varying logic (implemented in plugins). The chance that a given framework does what you want is better if it does only that thing.
+
+Looking Forward
+
+I am quite optimistic about where we are going from this point. I see a lot of shared expectations among Python web developers about sharing code and ideas across project boundaries, and am particularly excited about the trend toward assembling applications from independent parts, using WSGI[8]. I think we could be moving toward a shared platform for web development, consisting of a broad spectrum of high-quality components, made to be combined together using the loose coupling provided by the WSGI specification.
+
+Because WSGI allows composing elements together into what is colloquially referred to as a "pipeline" (really a functional composition), the mental model I have for this new platform is one of plumbing together components using standardized connetors (pipes), creating systems which are both agile in the face of changing requirements and simpler to understand, compared to the more monolithic solutions I have seen (and helped build) in the past.
+
+References
+
+[1] http://safari.oreilly.com/0596009259
+
+[2] http://c2.com/cgi/wiki?RecentChanges
+
+[3] http://fnorb.sourceforge.net/
+
+[4] Hunter S. Thompson
+
+[5] http://zwiki.org/FrontPage
+
+[6] http://agendaless.com/
+
+[7] http://repoze.org/

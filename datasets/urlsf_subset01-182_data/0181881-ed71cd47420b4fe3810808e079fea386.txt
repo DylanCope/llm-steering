@@ -1,0 +1,93 @@
+Life Equations
+
+Renowned educator Dan Meyer encourages teachers to drop the textbooks and teach students the math that's all around them.
+
+Like most great teachers, Dan Meyer commands attention. He’s not particularly loud or imposing—indeed, he has an easy, matter-of-fact manner of speaking. And though at well over six feet he’s often the tallest person in the room, it’s not just his stature that draws eyes. Meyer has a talent for recognizing—and delivering—a hook. He knows what kind of anecdote or punch line will garner interest and starts there when telling a story.
+
+Last March, while he was an algebra teacher at San Lorenzo Valley High School in California, Meyer gave a presentation on math instruction for TEDx—a community-organized spinoff of the yearly TED Talk conferences, which are famous for gathering global thought leaders. The video of the talk, entitled “Math Class Needs a Makeover,” went viral, receiving hundreds of thousands of hits on both TED.com and YouTube.
+
+Life for Meyer has not been the same since. The number of RSS subscribers to his blog jumped from 3,000 to 6,000. He’s been flooded with requests for speaking events and interviews. His schedule is now booked months in advance. The math-ed world is buzzing with his name.
+
+—Manny Crisostomo
+
+The premise behind the much-celebrated TED Talk is a simple one: Drop the textbooks and present math in a way that mimics the real world.
+
+The path that led Meyer, who is now pursuing a Ph.D. in curriculum design, to that premise—and to math-teacher stardom—is a bit more convoluted, however.
+
+A Visual Orientation
+
+Meyer, who grew up in Ukiah, Calif., a town of 15,000 a few hours north of San Francisco, says his early schooling amounted to him sitting around the kitchen table with his mom and sister. He was home-schooled from kindergarten through 8th grade before attending a public high school. Meyer had an early predilection for math, and was especially interested in applying numbers and equations to his daily life—though he stresses that this was not the result of some innovative homeschooling approach. Meyer simply enjoyed seeing how math could “make sense of the world.”
+
+Notwithstanding his draw toward numbers, Meyer hoped to go to film school for college. “I had no idea what I was doing. But I loved the language and grammar of film,” he says. He applied to the University of Southern California with what he calls a “ridiculously meager portfolio,” including videos he’d edited on his VCR for Spanish class, and was rejected. He decided instead to major in math at the University of California, Davis, feeling like a “sellout.”
+
+Dan Meyer on Real-World Math
+
+Little did he suspect that his understanding of film and “orientation toward the visual” would become critical elements in his career as a math educator.
+
+Meyer says he didn’t have a strong calling to become a teacher, but a friend at U.C. Davis talked him into interning for one hour a week at a local public school. The experience was eye-opening and enjoyable, in part, he now realizes, because he was working with “a great class of honors students.” Meyer stayed on at U.C. Davis after his senior year for a post-graduate teaching program.
+
+In graduate school, Meyer discovered that having an understanding of math wasn’t enough—teachers also need what’s known as “mathematical knowledge for teaching,” or MKT. He describes MKT as the difference between being able to devise a formula yourself and being able to teach someone else to devise a formula.
+
+Meyer worked hard in graduate school but saved time for some fun—his own peculiar kind. In 2004, he set the Guinness World Record for chaining paperclips together over a 24-hour period. Even here, his math skills were integral. “I had a spreadsheet running you wouldn’t believe,” he says. He developed formulas to predict the time at which he would break the record and the end-length of the chain based on his pace throughout the day. He recruited friends to fill in the spreadsheet at designated intervals and keep him apprised of his progress. (Otherwise, he explains, “it becomes very easy to hypnotize yourself and think you’re going fast when you’re not.”)
+
+His record, at 54,030 paperclips and reaching over a mile long, still stands. Meyer’s a bit sheepish about telling the story, but offers a succinct take-away: “Math got the job done.”
+
+The Plot of a Math Problem
+
+Despite his appreciation of MKT, Meyer describes his first year in the classroom, teaching math at Florin High School in Sacramento, as “disastrous.” He stuck to a traditional format—lecturing and then assigning practice problems. On days he misjudged his timing and ran out of things to say, he’d let students start their homework in class. “Name the cliché, I satisfied it,” he recalls.
+
+Meyer can pinpoint with clarity the moment his practice began to evolve: It was when he hooked up a digital projector.
+
+At first, he was conservative in his use of the medium, projecting text-heavy PowerPoint slides as a supplement to his own notes. But he soon began dropping the verbiage in favor of full-screen images and videos that he used to illustrate math problems. Among his students, the visuals became “conversation pieces that would inspire the mathematcal investigation,” he says.
+
+Before long, Meyer found himself bringing in more real-world examples and straying further from the textbook. And he recognized a fundamental difference between the way the textbook presented a problem and the way he might solve a problem in his own life.
+
+For Meyer, a math problem in the real world has a narrative arc, like a film. “The first act is punchy,” he explains. “You can summarize the premise of every blockbuster movie in a sentence. ‘Shark terrorizes seaside town,’ that sort of thing.” In a math problem, the premise is a question, such as, “How long will it take me to get to Los Angeles?”
+
+During what he calls the “second act” of a film, the characters encounter obstacles and find out what they need to do. In a math problem, the second act involves measuring, determining a formula, or finding out what information is missing.
+
+In the conclusion of a film, the plot reaches a climax and the conflict is resolved. The same goes for a math problem. And in both film and a problem, there’s also a chance to set up a sequel, or extensions, he explains.
+
+However, in a textbook, Meyer says, all of these elements are compressed onto a single page. He refers to this as “psuedo-context” or “pseudo-problem solving.” Generally, he says, a textbook labels the variables and presents all of the measurements upfront. It then asks students several questions leading up to the premise. The intent is to scaffold the material and help students along the way. But, in effect, it does the opposite. Seeing all the material at once is “overwhelming,” says Meyer. “It excludes a lot of people from the process.”
+
+The math problem’s hook is in that final question, or the premise. So that’s where Meyer starts.
+
+For example, when teaching high schoolers, Meyer uses the digital projector to display a photo of himself shooting a basketball. Meyer has doctored the photo so that it shows the ball at several different points along the trajectory, stopping at the apex. “When I put that up on the board, the premise of that problem is obvious to every student. I don’t even have to say it. ‘Will the ball go in?’ That’s what we’re all wondering,” he says.
+
+Then Meyer asks the students to figure out what information they need to determine whether his shot will go in. The students discover they have to measure the arc and need a protractor to do so—in a way writing their own second act. A textbook would have provided this information, Meyer says. But in the real world, “When on earth do you get all the information you need before you know you need it?”
+
+The students can then solve the problem on their own. “The nice thing is that the conclusion of this problem doesn’t come from the back of the book,” says Meyer. “The answer is me playing the video of that exact same shot. And the students see that, ‘Oh, he hit the rim just like I found out.’ I don’t have to use my authority, or the textbook publisher’s authority to say, ‘You’re right.’ They can actually see that they’re right.”
+
+Less Is More
+
+This is all part of what Meyer calls “delegating the sense-making of math to students.” Teachers have a tendency to summarize findings and link concepts, but students should learn to do this on their own, he says. In other words, Meyer says, teachers should “be less helpful.”
+
+At first, when presented with real-world problems, students are hesitant, even reluctant. “It takes a particular deprogramming to wean students off the hard drug of easy answers and having all the information presented to them,” according to Meyer.
+
+But over the course of the year, he says, his classes undergo a striking change. Students begin volunteering questions more readily after the problem has been introduced. “They don’t need very much prodding at all at a certain point,” he says. And Meyer can lecture less, which saves time for students to apply their problem-solving skills.
+
+Meyer’s instructional method has another effect that he did not initially anticipate. “In terms of the hard procedural skills, like factoring trinomials—the stuff that kids find unapproachable sometimes—I can just put a problem up on the board and say, ‘Do what you can with this,’” he says. “They attack the problem similarly to how they would attack the application problems with the visuals and the storytelling structure.” With less hand-holding, in other words, his students become more curious and persistent.
+
+Meyer admits that textbooks often have “good ideas.” At times, he still turns to them for material—looking first at that last question on the page. But whenever possible, Meyer uses math problems he encounters in his own life.
+
+Recently, for example, Meyer saw a commercial for Orbeez—small, hard beads that, according to the company that markets them, will grow to 100 times their size when soaked in water. “I’m hard-wired,” said Meyer, “and I’m assuming that all math teachers are on some level hard-wired, to ask the question: ‘Is that legit? Is it really 100 times bigger?’”
+
+Recognizing these kinds of real-world math moments is something Meyer believes teachers can learn to do. When they sprout up in his own life, he writes them down. “The more I make a habit out of that, the more ideas I get [and] the more often I see it. It’s definitely disciplinary; it’s not just innate.”
+
+As of this academic year, Meyer is no longer teaching but is instead studying curriculum design in a Ph.D. program at Stanford University. His chief interest right now is the future of professional development. “The research I’m reading is just all unanimous that the current PD slate for teachers is pretty grim,” he says. “It’s not effective, it’s not lasting—the ‘sit-n-get workshop’ they call it. I’m very curious about what’s the best way to support PD online.”
+
+The Internet—specifically his blog, dy/dan—has been pivotal to his own professional success. On the blog, which he started in 2004, he continues to upload an abundance of resources, including videos of his lessons. Meyer says he toyed with the idea of charging for the material, but instead opted to give it all away.
+
+“Blogging is not something they told me I should do in teacher-training school,” he says. “It’s just something I started doing as my own little professional development reflection.”
+
+The blog also has been a space for Meyer “to throw some trial balloons out and take some flack.” He writes up both successes and failures, and solicits advice from readers. For instance, after conducting the Orbeez experiment, he posted photos and a procedural explanation, and received dozens of comments in response—several of which came from the brand manager of Orbeez.
+
+Meyer sees a wealth of opportunities for other teachers, especially those in remote areas with little access to experts and resources, to utilize Web-based programs for PD. “I’d love to see a clearinghouse for people to upload these kinds of problems in this format, to see that out there on a free basis,” he says, “and to just really toss a few stones at the Goliath of the publishing industry and say, ‘Hey, it can look like this now.’”
+
+Having traded in his role as teacher for that of doctoral student, Meyer has taken some time to reflect on his instructional philosophy. “Be learning in your own life,” he says. “Be solving math problems in your own life. And then figure out ways to bring those into your classroom in as close of a representation as possible to the real thing.” Because the “real thing,” Meyer has realized, is a better hook than any.
+
+Vol. 04, Issue 02, Page 28
+
+Please enable JavaScript to view the comments powered by Disqus.
+
+Back to Top

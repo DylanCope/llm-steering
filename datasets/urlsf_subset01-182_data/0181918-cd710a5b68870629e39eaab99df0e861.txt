@@ -1,0 +1,35 @@
+Microsoft
+
+Windows 8 may not be selling nearly as well as Microsoft projected, according to a report.
+
+"Sales of Windows 8 PCs are well below Microsoft's internal projections and have been described inside the company as disappointing," Paul Thurrott wrote on his Supersite For Windows today, citing a source inside Microsoft.
+
+The culprit? "Lackluster PC maker designs and availability," according to Thurrott.
+
+But he lists plenty of other reasons too, including Windows 8 itself as "confusing" because of its mix of touch and a standard Windows 7 desktop.
+
+And he cites the simultaneous release of Windows 8 Pro and Windows RT as problematic.
+
+Though Windows 8 Pro can run older Windows software, Windows RT cannot, which "doesn't make a lick of sense," according to Thurrott.
+
+Roger Kay, principal analyst at EndPoint Technologies, agrees. "The split between the Windows 8 Pro and RT versions makes the positioning of Windows 8 difficult," Kay said to CNET on Friday.
+
+Kay continued: "The new touch interface is really fantastic for the high-mobility market, like tablets. But turn the whole world upside down for a few tablets?"
+
+Microsoft, at least publicly, doesn't seem to agree with these assessments. CEO Steve Ballmer, speaking at the Churchill Club in Santa Clara, Calif., this week, said Windows is off to a spectacular start.
+
+Related stories Microsoft has sold 4 million copies of Windows 8 since launch
+
+And at Microsoft's Build conference last month, Ballmer boasted that 4 million copies had been sold in the few days since launch on October 26.
+
+But there have been other reports about a lack of interest in upgrading to Windows 8.
+
+While a general lack of immediate interest in a new operating system is not unusual, based on past Microsoft OS rollouts, the barrier may be higher this time because of the touch-centric interface, particularly at businesses, according to Kay.
+
+Indeed, Windows 8 is spurring innovative hybrid designs, such as the HP Envy x2 and the Acer Aspire S7, which combine the traditional clamshell with touch screens. Consumers and businesses may take a while to fully embrace the new paradigm.
+
+Kay did add that it will take a few months for retail stores to roll over all new PCs to Windows 8. So it won't be until January of next year that Windows 8 is fully represented at retail.
+
+And sales of the Microsoft Surface tablet seem to be doing OK. Initially, the 32GB model was sold out for about a week.
+
+Microsoft, when contacted, did not comment on the report.

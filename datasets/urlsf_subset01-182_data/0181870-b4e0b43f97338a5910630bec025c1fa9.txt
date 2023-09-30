@@ -1,0 +1,7 @@
+A quick update to the USB Roadmap, a few comments from the first version were regarding the arrows. They were a little overwhelming and annoying, so I thought I would re-arrange it a little.
+
+I will look at any changes I can make to the map itself over this weekend, as I will be using it during for a presentation I am planning on the lightning track at BSides London. This would be the first time I have done a public presentation, so wish me luck 🙂
+
+All of the data is identical on this one (except I added the word “enum” before USBSTOR to show it lives next door to “USB”)
+
+Apologies for the lack of posts recently, I have started a new job which gives me less thinking time than my old one. This is a good thing, it means I am busier, sadly the blog has been neglected. I will do what I can to begin adding updates again soon!

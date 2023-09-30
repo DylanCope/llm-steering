@@ -1,0 +1,625 @@
+Conclusion: SC GM atrophy is already detectable at an early stage of MS, in absence of detectable WM atrophy, and affects both the cervical and thoracic cord.
+
+Results: In cervical and thoracic SC, patients had significantly smaller GM areas than controls (C2/C3: p=0.005; T9/T10: p=0.041), but had no significant difference in either the SC white matter (WM) or total cord areas. Cervical and thoracic GM areas were not correlated with the number of SC T2-lesions. In the subgroup of patients without prior SC relapses (N=32), a multivariable model based on cervical SC GM area as the predictor variable with age and sex as covariates explained 48% of EDSS variance. While in the patients with prior SC relapses there was no significant association between SC GM area and EDSS, the number of SC T2-lesions did predict 26% of EDSS variance in this subgroup in a linear model (with age and sex as covariates).
+
+Methods: As part of an observational cohort study, one hundred seventeen subjects were scanned with axial 2D-phase sensitive inversion recovery (PSIR) MRI at 3T: Sixty-four patients at an early stage of MS (mean disease duration from first symptom onset 1.2 years (0–4 years), mean age 36.9 years, median Expanded Disability Status Scale (EDSS) Score 2.0, 44 women) and fifty-three healthy controls (mean age 37.4 years, 38 women). PSIR images were acquired at the intervertebral disc levels C2/C3 and T9/10. EDSS scores were determined in patients.
+
+Objectives: To estimate SC GM area’s potential as a biomarker of disease progression, it is important to understand how early in the MS course SC GM atrophy can be detected, which parts of the cord are affected, and the relationship to SC relapses and T2-lesions.
+
+Background: Spinal cord (SC) gray matter (GM) atrophy was recently described in vivo in patients with long-standing multiple sclerosis (MS) and was shown to correlate with disability and disease type.
+
+Conclusion: A combination of MRI and OCT metrics strongly describe visual dysfunction. These preliminary results may improve the understanding of the pathological mechanisms underlying clinical dysfunction in multiple sclerosis.
+
+Results: We performed a partial least square regression analysis to model LCLA and VEP based on a combination of demographics, MRI (MD, myelin, ODI) and OCT metrics (GCL, pRNFL) considering negative/positive history of optic neuritis. We identified model predictor of LCLA with R-squared up to 0.39 and 0.36 for optic neuritis negative and positive respectively. We determined model predictor of VEP with R-squared up to 0.48 (ON negative) and 0.63 (ON positive).
+
+Methods: Fifty patients enrolled in a clinical trial were studied (age 40.1±10 years, EDSS 2.1±1, and disease duration 5.1±5 years) looking at baseline values and assessments (prior to treatment). Twenty-six patients had a previous history of optic neuritis. MRI: The thalamus, cerebellar cortex and primary visual area were parcellated from MPRAGE volumes as volumes of interest (VOIs) using Freesurfer. Maps of mean diffusivity (MD), orientation dispersion index (ODI) and “myelin water” content were computed. Mean values per each MRI metric were calculated within each VOI averaging left and right hemisphere. Number of occipital cortical lesions and total white matter lesion burden in the optic radiation were detected/segmented by an expert neuroradiologist. OCT: Spectral-Domain OCT (Spectralis, Heidelberg Engineering). We evaluated peripapillary retinal nerve fiber layer (pRNFL) thickness and macular volume with automated segmentation of retinal layers for the quantification of Ganglion Cell Layer (GCL) thickness.
+
+Objectives: To investigate the relative contribution of different MRI and OCT metrics to visual performance measured by low contrast letter acuity (LCLA) and visual evoked potentials (VEP), in MS patients.
+
+Background: Tissue injury underlies neurological dysfunction in neurodegenerative diseases. However, the relationship between structural abnormalities and functional impairment is unknown. The visual pathway (AVP) has shown promise as a highly informative isolated functional system useful for studying the pathological processes that underlie permanent neurological dysfunction in multiple sclerosis. Functional impairment – including both psychophysical dysfunction and electrophysiological response - as well as structural injury along the entire pathway can be quantitatively assayed in the visual system.
+
+1 University of California, San Francisco, San Francisco, CA, 2 University of Genova, Genova, Italy, 3 University of Pavia, Pavia, Italy, 4 Imaging Genetics Center, Stevens Neuroimaging and Informatics Institute, University of Southern California, Los Angeles, CA, 5 Basel University Hospital, Basel, Switzerland, 6 University of California San Francisco, San Francisco, CA
+
+Conclusion: This study identifies specific human gut bacteria that regulate adaptive autoimmune responses, suggesting therapeutic targeting of the microbiota as a novel treatment for MS.
+
+Finally, microbiota transplants from MS patients into germ-free mice results in more severe experimental autoimmune encephalomyelitis and reduced Tregs compared to controls.
+
+We next conducted in-vitro assays to characterize the functional properties of the MS gut microbiota. We found that MS-associated Acinetobacter calcoaceticus was sufficient to reduce Treg differentiation and increase both Th1 and Th2 differentiation. The expansion of Th1 lymphocytes was recapitulated by Akkermansia muciniphila , which was also more abundant in MS patients. In contrast, Parabacteroides distasonis , which was significantly reduced in MS microbiomes, stimulated CD4+ T lymphocyte differentiation into a CD25+ IL-10+ regulatory phenotype. Our results suggest that MS-associated changes in microbiota alter T lymphocyte differentiation in a complex fashion and likely through multiple mechanisms.
+
+Results: We found that MS patients exhibited impaired in-vitro Treg differentiation in response to their own microbiota. No major shifts in microbial community structure were observed. However, we were able to identify individual microbial taxa that were significantly associated with MS and studied their ability to regulate primary human T lymphocyte differentiation in vitro .
+
+Methods: We analyzed the microbiome of stool samples from 64 treatment-naïve MS patients and 68 healthy controls using amplicon sequencing of the 16S V4 region of the rRNA gene. We characterized immune profiles of cultured PBMC in response to specific bacteria harbored by MS patients.
+
+Background: An essential function of the gut microbiota is to regulate immune responses, including T lymphocyte functions in health and disease.
+
+1 University of California, San Francisco, CA, 2 University of California San Diego, La Jolla, CA, 3 Erasmus MC, Rotterdam, Netherlands, 4 TBD, Pasadena, CA, 5 Cal Tech, Pasadena, CA, 6 University of California, La Jolla, CA, 7 Icahn School of Medicine at Mount Sinai, New York, NY, 8 Mount Sinai, New York, NY
+
+V. Late Breaking Posters Section: Choose Top of page V. Cutting Edge Developme... V. Late Breaking Posters <<
+
+LB185
+
+Assessing Cerebral Microglial Activation Using a Novel [F-18] - Based Positron Emission Tomography Ligand in Multiple Sclerosis
+
+Dr. Tarun Singhal , Ms. Kelsey O’Connor, Dr. Shipra Dubey, Dr. Anthony Belanger, Dr. Renxin Chu, Dr. Shahamat Tauhid, Ms. Sheena Dupuy, Dr. Fawad Yousuf, Dr. Marie Kijewski, Prof. Marcelo DiCarli, Prof. Howard Weiner, MD and Prof. Rohit Bakshi, MD, MA, Brigham and Women’s Hospital / Harvard Medical School, Boston, MA
+
+Category: Biomarkers
+
+Background: Microglial activation may play a role in the pathogenesis of multiple sclerosis (MS). Positron emission tomography (PET) can detect microglial activation through labelling of the ‘18kiloDalton translocator protein’ (TSPO). C-11-based TSPO PET radioligands are available but their short half life (20 minutes) precludes their widespread use. [F-18]PBR06 is a novel TSPO ligand that has a longer half-life (110 minutes), and a high signal to noise ratio, but has not been studied in MS.
+
+Objectives: The goals of this pilot study were 1) to compare [F-18]PBR06-derived microglial activation in MS vs. healthy controls (HC), and 2) To assess the relationship between such microglial activation and clinical and MRI findings in MS.
+
+Methods: Genotyping for rs6971 polymorphism in the TSPO gene was performed in all subjects and low affinity binders were excluded. 5 MS subjects (3 women, age 31.1±5.4 years, Expanded Disability Status Scale 2.0±1.2, Timed 25 foot walk 4.4±1.0 seconds) and 5 age- and TSPO genotype-matched HCs (3 women, age 37.8±14.9 years) underwent [F-18]PBR06 PET and 3T brain MRI. Standardized Uptake Value (SUV) maps were created for the 60-90 minute frame and were co-registered to MRI. PET images were segmented into brain regions by the AAL template. Normalized brain parenchymal volumes (SIENAX) and T2 hyperintense lesion volume were assessed.
+
+Results: [F-18]PBR06 SUV was significantly higher in MS vs. HC in the precentral gyrus (mean +12.8% ), inferior frontal and rolandic operculum (+18.7% and +19.8%), posterior cingulum (+21.4%), inferior parietal cortex (+10.9%), temporal pole (+25.6%), hippocampus (+17.5%), thalamus (+15.1%) and caudate (+15.7%) (all p<0.05). Among these regions, significant correlations of [F-18]PBR06 uptake were noted inversely with brain volume in the thalamus (r= -0.78, p<0.05) and positively with disease duration in the posterior cingulum (r=0.82, p<0.05) and thalamus (r= 0.82, p<0.05).
+
+Conclusion: [F-18]PBR06 demonstrated cortical and subcortical grey matter abnormal microglial activation in MS. Such microglial activation may have a role in the development of brain atrophy. Further studies are warranted to assess the utility of [F-18]PBR06 in MS given its longer half-life and potential for widespread use.
+
+LB186
+
+Cerebral Trans-Capillary Water Exchange Rate Constant is Reduced in Progressive Multiple Sclerosis
+
+Dr. Rebecca I Spain, MD, MSPH1, Mr. Ian Tagge1, Dr. Manoj Sammi1, Dr. Shannon R Seals 2, Dr. Dennis Bourdette, MD1, Mr. Randy West1, Mr. John Grinstead1, Ms. Katherine Powers, BA1, Dr. Xin Li1, Dr. Charles Springer1 and Dr. William Rooney, PhD1
+
+1Oregon Health & Science University, Portland, OR, 2Oregon Health and Science University, Portland, OR
+
+Category: Imaging
+
+Background: Pathophysiology of progressive multiple sclerosis (PMS) includes chronic inflammation causing oxidative stress and mitochondrial injury, ultimately accelerating neuronal death. Metabolic deficits, driven by mitochondrial abnormalities, may be important determinants of brain atrophy in PMS. Water exchange across the endothelium of cerebral capillaries is tightly coupled to local metabolic demands and can be mapped by MRI. Trans-capillary water exchange could provide early insight into metabolic deficits in PMS and act as a biomarker of disease progression.
+
+Objectives: To compare cerebral trans-capillary water exchange in PMS to healthy controls (HC) using Shutter-Speed Paradigm (SSP) analysis of dynamic contrast enhanced MRI (DCE-MRI) acquisitions. Outcomes of interest are k po (inverse of mean capillary water molecule lifetime), R 1exv (intrinsic extravascular H 2 O longitudinal relaxation rate constant), and v b (blood volume fraction).
+
+Methods: As part of a larger prospective cohort study, DCE-MRI with SSP was used to investigate outcomes of interest between PMS and HC. A single axial slice (10mm thick) inversion recovery (IR) turboflash sequence was positioned in the centrum semiovale. IR image sets (2.3 s temporal resolution, 50 sets total) were obtained before, during, and after intravenous injection of 14 μmol/kg Gadoteridol. R 1 maps were calculated for each IR image set. Parametric maps were created by voxel-by-voxel SSP modeling of the DCE-MRI data. Tissue segmentation was achieved via bimodal Gaussian fitting of R 1exv histograms. This preliminary cross-sectional analysis used unpaired t-tests to test for significant differences between cohorts in normal appearing white matter (NAWM) and normal appearing gray matter (NAGM).
+
+Results: 16 PMS (5 PPMS, 63% female, 56.5 +/- 8.8 years old, duration since symptom onset 16.2 +/- 9.4 years) and 14 HC (50% female, 49.9 +/- 11.8 years old) were included in this analysis. R 1exv and k po were significantly lower in NAWM and NAGM in PMS compared to HC (p < 0.05). V b was only significantly increased in NAWM (p < 0.0005).
+
+Conclusion: The trans-capillary water exchange rate constant, k po , is lower in PMS and may reflect cerebral metabolic dysfunction. The longitudinal study will determine if this dynamic measure is a sensitive biomarker for disease progression in PMS.
+
+LB187
+
+Phase II Double Blind Trial to Investigate the Efficacy and the Optimal Way of Administration in Active and Progressive Multiple Sclerosis (MS)
+
+Dr. Panayiota Petrou , Dr. Ibrahim Kassis, Md, PhD, Dr. Neta Levin, Mrs. Michelle Hallimi, Prof. Tamir Ben Hur, MD, PhD, Dr. Ariel Ginzberg and Prof. Dimitrios Karussis, MD, PhD, Hadassah University Hospital, Jerusalem, Israel
+
+Category: Clinical Outcome Measures
+
+Background: MSCs have been shown to possess neurotrophic and neuroprotective effects. Two prior pilot studies in our center showed that a single intrathecal(IT), or IV administration of MSCs was safe and well tolerated, and provided indications of clinical efficacy in MS and ALS.
+
+Objectives: To evaluate the safety and efficacy of transplantation of autologous bone marrow-derived mesenchymal stem cells (MSC), in MS.
+
+Methods: The current study involves a double-blind crossover design that will enroll upon completion 48 progressive MS-patients. The study started in February-2015 and till the day of this abstract, 40 patients have already been included. During the 2-month run-in period, functional evaluations (EDSS, MSFC, neurocognitive evaluation, quantitative/functional MRI, OCT, dynamic visual and neurophysiological tests) were performed monthly before the transplantation. Bone marrow-derived MSC (1x106/Kg) or placebo were injected to the patients, IT or IV. At 6-months the patients are treated with a second injection of MSC/placebo and are followed for safety and all the efficacy measures for 12 months. The study was approved by the Ethics committee and MOH and is monitored by an external CRO and a safety committee
+
+Results: No serious treatment-related adverse events have been observed this far. Until today 38 patients received the first transplantation, 27 also the second treatment and 17 patients completed the study.
+
+Conclusion: IT and IM administration of autologous MSCs seems till now to be well-tolerated. Our trial, uniquely, uses the intrathecal way of administration and for the first time a rigorous double blind design utilizing extensive surrogate markers to detect possible clinical effects of regeneration. In addition, this study is the first to try to evaluate the optimal way of administration of stem cells in MS and to evaluate the possible additional benefit of a repeated injection. Detailed and updated safety data will be provided upon presentation (NCT02166021).
+
+LB188
+
+Toe-Off Angle During Walking is Related to Perceived Fatigue Ratings in Women With Multiple Sclerosis
+
+Dr. Bryan D Loy, PhD 1, Dr. Brett W Fling, PhD2, Dr. Rebecca I Spain, MD, MSPH1 and Dr. Fay B Horak, PhD1
+
+1Oregon Health & Science University, Portland, OR, 2Colorado State University, Fort Collins, CO
+
+Category: Clinical Outcome Measures
+
+Background: Fatigue and difficulty walking are two common symptoms among people with multiple sclerosis (MS). Reported relationships between perceived fatigue and gait metrics used to quantify walking difficulty have been inconsistent, potentially due to fluctuations of MS symptoms and studies have not measured “right now” fatigue.
+
+Objectives: To determine the relationships between “past 2 weeks” and “right now” fatigue ratings and gait metrics obtained during a 2-minute walk.
+
+Methods: As part of an ongoing larger cross-sectional study examining MS fatigue and mobility biomarkers, 5 women with MS (4 relapsing-remitting, 1 secondary-progressive); Expanded Disability Status Scale < 5.5; aged 44.4 (± 10.3) years, completed the i) Profile of Mood States (POMS) fatigue subscale, and the ii) state energy and fatigue (SEF) mental and physical fatigue visual analog scales. The POMS assesses fatigue over “the past 2 weeks, including today” while the SEF asks participants to quantify fatigue “right now at this moment”. Participants also completed an instrumented 2-minute walk “as fast as possible” while wearing inertial sensors (APDM Opals; APDM, Inc. Portland, OR) on the feet, wrists, sternum, and lumbar back to obtain gait metrics. Pearson’s r was used to determine the strength of relationships between variables of interest.
+
+Results: “Past 2 weeks” fatigue was above population norms in 80% of the sample. “Right now” physical fatigue was strongly and significantly inversely correlated with both the left (r = -.923, p = .025) and right (r = -.921, p = .026) toe-off angle, although mental fatigue was not (left foot, r = .258, p = .675; right foot, r = .156, p = .802). “Past 2 weeks” fatigue was also correlated with both left (r = -.879, p = .050) and right (r = -.905, p = .035) toe-off angle. Other gait metrics (e.g., cadence, stride length, % time in double support) were not significantly correlated with any perceived fatigue measure. Data collection is on going with an expected N of 20 analyzed for the presentation at ACTRIMS.
+
+Conclusion: Preliminary analyses revealed an inverse association between “past” and “right-now” fatigue and a small toe-off angle in women with MS. Failure to adequately lift the heel prior to toe-off may be a contributor to inadequate foot clearance during the swing phase of gait and may also provide an important outcome measure to monitor interventions aimed at reducing fatigue in women with MS.
+
+LB189
+
+Clinical Efficacy of Plasma-Exchange in Patients with Progressive Forms of Multiple Sclerosis and NMO-Spectrum Disease
+
+Dr. Panayiota Petrou , Prof. Tamir Ben Hur, MD, PhD, Dr. Adi Vaknin, MD, PhD, Prof. Oded Abramsky, MD, PhD and Prof. Dimitrios Karussis, MD, PhD, Hadassah University Hospital, Jerusalem, Israel
+
+Category: Clinical Outcome Measures
+
+Background: Plasma-exchange/plasmapheresis (PLEX) is an ef cient treatment for several immune mediated diseases. In addition to its known efficacy in myasthenia gravis and Gulliain Barre syndrome, it has been also shown to be effective in certain patients with MS and other CNS demyelinating disorders, during an acute/sub-acute deterioration of the disease.
+
+Objectives: We report the results of an open prospective study with PLEX in 36 patients with progressive forms of multiple sclerosis (either secondary progressive or relapsing-progressive) and 12 patients with NMO-spectrum disease
+
+Methods: All patients had experienced a significant clinical deterioration in the year prior to inclusion (0.5-1 degree or more, in the EDSS scale or a severe relapse from which they did not fully recover) and responded partially or not at all to steroidal treatment. The mean EDSS score at inclusion was 5.91 ± 1.46. The mean EDSS for the MS subgroup was 5.95 ± 1.3 and for the NMO subgroup, 5.6 ± 1.4. The mean duration of the disease was 11.4 ± 7.8 years (12 ± 7.6 for the MS and 5.75 4.59 for the NMO). All patients were treated with 5 courses of PLEX in 2 weeks, followed by a monthly course for one year.
+
+Results: Twenty eight of the 48 patients (58.3 %) improved significantly in the EDSS score at year one post initiation of PLEX. The mean EDSS score declined from 5.91 ± 1.46 at inclusion, to 5.41 ± 1.8 at year one. This improvement was more pronounced in the NMO group: Ten out of twelve patients with NMO (83%) improved and their mean EDSS score was reduced from 5.6 ± 1.4 before the treatment to 4.7 ± 1.5 EDSS score post PLEX. In the whole group there were 16 patients with over imposed relapses (relapsing-progressive course) with a total of 26 relapses in the year prior to the inclusion; the number of relapses during the year following PLEX was reduced from 26 to 4. In general patients with prominent myelitic involvement had the most impressive response to the treatment. Five patients suffered from minor infections and one was admitted with sepsis. No other major side effects were observed.
+
+Conclusion: PLEX may benefit some patients with progressive MS and NMO and thus may represent an alternative second line treatment modality for such patients with highly active disease, especially those with myelitic forms, and recent deterioration that did not respond to steroids. Larger, controlled studies are warranted to confirm the efficacy of PLEX in these subgroups of MS
+
+LB190
+
+Maximizing Brain Health in Multiple Sclerosis: A Quality Improvement Framework
+
+Prof. Jeremy Hobart , Plymouth University Peninsula Schools of Medicine and Dentistry, Plymouth, United Kingdom, Ms. Maggie Alexander, Consultant in patient involvement in healthcare decision-making, Argolida, Greece, Ms. Amy Bowen, MS Trust, Letchworth Garden City, United Kingdom, Prof. Helmut Butzkueven, University of Melbourne, Melbourne, Australia, Prof. Gavin Giovannoni, Blizard Institute, Barts and The London School of Medicine and Dentistry, London, United Kingdom, Dr. Tom Kenny, Faculty of Health and Social Sciences, University of Bournemouth, Poole, United Kingdom, Dr. Gisela Kobelt, European Health Economics, Mulhouse, France and Dr. Tjalf Ziemssen, Multiple Sclerosis Center, Center of Clinical Neuroscience, Department of Neurology, University Hospital Carl-Gustav Carus, Dresden University of Technology, Dresden, Germany
+
+Category: Clinical Trials
+
+Background: A 2015 consensus report (Giovannoni G et al. Mult Scler Relat Disord 2016;9:S5–48) highlights variations in key domains of MS care and makes recommendations for improving MS services.
+
+Objectives: To present a quality improvement framework for multiple sclerosis (MS) services that is intended to support healthcare professionals (HCPs) in maximizing lifelong brain health in people with MS.
+
+Methods: First, using action–effect methodology, we proposed: (1) a framework of factors affecting MS service delivery; and (2) metrics for assessing quality and changes in quality. Next, we held a UK workshop (09/13/2016) with multidisciplinary HCPs, people with MS, payers and experts in information management to refine the framework and outcome measures. To complement this qualitative approach, we conducted a survey of HCPs at ECTRIMS 2016 (9392 delegates) to assess priorities for quality improvement.
+
+Results: The framework focuses on five major factors which contribute to maximizing lifelong brain health in people with MS: (1) early referral, (2) early diagnosis, (3) brain-healthy lifestyle, (4) early treatment with disease-modifying therapies (DMTs), and (5) ongoing appropriate treatment with a DMT. At the workshop, these factors were discussed, the proposed framework was refined, and 24 potential outcome measures identified (e.g. for individuals ‘date of diagnosis’; and for clinics ‘proportion of eligible patients taking DMT’). The 72 surveyed HCPs were asked which of the five factors they had tried to improve; the most and least common were: ‘early treatment with a DMT’ (66.7%) and ‘early referral’ (44.4%), respectively. 94.4% of HCPs had tried to improve at least one factor.
+
+Conclusion: Many HCPs are actively trying to improve MS services. The framework of factors affecting MS service delivery and metrics described here could provide the basis for a quality improvement tool, which could be used by clinicians and by people with MS to improve MS care.
+
+LB191
+
+Effect of Smoking and Excess Body Weight on Safety Outcomes in the PREFERMS Study of Treatment Retention in Multiple Sclerosis
+
+Dr. Samuel F Hunter, MD, PhD 1, Dr. Mark Cascione2, Dr. Florian P Thomas, MD, MA, PHD3, Dr. Edward Fox4, Dr. Bruce AC Cree, MD, PhD, MAS5, Dr. Xiangyi Meng6, Dr. Lesley Schofield6, Dr. Fernanda Boulos6 and Dr. Nadia Tenenbaum6
+
+1Advanced Neurosciences Institute, Franklin, TN, 2Tampa Neurology Associates, Tampa, FL, 3Hackensack University Medical Center, Hackensack, NJ, 4Central Texas Neurology Consultants, Round Rock, TX, 5University of California San Francisco, San Francisco, CA, 6Novartis Pharmaceuticals Corporation, East Hanover, NJ
+
+Category: Clinical Trials
+
+Background: Modifiable factors such as smoking and obesity are relevant in multiple sclerosis (MS) because they are associated with increased disability.
+
+Objectives: To explore the effects of smoking or excess body weight on adverse event (AE) rates in PREFERMS, a study of treatment retention on fingolimod and on injectable disease-modifying therapies (iDMTs) in patients with relapsing MS.
+
+Methods: PREFERMS was a 12-month, phase 4, open-label, active-controlled, multicenter study. Patients (either treatment-naïve or treated with one iDMT class [interferon or glatiramer acetate]) were randomized 1:1 to either fingolimod 0.5 mg daily or pre-selected iDMT. One on-study treatment switch was allowed after at least 3 months of treatment, or before if owing to efficacy or safety. In this post hoc subgroup analysis, patients were grouped as having a body mass index (BMI) <25 or ⩾25 kg/m2 and as being current smokers or non-smokers. The study was not powered for subgroup analyses. Post hoc endpoints included retention on randomized treatment, treatment satisfaction (using the patient Medication Satisfaction Questionnaire) and AE rates per patient-year.
+
+Results: In all subgroups, more patients completed the study on fingolimod than on iDMTs (all p<0.0001) and satisfaction was greater in patients randomized to fingolimod than to iDMTs (all p<0.0001). AE rates were consistently numerically higher with iDMTs than fingolimod in both BMI subgroups and in the overall population (fingolimod vs iDMT: BMI<25, 4.28 [n=126] vs 6.80 [n=122]; BMI⩾25, 3.90 [n=307] vs 7.09 [n=306]; overall, 4.01 [n=433] vs 7.01 [n=428]). A similar relationship was seen in non-smokers (3.60 [n=328] vs 6.84 [n=318]) and smokers (5.97 [n=105] vs 7.56 [n=110]), but rates in smokers were numerically higher in each treatment group. In smokers, key respiratory infection rates were numerically lower with fingolimod than with iDMTs (upper respiratory tract infection, 0.036 vs 0.164; sinusitis, 0.097 vs 0.164; influenza, 0.000 vs 0.083; pneumonia, 0.012 vs 0.020). Serious AE rates were similar in the overall population, in the BMI and non-smoker subgroups, and in smokers on fingolimod (0.05–0.09), but were about 2-fold higher in smokers on iDMTs (0.16).
+
+Conclusion: Increased AE rates tended to be associated with smoking but not obesity. Retention and satisfaction tended to be higher with fingolimod than with iDMTs and in smokers, key respiratory infection rates tended to be lower with fingolimod.
+
+LB192
+
+ORY2001 Reduced Lymphocyte Egress and Demyelination in Experimental Autoimmune Encephalomyelitis; Highlights the Epigenetic Axis in Multiple Sclerosis
+
+Dr. Tamara Maes 1, Dr. Fernando Cavalcanti1, Dr. Elena Gonzalez-Rey2, Dr. Mario Delgado2, Dr. Cristina Mascaro1, Dr. Serena Lunardi1, Dr. Michele Lufino1 and Dr. Carlos Buesa1
+
+1ORYZON GENOMICS S.A., Cornella de Llobregat, Spain, 2Institute of Parasitology and Biomedicine, Granada, Spain
+
+Category: Disease Modifying Therapies- Mechanism of Action
+
+Background: ORY-2001 is a clinical stage Lysine Specific Demethylase 1 (LSD1) and Monoamine Oxidase B (MAO-B) inhibitor in development for treatment of neurodegenerative disease. LSD1 demethylates H3K4me1/2 and together with HDAC1/2, forms part of co-repressor complexes recruited by ZNF factors to control transcription. We previously reported that ORY-2001 down-regulates neuroinflammatory genes in the hippocampus of SAMP-8 mice, including S100A9 and T-cell receptor b genes. Up-regulation of S100A9 has been described in Multiple Sclerosis (MS) and in Experimental Autoimmune Encephalomyelitis (EAE) mice. In this model treatment with ORY-2001 greatly inhibited the development of EAE reducing both disease incidence and severity. A selective LSD1 inhibitor showed significant improvement at some timepoints, while the selective MAO-B inhibitor Rasagiline (3mg/kg) was not effective.
+
+Objectives: The objective of this study was to characterize the mode of action (MoA) of ORY-2001 in the EAE model.
+
+Methods: Mice were immunized with MOG35-55 following a standard protocol and treated orally with 0.5 mg/kg ORY-2001 during two weeks following onset of symptoms. The clinical score was assessed and animals were sacrificed on day 26 after immunization (10 days after the maximal clinical score). Spleen and lymph nodes were harvested for cell count and cytokine analysis; medulla and brain were harvested for genome wide microarray analysis, cytokine analysis and morphological analysis.
+
+Results: Results showed that ORY-2001 a) significantly increased cell count in spleen and lymph nodes without affecting MOG or CD3 cell proliferation, pointing at reduced egress of lymphocytes from these organs b) the immune modulatory effect observed was not generalized but specific to the MOG insult, c) significantly altered chemokine and cytokine levels evaluated by qRT-PCR and ELISA related to inflammatory recruitment, d) induced gene expression changes beyond inflammation, and e) significantly reduced demyelination process.
+
+Conclusion: The activity of the multiple sclerosis drug fingolimod (FTY720) has been attributed at least in part to its phosphorylated metabolite FTY720-P, which similarly to sphingosine-1-phosphate (S1P) acts as a HDAC1/2 inhibitor. ORY-2001, an inhibitor of LSD1, recapitulated the main aspects of FTY720-P, demonstrating the relevance of the epigenetic axis in the MoA of these existing and candidate MS drugs. Similarities and differences between the MoA of ORY-2001 and fingolimod will be further discussed.
+
+LB193
+
+Alteration of Thyroid Function Tests Caused by High Dose Biotin Treatment; A Case Report
+
+Dr. Malcolm H Gottesman, MD , Ms. Lorraine Martone, RN, BSN, Dr. Sharon Friedman-Urevich and Mrs. Denise Grueneberg, Winthrop University Hospital, Mineola, NY
+
+Category: Disease Modifying Therapies- Risk Management
+
+Background: Pilot studies have shown high dose Biotin lessens disability progression in patients with primary and secondary progressive multiple sclerosis (MS).
+
+Objectives: To report a case of reversible altered thyroid function testing (TFT) in an MS patient caused by high dose oral Biotin supplementation treated at the Winthrop University Hospital Comprehensive MS Care Center.
+
+Methods: We report a case of significantly altered TFT in a 46 year old white woman with relapsing remitting (RR) MS who was treated with Biotin 100mg three times a day orally for 6 months. TFTs normalized 3 weeks after stopping Biotin.
+
+Results: The patient, a 46 year old white woman, was diagnosed with RR MS in 2013. Natalizumab was initiated with excellent result. The history is notable for type 1 diabetes. Her mother had either Grave’s disease or thyroiditis when the patient was a toddler. The patient was told at that time she had an abnormal thyroid antibody but was euthyroid.
+
+At age 24 she had proptosis of one eye, thyroid disease was suspected clinically but TFT were normal. It resolved without intervention.
+
+Oral Biotin 100 mg three times a day was initiated in January 2016. Pretreatment TSH was normal at 2.079 (.36-5.8) uIU/ml.
+
+In June 2016 TSH studies, performed by 2 different labs were abnormal. Sunrise Medical Lab: TSH, Ultrasensitive: .014 uIU/ml (.27-4.2), Free T-4: > 7.77 NG/DL (.93 -1.70), Free T-4: 7.6 pg/ml (2.0- 4.4). Similar findings were reported from Enzo Clinical Labs.
+
+Endocrinology consult showed no clinical evidence of abnormal thyroid status. Biotin was discontinued in July 2016. Ultrasound revealed a 1.2 cm nodule.
+
+Thyroid biopsy in August 2016 was benign (Category 2), consistent with an adenomatous hyperplastic nodular goiter.
+
+TFT results returned to normal within a month of stopping Biotin.
+
+Conclusion: This patient had markedly abnormal TFT with no clinical evidence of abnormal thyroid function.
+
+The biopsy showed a benign nodule that was felt to be incidental and not related to the abnormal TFT.
+
+High dose biotin is known to alter the TFT assay and give erroneous values. The prompt normalization of TFT after discontinuing biotin and the patient’s consistent euthyroid clinical status makes interference with the assay by Biotin the most likely cause of the abnormal test results. The biopsy revealed an incidental, non-clinically significant finding. Clinicians who use high dose oral Biotin must be aware of the possibility of interference with the TFT assay.
+
+LB194
+
+JC Titers in Multiple Sclerosis (MS) Patients Treated With Rituximab, Fingolimod and Dimethyl Fumarate at an American MS center
+
+Dr. Malcolm H Gottesman, MD 1, Dr. Stephen Farley2, Dr. Sharon Friedman-Urevich1, Ms. Janin Ye3, Mrs. Denise Grueneberg1 and Ms. Lorraine Martone, RN, BSN1
+
+1Winthrop University Hospital, Mineola, NY, 2Winthrop University Hosptial, Mineola, NY, 3New York University, New York, NY
+
+Category: Disease Modifying Therapies- Risk Management
+
+Background: Progressive Multifocal Leukoencephalopathy (PML), a potentially fatal viral infection caused by the John Cunningham (JC) virus, has occurred as a complication of treatment with Rituximab, Fingolimod and Dimethyl Fumarate. A positive JC titer indicates exposure to the JC virus and potential risk for PML.
+
+Objectives: Determine the JC antibody titers in MS patients treated with Rituximab, Fingolimod and Dimethyl Fumarate at our center.
+
+Methods: Retrospective chart review of JC antibody titers in MS patients treated at the Winthrop University Hospital Comprehensive MS Center from January 1, 2013 to September 1, 2016. JC index values are reported as: <.20 Negative (Neg), .20-.40 Indeterminate (Indt), >.40 positive (Pos). Some results were obtained prior to titer reporting and are indicated as positive or negative. Some data was not available (NA). The most current value was recorded.
+
+Results: 224 patients were evaluated. Female (F): 158, Male (M): 66. Asian (A): 4, Black (B): 37, Caucasian (C): 147, Hispanic (H): 20, NA: 16.
+
+Rituximab: 36 Patients: F/M: 22/14. A(0), B(7), C(16), H(9), NA(4)
+
+JCV Status: Pos: 19 (52%), Neg: 5 (14%), NA: 12 (33%)
+
+Fingolimod: 58 Patients: F/M: 39/19. A(1), B (11), C(35), H(6), NA(5)
+
+JCV Status: Pos: 34 (59%), Indt: 6 (10%), Neg: 8 (14%), NA: 10 (17%)
+
+Dimethyl Fumarate: 130 Patients: F/M: 97/33. A(3), B(19), C(96), H(5), NA(7)
+
+JCV Status: Pos: 64 (49%), Indt: 24 (18%), Neg: 29 (22%), NA: 13 (10%)
+
+Conclusion: 52% of the patients are known JC antibody positive. Per medication the rates are:
+
+Fingolimod: 59%, NA 17%
+
+Rituximab: 52%, NA 33%
+
+Dimethyl Fumarate: 49%, NA 10%
+
+Assuming that 50% of the NA values are positive the estimated Pos rates are:
+
+Fingolimod: 67%
+
+Rituximab: 68%
+
+Dimethyl Fumarate: 55%
+
+It appears in our sample there is an increased rate of JC positivity in patients treated with Fingolimod and Rituximab. The incidence in Dimethyl Fumarate treated patients approximates the the general population. The increased incidence in Fingolimod and Rituximab patients reflects the intentional use of these agents in known JC positive patients.
+
+LB195
+
+Multiple Sclerosis Associated with Thyroid Dysfunction in a Group of Patients from the Pichincha Province in Ecuador
+
+Dr. Patricia Gabriela Zambrano , Internist, Universidad Tecnologica Equinoccial, Quito, Ecuador; Pontificia Universidad CatÃ³lica del Ecuador, Quito, Ecuador and Dr. Felipe Mosquera, Internal Medicine Specialist, Pontificia Universidad Catolica del Ecuador, Quito, Ecuador; Hospital Carlos Andrade Marin, Quito, Ecuador
+
+Category: Epidemiology
+
+Background: There is little information available about thyroid dysfunction in Multiple Sclerosis (MS) patients, most of such data comes from studies that focus on the influence on interferon beta-1b and its relationship with hypothyroidism. Being an Andean country, Ecuador is considered a country with a high prevalence of hypothyroidism
+
+Objectives: To analyze the epidemiological profile of hypothyroidism in a group of MS patients in the Pichincha province of Ecuador.
+
+Methods: We chose to perform an observational, descriptive cross-cut study in those patients treated for MS at the Hospital Carlos Andrade Marin of Ecuador which were also diagnosed with hypothyroidism during the period going from September 2013 to October 2015.
+
+Results: We included 81 patients with MS in which 17.2% (n=14) were also diagnosed with some form of hypothyroidism, from these only one patient was male. The mean of age was 40 years. For those patients with hypothyroidism, the most common subtype of MS was the Remittent Recurrent (RR) variety, accounting for 78.5% of the cases, whereas 21% cases accounted for the progressive types. The association of type 2 Diabetes Mellitus (DM-2) and MS was found in 24% of the study group (n=4). It is worth noting that 14% (n=2) of the patients with MS and hypothyroidism had the diagnosis of other autoimmune disease such as Systemic Lupus Erythematosus (SLE). In our study group 35% (n=5) of these patients had received treatment with interferon beta-1b. As a final observation those patients diagnosed with other autoimmune condition tended to present a higher disability score as measured by the Extended Disability Status Scale (EDSS) regardless of the subtype of MS. Due to the size of our population we were not able to determine whether there were any differences between the presence of thyroid dysfunction the subtype of MS. However, it is noteworthy that our study showed a higher index of disability in those patient with other autoimmune illness.
+
+Conclusion: The prevalence of hypothyroidism in our MS patients is similar to that present in other studies, however due to our group’s size we were not able to determine whether it is comparable to that of the general population in our country.
+
+LB196
+
+Cognitive Fatigue is Associated with Diffuse GM Atrophy
+
+Dr. Alfredo Damasceno , Prof. Benito P Damasceno and Prof. Fernando Cendes, University of Campinas, Campinas, Brazil
+
+Category: Imaging
+
+Background: Fatigue affects up to 80% of MS patients and significantly impacts their quality of life. Its pathophysiology has been linked to thalamo-striato-cortical network involvement. Cognitive fatigue (CF) is also a common feature among MS patients and can be defined as decreased performance with sustained cognitive effort. However, few studies have addressed the pathophysiology underlying CF.
+
+Objectives: To investigate grey-matter damage in mildly disabled MS patients, addressing which variables were associated with CF.
+
+Methods: Forty-nine relapsing-remitting MS (RRMS) patients and 30 controls underwent MRI (3T). Fatigue was assessed using the Fatigue Severity Scale (FSS). CF was assessed using the PASAT test with with dyad scoring method.
+
+Results: Fatigue was present in twenty-two (44.9%) patients. CF was present in 25.5% patients. Compared to patients without CF, those with CF had similar disease duration, EDSS and depression scores. Patients with CF had lower cortical GM volume (F = 20.1; p < 0.001), thalamus volume (F = 6.06; p = 0.005), striatal volume (F = 7.29; p = 0.002) and cerebellar GM volume (F = 26.0; p < 0.001). These findings remained statistically significant after controlling for EDSS.
+
+Conclusion: MS patients with CF have global cortical and subcortical GM atrophy, independently of physical disability.
+
+LB197
+
+MRI Evaluation of Thalamic Volume Differentiates MS from Common Mimics
+
+Dr. Andrew J Solomon 1, Mr. Blake E Dewey2, Dr. Richard Watts1 and Dr. Daniel S Reich3
+
+1University of Vermont, Burlington, VT, 2NIH, NINDS, Bethesda, MD, 3NIH-Translational Neuroradiology Section, Bethesda, MD
+
+Category: Imaging
+
+Background: Multiple sclerosis diagnosis remains challenging, and misdiagnosis a frequent problem. New imaging techniques may allow the differentiation of MS from other disorders. Thalamic atrophy has been identified early in the disease course of MS, including in pediatric MS, pre-symptomatic MS, clinically isolated syndrome, and early diagnosed MS. Tractography studies suggest that thalamic volume loss might be due to disruption of thalamocortical pathways caused by white matter lesions.
+
+Objectives: To determine if MRI evaluation of thalamic volume differentiates MS from other disorders causing MRI white matter abnormalities.
+
+Methods: There were 40 study subjects: ten cases each of MS with and without additional comorbidities for white matter abnormalities (MS+c and MS-c); ten cases of migraine, MRI white matter abnormalities, and no additional cormorbidities for white matter abnormalities (Mi-c); and ten cases with various diagnoses who were previously incorrectly diagnosed with MS (Misdx). T1-MPRAGE and T2-weighted 3D FLAIR sequences were acquired on a Phillips Achieva d-Stream 3T MRI in all subjects, and scans were randomly ordered and de-identified for a blinded reviewer who performed MRI segmentation using LesionTOADS.
+
+Results: An analysis of variance of thalamic volume was significant (p=0.005). Thalamic mean volumes were smaller in the 20 MS cases compared to the 20 non-MS cases (p<0.001). Mean thalamic volume was smaller in MS-c compared to Mi-c (p=0.03), and smaller in MS+c compared to Misdx (p=0.006). There was no difference in mean thalamic volumes between MS-c and MS+c (p=0.24). MS cases were 3 times more likely (15/20 vs 5/20) to have normalized thalamic volume <0.0077. ANOVA was nonsignificant for caudate or putamen volumes, and caudate and putamen mean volumes were not significantly different between MS and non-MS.
+
+Conclusion: MRI evaluation of thalamic volumes, but not other deep gray matter structures, differentiated MS from other diseases causing white matter abnormalities that are often mistaken for MS. This suggests that thalamocortical pathways may be disproportionately affected in MS compared to other causes of white matter disease. Further prospective study of MRI evaluation of thalamic volume in patients with suspected MS may provide data for its value in for improving diagnostic accuracy.
+
+LB198
+
+Chromatin-modifying enzymes and histone H3 acetylation is altered in peripheral blood mononuclear cells from Relapsing-Remitting Multiple Sclerosis
+
+Dr. Amanda K Huber, PhD 1, Dr. Benjamin M Segal, MD1 and Dr. David Irani, M.D.2
+
+1University of Michigan, Ann Arbor, MI, 2University of Michigan Medical School, Ann Arbor, MI
+
+Category: Imaging
+
+Background: Multiple sclerosis (MS) is a complex autoimmune demyelinating disease of the central nervous system that is driven by both genetic and environmental factors. MS shows pathological and clinical heterogeneity, and patients manifest variable responses to different disease-modifying therapies (DMTs). Despite decades of genome-wide association studies and candidate-gene based approaches, relatively few genes, with the exception of HLA, have been shown strongly associated with MS. Those identified to date have only modest effects on disease susceptibility (OR 1.03-1.50), and collectively account for only ~25% of MS heritability. Therefore, other non-genetic mechanisms, such as epigenetic modifications, may be important in disease susceptibility and pathogenesis.
+
+Objectives: To determine whether differences in chromatin-modifying enzymes and global expression of histone H3 modifications exist in peripheral blood mononuclear cells (PBMCs) from relapsing-remitting (RR)-MS patients compared to healthy controls (HC).
+
+Methods: PBMCs from treatment naive healthy controls and RRMS patients at baseline and 6 months after starting on the DMT IFN-β were collected. RNA and total cellular lysates, including the nuclear fraction, were prepared from these cells. Chromatin-modifying enzymes were analyzed from the RNA using a multiplex QPCR array. Total H3 acetylation was measured from protein cellular lysates using ELISA.
+
+Results: Enzymes responsible for histone acetylation, were dysregulated in RRMS compared to HC. Consistent with modifying enzyme changes in these patients, treatment naive RRMS patients demonstrated decreased levels of global histone H3 acetylation, although not significant, compared to HC. After 6 months of IFN-β treatment, global H3 acetylation in these same RRMS patients was slightly decreased compared to their treatment naive levels, and was significantly less than a similarly drawn HC.
+
+Conclusion: These data suggest there is dysregulated chromatin-modifying enzyme expression and decreased global H3 acetylation in RRMS patients compared to HC, and that IFN-β treatment further increases this difference. These preliminary studies were performed using whole PBMCs, and the data cannot define the extent to which a single immune cell subset contributes to these differences. Future studies analyzing exact epigenetic differences in specific immune cell subsets during RRMS are needed to define which modifications in which cell subsets may be important to RRMS disease susceptibility and pathogenesis.
+
+LB199
+
+Spinal Cord Gray Matter Atrophy is Detectable at an Early Stage of Multiple Sclerosis
+
+Dr. Regina M Schlaeger 1,2, Dr. Nico Papinutto, PhD3, Ms. Alyssa Zhu, BS4, Ms. Carolyn Bevan, MD3, Dr. Eduardo Caverzasi, MD3, Ms. Kesshi Jordan5, Dr. Iryna Lobach5, Ms. Anisha Keshavan6, Dr. Antje Bischof3, Ms. Gina Kirkish3, Mr. William Stern5, Mr. Michael Devereux3, Mr. Nicholas Baker3, Dr. Riley Bove, M.D.5, Dr. Jeffrey Gelfand, MD5, Dr. Jennifer S Graves, MD, PhD, MAS1, Dr. Ari Green3, Dr. Michael Wilson5, Dr. Emmanuelle Waubant, MD, PhD1, Dr. Douglas Goodin, MD5, Dr. Bruce AC Cree, MD, PhD, MAS5, Prof. Stephen L Hauser, MD5 and Dr. Roland G Henry, PhD1,5,7
+
+1University of California San Francisco, San Francisco, CA, 2University Hospital Basel, Basel, Switzerland, 3University of California, San Francisco, San Francisco, CA, 4Imaging Genetics Center, Stevens Neuroimaging and Informatics Institute, University of Southern California, Los Angeles, CA, 5UCSF, San Francisco, CA, 6University of San Francisco, California, San Francisco, CA, 7University of California San Francisco and Berkeley, San Francisco, CA
+
+Category: Imaging
+
+Background: Spinal cord (SC) gray matter (GM) atrophy was recently described in vivo in patients with long-standing multiple sclerosis (MS) and was shown to correlate with disability and disease type.
+
+Objectives: To estimate SC GM area’s potential as a biomarker of disease progression, it is important to understand how early in the MS course SC GM atrophy can be detected, which parts of the cord are affected, and the relationship to SC relapses and T2-lesions.
+
+Methods: As part of an observational cohort study, one hundred seventeen subjects were scanned with axial 2D-phase sensitive inversion recovery (PSIR) MRI at 3T: Sixty-four patients at an early stage of MS (mean disease duration from first symptom onset 1.2 years (0–4 years), mean age 36.9 years, median Expanded Disability Status Scale (EDSS) Score 2.0, 44 women) and fifty-three healthy controls (mean age 37.4 years, 38 women). PSIR images were acquired at the intervertebral disc levels C2/C3 and T9/10. EDSS scores were determined in patients.
+
+Results: In cervical and thoracic SC, patients had significantly smaller GM areas than controls (C2/C3: p=0.005; T9/T10: p=0.041), but had no significant difference in either the SC white matter (WM) or total cord areas. Cervical and thoracic GM areas were not correlated with the number of SC T2-lesions. In the subgroup of patients without prior SC relapses (N=32), a multivariable model based on cervical SC GM area as the predictor variable with age and sex as covariates explained 48% of EDSS variance. While in the patients with prior SC relapses there was no significant association between SC GM area and EDSS, the number of SC T2-lesions did predict 26% of EDSS variance in this subgroup in a linear model (with age and sex as covariates).
+
+Conclusion: SC GM atrophy is already detectable at an early stage of MS, in absence of detectable WM atrophy, and affects both the cervical and thoracic cord.
+
+LB200
+
+Does White Matter Tract Damage Affect Task Related fMRI Activation in Multiple Sclerosis Related Cognitive Impairment?
+
+Dr. Flavia Nelson 1, Dr. Joel L Steinberg2, Dr. Zafer Keser3, Dr. Jeffrey Wilken4 and Prof. Khader M Hasan3
+
+1University of Texas Health Science Center at Houston/ McGovern Medical School, Houston, TX, 2Virginia Commonwealth University, Richmond, VA, 3University of Texas Health Science Center-Houston, Houston, TX, 4Georgetown University Medical Center, Faifax, VA
+
+Category: Imaging
+
+Background: Multiple sclerosis (MS) related cognitive impairment (CI) has been shown to correlate with increased functional connectivity by functional MRI (fMRI), in conjunction with wide spread structural tract damage by diffusion tensor imaging (DTI). Task related activation based on cognitive paradigms, has not been associated with structural damage of cognition related white matter pathways or with cortical diffusivity by DTI.
+
+Objectives: To evaluate the main cognition related long association tracts, and regional cortical gray matter (rCGM) using DTI-based tractography and to look at their associations with blood oxygenation level dependent (BOLD) activation by fMRI in MS patients with and without CI.
+
+Methods: 50 MS patients [EDSS 0-7 mean (m) =3.2, DD 1-37 yr. m=12, age 18-58 yr. m=40, 46RR, 3 SP, 1 PR] underwent the minimal assessment of cognitive function in MS (MACFIMS) and an fMRI session with a novel fMRI paradigm shown to detect CI in MS; the Immediate/Delayed Memory Task (I/DMT). DTI-derived measures of fractional anisotropy (FA) and mean diffusivity (MD) were obtained and statistically analyzed for associations with CI after adjusting for age, lesion load, and education. BOLD activation between non-impaired (MSNI) and impaired (MSCI) patients was calculated based on I/DMT and correlated with DTI derived measures.
+
+Results: MSNI patients (N=10) had significantly greater BOLD activation than MSCI (N=30) in portions of the left (L) middle frontal gyrus (g), L superior frontal g, L superior medial frontal g, and L supplementary motor area (2-tailed FWE-corrected cluster, p=0.032; cluster extent=529 voxels). CI correlated with decreased FA in the inferior fronto-occipital fasciculus [r=0.52; p=0.001], inferior longitudinal fasciculus [r=0.43; p=0.008], dentorubro-thalamic tracts [r=0.46; p=0.004], cingulum [r=0.49; p=0.002], and with regional cortical thicknesses of the isthmus-cingulate, middle and superior temporal cortices [r=-0.60, (p= 0.0002), -0.59 (p=0.0003) and -0.41 (p=0.01)]. In regression analysis BOLD activation showed an inverse correlation with MD, in the same area of the L frontal cortex (r=-0.341, p=0.024) but no association was found between BOLD activation and FA of the adjacent cognition related white matter tracts.
+
+Conclusion: Regional cortical damage by DTI, correlates with fMRI based task related BOLD activation in MS related CI, but associations with structural damage of cognitive pathways adjacent to the BOLD signal was not seen.
+
+LB201
+
+Diffusion Basis Spectrum Imaging Parameters of Acute Multiple Sclerosis Lesions can Predict Persistent Black Holes
+
+Dr. Lindsey Wooliscroft 1, Mr. Gautam Adusumilli1, Mr. Zachary Goodman1, Dr. Peng Sun, PhD2, Dr. Ajit George1, Ms. Samantha Lancia3, Dr. Kathryn Trinkaus, PhD3, Dr. Robert Naismith2, Prof. Victor Song2 and Prof. Anne H Cross, MD2
+
+1Washington University in St., Saint Louis, MO, 2Washington University in St. Louis - School of Medicine, St. Louis, MO, 3Washington University, St Louis, MO
+
+Category: Imaging
+
+Background: Around 35% of contrast-enhancing lesions (CELs) in multiple sclerosis (MS) evolve into persistent black holes (PBHs), which have greater axonal loss than non-black holes. We previously used diffusion tensor imaging (DTI) parameters to predict PBH formation. Diffusion basis spectrum imaging (DBSI) is the next generation diffusion technique, which models diffusion weighted MR signals as a linear combination of multiple anisotropic diffusion tensors (representing axon fibers and tracts) and a spectrum of isotropic diffusion tensors (representing cells, edema and extracellular water). DBSI resolves the confounding effect of crossing fibers and quantitatively identifies inflammation that confound DTI interpretation.
+
+Objectives: To determine if DBSI of CELs can predict the subsequent development of PBHs, which are a surrogate of tissue damage and axonal loss.
+
+Methods: Ten MS patients with CELs were imaged monthly on a 3.0T Siemens Trio scanner until enhancement ceased. A region of interest (ROI) representing the CEL was drawn on the T1W postcontrast image at time of maximum contrast-enhancement. DBSI-determined parameters including fractional anisotropy (FA), axial and radial diffusivity, and fiber fraction for the CEL were compared to an ROI drawn on contralateral normal-appearing white matter. Twelve months later, development of PBH or persistent gray hole (PGH) was determined by two examiners with a third adjudicator. Generalized estimating equations models were used to estimate the probability of becoming a PBH (vs. PGH vs. no black hole) using DBSI-derived parameters from multilevel imaging data. Probabilities were adjusted for lesion volume and enhancement duration.
+
+Results: The probability of becoming a PBH at 12 months decreased with increasing fiber fraction, fiber axial diffusivity, fiber FA and restricted isotropic fraction at baseline. Odds ratios were 0.02 (95% CI: .0086 – 0.11), 0.06 (95% CI: .021 – 0.19), 0.02 (95% CI: .0071 – 0.077), and 0.04 (95% CI: .015 – 0.093), respectively.
+
+Conclusion: The probability of an acute CEL evolving into a PBH 12 months later decreases as the DBSI parameters of fiber fraction (apparent axon density), fiber axial diffusion (consistent with less axonal injury), fiber FA (consistent with less axonal injury) and restricted isotropic fraction (apparent cell density) increase.
+
+LB202
+
+Imaging Predictors for the Transition from Relapsing to Secondary Progressive Multiple Sclerosis
+
+Dr. Antje Bischof 1,2, Dr. Nico Papinutto, PhD2, Ms. Anisha Keshavan2, Ms. Carolyn Bevan, MD2, Ms. Gina Kirkish2, Mr. William Stern2, Ms. Alyssa Zhu, BS3, Dr. Elizabeth Crabtree-Hartmann, MD2, Dr. Jeffrey Gelfand, MD2, Dr. Douglas Goodin, MD2, Dr. Jennifer S Graves, MD, PhD, MAS2, Dr. Ari Green2, Dr. Regina M Schlaeger2,4, Dr. Emmanuelle Waubant, MD, PhD2, Dr. Scott Zamvil2, Dr. Bruce AC Cree, MD, PhD, MAS2, Prof. Stephen L Hauser, MD2 and Dr. Roland G Henry, PhD2
+
+1Basel University Hospital, Basel, Switzerland, 2University of California, San Francisco, San Francisco, CA, 3Imaging Genetics Center, Stevens Neuroimaging and Informatics Institute, University of Southern California, Los Angeles, CA, 4University Hospital Basel, Basel, Switzerland
+
+Category: Imaging
+
+Background: Despite partially effective anti-inflammatory treatment, some patients with relapsing MS (RMS) transition to a secondary progressive disease course. Conversion to SPMS is known to be highly variable (Lorscheider et al, 2016), and objective biomarkers for the prediction of SPMS are sorely needed. MRI provides a sensitive in vivobiomarker for both, the inflammatory and neurodegenerative component of MS.
+
+Objectives: Utilizing a large longitudinally monitored MS cohort designated “EPIC” (Cree et al, 2016), we evaluated the predictive value of brain and spinal cord MRI parameters for conversion to secondary progressive MS (SPMS) focusing on a subset of patients who transitioned after enrollment.
+
+Methods: From the EPIC cohort, 10% or 42 patients with RMS transitioned to SPMS during the 12-year observation period, and these individuals were matched for age, sex and disease duration to 42 patients with relapsing remitting disease. Brain T1 and T2 and cervical cord T2 lesion load were analyzed longitudinally in a subset of 20 patients for whom this data existed. Upper cervical cord area was measured on T1 weighted brain images on 5 consecutive slices 20 to 25 cm caudally to the inferior margin of the pons, according to Liu et al. (Liu et al, 2015)
+
+Results: Patients who transitioned to SPMS had more enlarging T2 hyperintense lesions within the spinal cord before and after transition to SPMS than did patients with RMS. Notably, there was an accelerated loss of total cord area in the SPMS group compared to patients with RRMS before and after the transition to SPMS. There was a difference in the ventricular expansion between the patients who transitioned to SPMS and RRMS patients.
+
+Conclusion: Compared with RMS patients who did not develop SPMS, patients transitioning to SPMS exhibited more active inflammatory spinal cord disease as well as accelerated loss of cervical cord volume before and after developing clinically progressive disease.
+
+LB203
+
+The MS-Associated Gut Microbiome
+
+Dr. Sergio E Baranzini, PhD 1, Dr. Egle Cekanaviciute, PhD2, Dr. Justine Debelius, PhD3, Ms. Sneha Singh1, Dr. Tessel Runia4, Mr. Bryan Yoo5, Dr. Elizabeth Crabtree-Hartmann, MD6, Dr. Riley Bove, M.D.6, Dr. Jeffrey Gelfand, MD6, Dr. Sherman Jia1, Dr. Jennifer S Graves, MD, PhD, MAS7, Mr. John Morrissey1, Prof. Stephen L Hauser, MD7, Prof. Sarkis Mazmanian8, Prof. Rob Knight9, Dr. Ilana Katz Sand, M.D.10, Prof. Patrizia Casaccia11, Dr. Bruce AC Cree, MD, PhD, MAS7, Mrs. Refujia Gomez12 and Dr. Ari Green6
+
+1UCSF School of Medicine, San Francisco, CA, 2University of California San Francisco School of Medicine, San Francisco, CA, 3University of California San Diego, La Jolla, CA, 4Erasmus MC, Rotterdam, Netherlands, 5TBD, Pasadena, CA, 6UCSF, San Francisco, CA, 7University of California, San Francisco, San Francisco, CA, 8Cal Tech, Pasadena, CA, 9University of California, La Jolla, CA, 10Icahn School of Medicine at Mount Sinai, New York, NY, 11Mount Sinai, New York, NY, 12University of California, San Francisco, CA
+
+Category: Microbiome
+
+Background: An essential function of the gut microbiota is to regulate immune responses, including T lymphocyte functions in health and disease.
+
+Objectives: We hypothesized that gut microbiota contribute to the pathogenesis of MS.
+
+Methods: We analyzed the microbiome of stool samples from 64 treatment-naïve MS patients and 68 healthy controls using amplicon sequencing of the 16S V4 region of the rRNA gene. We characterized immune profiles of cultured PBMC in response to specific bacteria harbored by MS patients.
+
+Results: We found that MS patients exhibited impaired in-vitro Treg differentiation in response to their own microbiota. No major shifts in microbial community structure were observed. However, we were able to identify individual microbial taxa that were significantly associated with MS and studied their ability to regulate primary human T lymphocyte differentiation in vitro.
+
+We next conducted in-vitro assays to characterize the functional properties of the MS gut microbiota. We found that MS-associated Acinetobacter calcoaceticus was sufficient to reduce Treg differentiation and increase both Th1 and Th2 differentiation. The expansion of Th1 lymphocytes was recapitulated by Akkermansia muciniphila, which was also more abundant in MS patients. In contrast, Parabacteroidesdistasonis, which was significantly reduced in MS microbiomes, stimulated CD4+ T lymphocyte differentiation into a CD25+ IL-10+ regulatory phenotype. Our results suggest that MS-associated changes in microbiota alter T lymphocyte differentiation in a complex fashion and likely through multiple mechanisms.
+
+Finally, microbiota transplants from MS patients into germ-free mice results in more severe experimental autoimmune encephalomyelitis and reduced Tregs compared to controls.
+
+Conclusion: This study identifies specific human gut bacteria that regulate adaptive autoimmune responses, suggesting therapeutic targeting of the microbiota as a novel treatment for MS.
+
+LB204
+
+Variations in the Gut Microbiome in Relapsing Multiple Sclerosis
+
+Dr. Evdokia Eleftheriou 1, Ms. Simona Nedelcu2, Ms. Lauren Hall2, Ms. Carolyn Griffin3, Dr. Ana Luisa Maldonado-Contreras1, Dr. Beth McCormick4, Dr. Doyle Ward1, Dr. Raffi Aroian2 and Dr. Carolina Ionete, MD, PHD5
+
+1University of Massachusetts, Worcester, MA, 2University of Massachusetts Medical School, Worcester, MA, 3University of Massacusetts Memorial Medical Center, Worcester, MA, 4University of Massachusetts Center for Microbiome Research, Worcester, MA, 5UMASS, WORCESTER, MA
+
+Category: Microbiome
+
+Background: Multiple sclerosis (MS) is a chronic inflammatory autoimmune disease of the central nervous system. Most patients present as a relapsing remitting form, the majority of which enter a progressive stage with fewer relapses. The gut microbiome consists of thousands of bacterial species and studies in animal models and in humans have shown significant differences in species between individuals. The development and maintenance of the microbiome may be influential in autoimmune diseases, such as MS. A number of small case-control studies were able to demonstrate significant differences between the microbiome in MS patients and healthy controls.
+
+Objectives: Our goal was to identify the composition of intestinal microflora in patients with relapsing MS, during an acute flare or stable disease, and compare with healthy controls, in order to demonstrate variations in gut microflora between the acute and stable stages of Relapsing Multiple Sclerosis.
+
+Methods: Fecal samples were collected from a total of 10 relapsing MS patients, 8 patients with acute flares and 2 with stable disease, and 3 healthy controls. DNA was extracted from the samples using PowerSoil DNA Isolation Kit. 16S rDNA community profiling and sequencing was used to identify the microbiome composition. Patient demographic and clinical data was obtained from medical records. Additional fecal samples are being collected in MS patients with acute flares and compared to samples obtained two weeks later to further assess differences in microbiome longitudinally. These data will be presented at the meeting.
+
+Results: Significant differences are noted in the composition of gut microbiota regarding alpha diversity and beta diversity between the acute flare MS group and both the control and stable MS group. Levels of Firmicutes-Clostridium IV, Bacteroidetes and Barnesiella are increased in patients with active disease when compared to both the stable disease and control groups.
+
+Conclusion: Our results show differences between relapsing MS patients with active disease and both patients with stable MS and healthy controls. This supports the hypothesis that the gut microbiome has an important influence in autoimmune disease. Our ultimate goal is to further investigate these differences in microflora to determine biomarkers as predictors of disease activity as well as potential therapeutic interventions to control disease activity.
+
+LB205
+
+Predicting Visual Function Clinical Outcome in MS: A MRI and OCT Metrics Study
+
+Dr. Christian Cordano 1,2, Dr. Eduardo Caverzasi, MD1,3, Ms. Alyssa Zhu, BS4, Dr. Antje Bischof1,5, Ms. Gina Kirkish6, Dr. Nico Papinutto, PhD6, Mr. Michael Devereux1, Mr. Nicholas Baker1, Mr. Sam Arnow1, Mr. Justin Inman1, Mr. Hao Yiu1, Ms. Carolyn Bevan, MD1, Dr. Jeffrey Gelfand, MD6, Dr. Bruce AC Cree, MD, PhD, MAS1, Prof. Stephen L Hauser, MD1, Dr. Roland G Henry, PhD6 and Dr. Ari Green1
+
+1University of California, San Francisco, San Francisco, CA, 2University of Genova, Genova, Italy, 3University of Pavia, Pavia, Italy, 4Imaging Genetics Center, Stevens Neuroimaging and Informatics Institute, University of Southern California, Los Angeles, CA, 5Basel University Hospital, Basel, Switzerland, 6University of California San Francisco, San Francisco, CA
+
+Category: Neuro - Ophthalmology
+
+Background: Tissue injury underlies neurological dysfunction in neurodegenerative diseases. However, the relationship between structural abnormalities and functional impairment is unknown.The visual pathway (AVP) has shown promise as a highly informative isolated functional system useful for studying the pathological processes that underlie permanent neurological dysfunction in multiple sclerosis. Functional impairment – including both psychophysical dysfunction and electrophysiological response - as well as structural injury along the entire pathway can be quantitatively assayed in the visual system.
+
+Objectives: To investigate the relative contribution of different MRI and OCT metrics to visual performance measured by low contrast letter acuity (LCLA) and visual evoked potentials (VEP), in MS patients.
+
+Methods: 50 patients enrolled in a clinical trial were studied (age 40.1±10 years, EDSS 2.1±1, and disease duration 5.1±5 years) looking at baseline values and assessments (prior to treatment). Twenty-six patients had a previous history of optic neuritis. MRI: The thalamus, cerebellar cortex and primary visual area were parcellated from MPRAGE volumes as volumes of interest (VOIs) using Freesurfer. Maps of mean diffusivity (MD), orientation dispersion index (ODI) and “myelin water” content were computed. Mean values per each MRI metric were calculated within each VOI averaging left and right hemisphere. Number of occipital cortical lesions and total white matter lesion burden in the optic radiation were detected/segmented by an expert neuroradiologist. OCT: Spectral-Domain OCT (Spectralis, Heidelberg Engineering). We evaluated peripapillary retinal nerve fiber layer (pRNFL) thickness and macular volume with automated segmentation of retinal layers for the quantification of Ganglion Cell Layer (GCL) thickness.
+
+Results: We performed a partial least square regression analysis to model LCLA and VEP based on a combination of demographics, MRI (MD, myelin, ODI) and OCT metrics (GCL, pRNFL) considering negative/positive history of optic neuritis. We identified model predictor of LCLA with R-squared up to 0.39 and 0.36 for optic neuritis negative and positive respectively. We determined model predictor of VEP with R-squared up to 0.48 (ON negative) and 0.63 (ON positive).
+
+Conclusion: A combination of MRI and OCT metrics strongly describe visual dysfunction. These preliminary results may improve the understanding of the pathological mechanisms underlying clinical dysfunction in multiple sclerosis.
+
+LB206
+
+Clinical Spectrum of Brainstem Involvement in NMOSD AQP4 IgG Seropositive Patients
+
+Dr. Alfonso S Lopez Chiriboga , Mayo Clinic, Jacksonville, FL
+
+Category: Neuromyelitis Optica
+
+Background: Acute brainstem syndrome is one of the core clinical characteristics for the diagnostic criteria of NMOSD due to the complex anatomy and function of the brainstem the clinical presentation is diverse.
+
+Objectives: To describe the clinical spectrum of brainstem manifestations in AQP4 IgG seropositive patients.
+
+Methods: Literature review.
+
+Results: Brainstem manifestations in patients with NMOSD are not uncommon. In a large multicenter study, up to 31.4% of patients were found to have evidence of brainstem symptoms, studies suggest that the prevalence of MO involvement ranges from 84 to 91%. Besides hiccups, intractable nausea and vomit, other symptoms described in NMOSD with AQP4 include: Pathological yawning, severe orthostatic hypotension, postural orthostatic tachycardia syndrome, respiratory failure, intractable cough, paroxysmal sneezing, hypogeusia, cranial neuropathies such as: oculomotor dysfunction, facial palsy, trigeminal neuralgia, hearing loss/vestibulopathy.
+
+Conclusion: The spectrum of NMOSD continues to expand and symptoms at presentation can be diverse, recognition of brainstem involvement and early AQP4 serostatus in patients with NMOSD is important as early immunotherapy is essential to prevent significant disability, serious complications, or death.
+
+LB207
+
+Estrogen Receptor Beta Ligand Acts on Peripheral Myeloid Cells to Mediate Protection in Experimental Autoimmune Encephalomyelitis
+
+Mr. Roy Y Kim , Ms. Alexandrea S Hoffmann, Mr. Darian Mangu, Ms. Eunice Jung, Ms. Noriko Itoh and Prof. Rhonda Voskuhl, M.D., University of California - Los Angeles, Los Angeles, CA
+
+Category: Neuroprotection and Neuroregeneration
+
+Background: Multiple sclerosis (MS) is an autoimmune disease of the central nervous system (CNS). Experimental autoimmune encephalomyelitis (EAE) is the most widely used animal model to understand disease mechanisms in MS. Treatments with estrogens and specific ligands of estrogen receptors (ERs) are neuroprotective in EAE. Given the need for neuroprotective treatments in MS, understanding mechanisms of estrogen mediated neuroprotection may lead to new treatment strategies. CD11c+ myeloid cells play a role in pathogenesis of EAE and MS, and ERβ expression on these cells has been shown. However, the functional significance of ERβ on CNS resident microglia and/or peripherally derived dendritic cells (DCs) and macrophages in vivo during EAE has not been studied.
+
+Objectives: Investigate whether ERβ-ligand treatment directly targets ERβ on CD11c+ cells to mediate neuroprotection in vivo during EAE.
+
+Methods: We created mice with specific deletion of ERβ on CD11c+ cells using the Cre-LoxP system, by crossing CD11c-Cre-EGFP (CD11ccre/+) mice and ERβflox/flox mice to generate CD11ccre/+ERβflox/flox (CKO) mice. CKO mice and their littermate controls (WT) were induced with EAE, then treated with either ERβ-ligand or vehicle. Clinical EAE scores and neuropathology were performed. To distinguish between effects of ERβ on CNS resident microglia versus peripherally derived DCs and macrophages, bone marrow chimera experiments commenced.
+
+Results: Effects of ERβ-ligand treatment in WT EAE mice improved clinical EAE scores, spared of axons and myelin, and decreased MHCII and iNOS expression on Iba1+ myeloid cells in spinal cord white matter. These neuroprotective effects were lost in CKO EAE mice, thereby demonstrating that protection was mediated through direct effects of ERβ expressed on CD11c+ cells. Finally, bone marrow chimeras demonstrated that these neuroprotective effects were mediated through ERβ on bone marrow derived CD11c+ DCs and macrophages, and not CNS resident CD11c+microglia.
+
+Conclusion: Our results reveal that peripheral bone marrow derived CD11c+ DCs and macrophages can modulate the inflammatory microenvironment in the CNS to promote neuroprotection during EAE. Together this suggests these cells as targets for novel treatments in MS, specifically through modulation of ERβ signaling pathways.
+
+LB208
+
+Poor Sleep Quality Contributes to Impaired Cognition Among MS Patients, Independent of Duration and Functional Resting State Abnormalities
+
+Dr. Franklin C Brown, Ph.D. 1, Ms. Kristen Vitelli, B.A.2, Dr. Matthew Heinly, Ph.D.2, Dr. Dustin Scheinost, Ph.D.1, Ms. Cheryl Lacade, M.S.1, Dr. R T Constable, Ph.D.1 and Dr. Daniel Pelletier, MD3
+
+1Yale University, New Haven, CT, 2Central Connecticut State University, New Britain, CT, 3University of Southern California, Los Angeles, CA
+
+Category: Neuropsychology and Cognition
+
+Background: MS patients are at much higher risk for sleep abnormalities than healthy controls. This contributed to daytime fatigue, and cognitive abnormalities in some relatively small studies, or when limited to only MS patients with sleep apnea.
+
+Objectives: We explore the hypotheses that poor sleep quality is associated with 1) greater daytime fatigue, 2) daytime sleepiness, 3) cognitive difficulties, 4) more severe MS symptoms, 5) abnormal resting state whole brain connectivity, and MRI third ventricle, white matter, whole brain parenchymal, and thalamic structural volumes.
+
+Methods: 58 MS patients, and 49 controls who met full study criteria completed the Pittsburgh Sleep Quality Index (PSQI), Fatigue Severity Scale, and Epworth Sleepiness Scale. Cognitive functioning was measured with the Minimal Assessment of Cognitive Functions in MS (MACFIMS) which includes the Paced Auditory Serial Addition Test (PASAT), Symbol Digits Modalities Test (SDMT) and other measures; the Brown Location Test (BLT) was added as a measure of allocentric visual memory, and the auditory version of Test of Variables of Attention (TOVA) as a measure of sustained attention. MS Functional Composite was used as a disease severity rating. Resting state functional MRI data was collected from the MS patients, and analyzed for whole brain connectivity.
+
+Results: 60.3% of MS patients reported poor sleep quality which was associated with fatigue and sleepiness. A two-way MANOVA indicated that PASAT, SDMT, Verbal Memory, and Sustained attention reaction time were significantly associated with sleep quality, but not MS disease presence. On the other hand, allocentric visual memory was strongly associated with MS disease, but much more weakly sleep quality. Resting state fMRI abnormalities related to MS duration were associated with allocentric visual memory, but not sleep quality, PASAT, or SDMT performance. Poor sleep quality was associated with lower third ventricle volume but not other more specific volumetrics.
+
+Conclusion: Despite years of support for the PASAT and SDMT among MS patients, this study is the first to find that such problems may be due to poor sleep quality rather than direct effects of the disease which was not previously explored. On the other hand, these results also suggested that poor sleep quality may be associated with more brain atrophy. These results suggest an important relationship between sleep quality, cognitive complaints, and brain atrophy.
+
+Disclosure: This study was funded by EMD Serono
+
+LB209
+
+The Relationship of Information Processing and Multitasking Performance in MS
+
+Ms. Martina Azar1, Dr. Chelsea L Morse1, Ms. Rebecca Williams1, Dr. Ivan Panyavin1, Mr. Shyam Patel1, Ms. Riley Ciabattoni1, Mr. Thomas P. Leist, MD, PhD2 and Dr. Maria Schultheis 1
+
+1Drexel University, Philadelphia, PA, 2Thomas Jefferson University, Philadelphia, PA
+
+Category: Neuropsychology and Cognition
+
+Background: Executive dysfunction is a predominant feature of multiple sclerosis that affects vocational, personal, and social outcomes. Specifically, individuals with MS experience problems with multitasking and information processing.
+
+Objectives: The current study sought to understand the relationships between performance on tasks of information processing and change in performance on a manualized vocational multitasking test, which is representative of every day executive difficulties in a vocational setting. Exploring these associations can better inform which neuropsychological instruments represent measures that are more functionally meaningful.
+
+Methods: Twenty-two individuals with MS completed a demographics questionnaire, neuropsychological measures of information processing (SDMT, PASAT) and a Vocational Multitasking Test (VMT). The latter task was administered at two different time points, generally one week apart. Correlations were run between neuropsychological test scores and performance change score on the VMT. A linear regression was performed to examine if the SDMT and/or the PASAT were predictive of change in performance on the VMT.
+
+Results: Individuals’ performance on the VMT at baseline (M=27.74, SD=14.60) was compared to their performance at follow up(M=36.71, SD=19.05).The change in performance score(M=9.30, SD=12.10) was statistically significant t(22)=-3.69,p<.01. Performance on the Oral SDMT (M=-0.85, SD=1.16) was positively correlated with change in vocational multitasking performance from Time 1 to Time 2(r=0.44, p<0.05), while PASAT 3-second task (M=-1.12, SD=1.56)was not correlated with performance change(r=0.04,p=0.86). Further,SDMT performance predicted performance change on the VMT task F(1,19)= 4.60, β= 5.34, p<0.05.
+
+Conclusion: Individuals with MS frequently experience cognitive and executive deficits, which are often difficult to fully capture on neuropsychological tasks. Individuals’ performance on these specific tasks may not reflect their nuanced deficits on tasks that are encountered during their day to day functioning. The current findings indicate that the SDMT might be a better predictor of multitasking performance, and performance change across time. Furthermore, the SDMT may tap on specific information processing deficits that resemble ecologically valid measures, such as the VMT. Future research should extend these findings to other domains of executive functioning affected in MS, and see how performance on these specific tasks translates to everyday functioning deficits.
+
+LB210
+
+CCR6+Th1 and Th17 Cells in Multiple Sclerosis
+
+Dr. Seema Kalra , Keele University, Stoke-on-Trent, United Kingdom; University Hospital North Midlands, Stoke-on-Trent, United Kingdom, Dr. John S Curnow, Birmingham University, Birmingham, United Kingdom and Prof. Clive P Hawkins, Keele University, University Hospital North Midlands, United Kingdom
+
+Category: Pathogenesis- Immunology
+
+Background: Th17 cells are involved in the pathogenesis of experimental autoimmune encephalomyelitis (EAE) and Multiple Sclerosis (MS). Their absolute frequencies are relatively small but they are plastic and phenotypically variable. CCR6 has been described to be a Th17 lineage marker. In rheumatoid arthritis and other autoimmune diseases, CCR6 expression has been associated with disease activity. Over the last couple of years we have been focussed on the Th17-lineage and associated cells in MS. The expression of CCR6 on the Th1 cells signifies their origin from Th17 lineage.
+
+Objectives: To investigate if the phenotype and frequencies of pathogenic T cells – Th1, Th17 and Th17 lineage cells are altered in MS and if these correlate with relapsing and/or progressive phase.
+
+Methods: We recruited 100 MS patients (50 relapsing-remitting-RRMS & 50 secondary progressive-SPMS); 50 age/ gender-matched controls (HC) from Neurology Department, University Hospital North Midlands. Median age of the patients was 49 years (male=28, female=72). All SPMS patients and 50% of RRMS patients were treatment naïve. Isolated blood cells and CSF cells were stimulated in vitro and labelled with antibodies against surface and intracellular cytokines followed by flow cytometry.
+
+Results: Frequencies of Th17 cells (CD4+IL17+ cells) were increased in periphery in MS as compared to HC group (p< 0.05). There was no significant difference in total Th1 cell frequencies (CD4+ IFNγ+ cells) in MS vs. HCs but the frequencies of CCR6+ Th1 cells were significantly increased in MS (p< 0.05). Frequencies of Th17-Th1 were also raised in MS as compared to HV (p<0.005).
+
+Conclusion: CCR6+ Th1, Th17 and Th17-Th1 frequencies are all increased in MS in spite of no significant change in total Th1 cell frequencies. This signifies the role of Th17 lineage cells is greater than realized by their absolute numbers.
+
+LB211
+
+Persistence, Adverse Events, and Relapse in Patients with Relapsing Remitting Multiple Sclerosis and Initiated on IFN Beta-1a or Dimethyl Fumarate
+
+Ms. Schiffon L Wong 1, Mr. Riad Elmor2, Ms. Peri Barr2 and Mr. Frank Ernst2
+
+1EMD Serono, Billerica, MA, 2Indegene, Kennesaw, GA
+
+Category: Real World Evidence
+
+Background: The introduction of new disease modifying therapies (DMTs) merits estimation of their real world effectiveness compared to previously available DMTs.
+
+Objectives: This study compares persistence, adverse events, and relapse between patients with relapsing remitting multiple Sclerosis (RRMS) on IFN beta-1a or dimethyl fumarate.
+
+Methods: A United States retrospective medical chart review of 450 randomly selected adult RRMS patients who received IFN beta-1a or dimethyl fumarate was conducted. Patients were newly diagnosed, treatment-naïve, and initiating first-line treatment with IFN beta-1a or dimethyl fumarate or previously treated, switching to IFN beta-1a or dimethyl fumarate. Persistence was defined as being prescribed either agent, continuously, from initiation to 730 days until discontinuing medication or censored. Patient characteristics, persistence, and adverse events between treatment groups were compared using t-tests or chi-square tests. Kaplan-Meier curves with log-rank tests and Cox Proportional Hazards Models were used to compare time to non-persistence. Annualized Relapse Rate (ARR) were calculated using a robust variance Poisson model adjusting for covariates. A two-sided alpha level of 0.05 determined statistical significance.
+
+Results: The sample was (75.8%) female with mean age 45.4 ± 12.1 years. A total of 112 patients (24.9%) became non-persistent, with an adverse event (n=37) as the most common cause. No significant difference was observed in time to overall non-persistency between IFN beta-1a and dimethyl fumarate patients. Treatment-naïve patients on IFN beta-1a were 59% less likely (HR=0.410, 95% CI 0.169-0.993, p=0.0483) to experience a discontinuation (no switching or restart) compared with patients on dimethyl fumarate. Non-persistent patients on dimethyl fumarate were 5 times more likely (HR = 5.003, 95% CI 1.996-12.54, p=0.0006) to have experienced an adverse event at a given time point. No significant difference in time to relapse or ARR between IFN beta-1a and dimethyl fumarate treated patients were observed.
+
+Conclusion: In this real world observational study, IFN beta-1a treated patients had comparable or more favorable persistency, adverse events, and relapse outcomes than dimethyl fumarate treated patients across two years.
+
+LB212
+
+Total hip and knee arthroplasty in multiple sclerosis patients: the NYU experience
+
+Dr. Josef M Gutman , Dr. Ilya Kister and Dr. Ran Schwarzkopf, New York University, New York, NY
+
+Category: Rehabilitation and Comprehensive Care
+
+Background: Multiple Sclerosis (MS) patients may need joint replacement surgery due to MS-related factors, such as falls or avascular necrosis, or for unrelated indications (eg primary/secondary osteoarthritis). Literature on outcomes of total joint replacement in MS patients is limited to case reports that highlight surgical complications or unusual presentations. There are no systematic reviews of indications for and short and long term outcomes of hip and knee arthroplasty in MS patients.
+
+Objectives: To investigate indications for and outcomes of total hip and knee arthroplasty in patients with MS.
+
+Methods: Retrospective chart review of NYU MS Center patients who underwent hip or knee arthroplasty after MS onset.
+
+Results: 13 MS patients followed at NYU MS Care Center underwent hip (N=8) or knee (N=5) replacement at NYU. Average age at surgery was 56±11 years (range 35-69 years) and disease duration was 16±9 years; 10/13 were female. 3 patients had prior joint trauma and 1 had avascular necrosis of the hip presumably from steroid use; the remainder suffered from osteoarthritis. Ambulatory status before surgery was: 4 - walking unassisted, 7 - cane, 2 – bilateral assistance. Ambulatory status after surgery at last follow up was: 8 walking unassisted, 3 using a cane, and 2 using a walker. Perioperative complications included acute blood loss in 4, pneumonia in 2, DVT in 1, and urinary retention in 1. Reoperation was required in 1 patient for recurrent hip dislocation.
+
+Conclusion: Orthopedic literature focuses on perioperative complications after total joint arthroplasty in MS patients, but our data on unselected patients show that the surgery appears to benefit most of them, though (mostly non-neurologic) complications were seen in approximately half of the cases. These data can help optimize selection and surgical management of MS patients who may require total joint replacement. We intend to present additional data on our patients that will include patient-reported outcomes.

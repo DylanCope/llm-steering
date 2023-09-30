@@ -1,0 +1,123 @@
+Harry Potter and the Neural Network fan fiction
+
+Or, what happens if you train a neural network on the titles and plot summaries of over 100,000 works of Harry Potter fan fiction.
+
+In the decades since the Harry Potter books were published, fans have written literally hundreds of thousands of Harry Potter stories of their own, and shared them online. Can a neural network join in on the fun?
+
+In a way, everything a recurrent neural network writes is fan fiction. A recurrent neural network looks at an example dataset (such as the complete Sherlock Holmes stories) and teaches itself the patterns and conventions that it sees. So, if it’s given Sherlock Holmes stories, it will become obsessed with Holmes and Watson, and if it’s given knock-knock jokes, it will spend all day telling awful knock-knock jokes of its own.
+
+Thanks to an idea by a couple of readers, some heroic work by @b8horpet in scraping (with permission) hundreds of thousands of Harry Potter fan fiction titles and summaries from AO3, and a flexible new recurrent neural network implementation by Chen Liang, the neural network’s latest obsession is Harry Potter.
+
+The Perfect Party by iamisaac
+
+Draco has been left alone, and Ginny confused must learn and who has his best friend. They were breathed by a love that didn’t become his grounds and the flowers begin.
+
+This is a typical example of the neural network’s fan fiction - romantic pairings of two or more Harry Potter characters (called “ships” in fan fiction-speak). In this case, it even has chosen a plausible author: iamisaac is a real and fairly prolific fan fiction author whose works do tend to be of the “romantic” variety.
+
+The Garden by perverse_idyll for lexigilite
+
+Ron and Hermione move after a man party. What did her best things go and has to deal with people she loves? How many imperfect love really belonges them and needs to be a person? Or will they learn and more than the war?
+
+
+
+Mirror Thing by Queen_Elexhan
+
+“Are you there for a relationship? I was a sad future for your love.” Harry and Ginny find out the meaning is.
+
+
+
+Shatters by Kis [archived by TheHexFiles_archivist ]
+
+Based on the Spot Are It Falls Into A Heir by NextrangeOnTheThree
+
+Draco and Hermione share a whole indescribbening.
+
+Again, “perverse_idyll” and “TheHexFiles_archivist” are fairly active authors. (Hi, if you’re reading! The neural network seems to like your writing, and is writing fan fiction of your fan fiction!) Those familiar with Harry Potter fan fiction will not be surprised to learn that the neural network really likes to generate ships; pretty much every combination of characters is represented (some of the more unusual combinations being “The Snow/Voldemort”, “The Ministry/Draco Malfoy”, and “Voldemort/Random Quidditch Child”).
+
+By turning down the neural network’s creativity setting to near-zero, we arrive at its vision of what the quintessential Harry Potter fan fiction would be like - and we also learn its favorite ship:
+
+Persuading by theladyblack
+
+Harry and Draco are still a second chance at the end of the war. Will they be able to do with the fairy tale of the first time they were a strange stranger to the street of the war and the war is over?
+
+It turns out the neural network is obsessed with Harry/Draco, although in a pinch, Sirius/Remus will also do.
+
+The neural network also seems to really like stories about Professor Snape trying to do rather ordinary things:
+
+New Moon Boys by Dungoonke for Loki_Kukaka
+
+Severus Snape comes back to a night’s politics. In the Reason Is Blinders by LittleRoma
+
+Severus has been through his lost remote. In The Alteri Silence by Forest_of_Holly for roscreens41
+
+Snape receives life after plants to do by work over whether they get into. Just Hell. A Second Chance by DarkCorgi
+
+Snape had a second thing, and that is better than anything for for the rest of his life. Mirror by orphan_account
+
+Severus Snape tries to get a lot of dragons and that was to be more than he didn’t expect to continue. He has always been a bit of an old and a baby to stay the way he’d been the brother at Hogwarts and he keeps the chance of meeting…
+
+
+
+Deception by FlyingEyes
+
+Snape is a British Robes of interesting things and worrys like a little fun and sees the pretty battle for a while.
+
+
+
+Another thing that happened, which is pretty much my favorite thing ever, is that the neural network apparently encountered some fan fiction stories that were not in English. As a result, it learned to do this from time to time:
+
+The Secretary Of the World
+
+Challenge inspired by GoF and la mating resigns de la mill colors per mereple beruit carteur la pelete el wert rardo completing and herillo intus den una a des rush sentines kelta an transoles… Between by Cheyangel13
+
+A series of fivers are unexpectedly depressed and controlled by the bed, with least more from una perfemale erpensa de the maesse akai suidadium dela vida call de la los se terriuus do form en sou dies de fasurard il resisted de for dogs la sementu sein prong colors itu dee adte se sige natard…
+
+The neural network has also learned to employ capital letters:
+
+Les finds love by violet_quill for starstruck1986
+
+Severus Snape wanted him to be more and she likes Draco. The person he wants an energy to him. WHALIDE NO GEATIRE SOURR INSPE AHARMANABLISH ALL SOME TO VERY THE RERIDE!!!!!!! secret Quidditch by snapsleert
+
+Collapse and find the second worst and very different. See Gain and Descent motivate surprising death. Unbusing one of the months: should make more bumo.choooshots. HUGULATED
+
+And the neural network occasionally uses content warnings, although it seems to have a rather fuzzy idea about what to warn its readers about:
+
+Better With The Broom Complicate by Margyn_Black
+
+Tonks gets more than the best girl of creation. (Rated Maturisle, mark, a violence, contract) (slash] part of themes) ferret. Art for the Sun a Scary by disillusionist9
+
+A collection of warnings: characters and situations of silence.
+
+Some of the neural network’s stories, though, are just plain weird.
+
+Harry Potter and the Painful Eyes by dark_pook
+
+A Birthday drabble about the problems and a woman who shows up a lot less than she checks at Hogwarts in the destiny to the infamous adventure of control of the Art of The Good Boy Kings With Hermione.
+
+
+
+Harry and the Blue Special Delicious by apolavia_scg
+
+An unexpected potions messaged in the world their lives are to find friendship following the day of different pagers. James and Lily come to the summer before the war.
+
+The Perfect Cow by alafaye
+
+Severus and Hermione start a horcruxes Art: Let Draco roll the light of the moon, and means. by Dangelanne
+
+What happens after the war. Not drawn to Draco Malfoy jumpers. Originally written in 2008. Birds of a Saturday by SasuNarufan13
+
+Harry Potter is drunk and discovers he is an alternate universe. Holly theody by yesIpxdishoftlyGrinli
+
+What would be dangerous! Side Voldemort Jones does all lord off the sunshine show. Lily Evans and the Ravenclaw of a Christmas Surprise by ci
+
+Severus angst the truth of a frighten situation for the wink. Persuasion by Samanthian
+
+The Sorting Hat is fighting in one of the houses.
+
+lily’s family by sharkle
+
+Harry woke up in searching after a werewolf Sherlock’s picnic. He is furious.
+
+
+
+As a bonus, I leave you with some fairly-plausible screennames the neural network invented, which appear not to be taken (yet):

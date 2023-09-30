@@ -1,0 +1,6 @@
+prettytable>=3.6.0
+jaxtyping>=0.2.14
+openai>=0.27.2
+nltk>=3.8.1
+kaleido>=0.2.1
+plotly

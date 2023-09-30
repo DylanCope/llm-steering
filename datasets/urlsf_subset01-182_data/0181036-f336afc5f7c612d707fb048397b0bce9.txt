@@ -1,0 +1,83 @@
+because, of, you know, reasons. For those unfamiliar, Alignment is a personality trait characters possess in Dungeons & Dragons. But if you’re unfamiliar, you’re probably not going to get a lot of use out of this ramble, so, hrm… have a link to the new teaser for the upcoming Star Wars movie.*
+
+If you stuck around anyway, you can think of alignment a bit like the Force. Each character in the game gravitates towards the light or dark side. Their connection to that inner drive towards compassion or cruelty not only influences the in-game actions they’re expected to take, but can also be detected (and manipulated!) through magic, restricts what types of roles the character can take in the world (only Good characters can traditionally be the holy warrior class called Paladins, for example), and in some cases even what equipment they can make use of.
+
+Unlike the Force, however, alignment’s measured in two axes, one from Good to Evil, determining moral outlook, and one from Lawful to Chaotic, determining the character’s response to the strictures of society. Both scales contain a third option—Neutral—for those characters who fall nearer the middle. Since each character is measured on both axes, there are nine total alignments a character can belong to: Lawful Good, Lawful Neutral, Lawful Evil, Neutral Good, True Neutral, Neutral Evil, Chaotic Good, Chaotic Neutral, and Chaotic Evil.
+
+Or, in Harry Potter terms:**
+
+I’m of mixed feelings about Alignment. On one hand, I love it. It’s a role-play guide with associated mechanics, but those mechanics don’t hijack the action. The idea, that in a world where magic makes thought manifest, that one’s approach to the world and way of thinking has a metaphysical effect on her aura and her ability to interact with the arcane is a very compelling one, and one fully in keeping with many of the thematic underpinnings of sorcery. Furthermore, alignment forces players to consider their characters’ personalities at creation, and it provides a framework that they can always return to when the character is forced with hard decisions down the road.
+
+(It could be—and probably has been—argued that the alignment axes require players to reduce rather than consider their characters’ personalities, but I think that the axes tend to be fairly flexible, at least flexible enough that the good outweighs the bad. So far as providing inspiration and structure goes, anyway.)
+
+On the other hand, I loathe alignment in its current form. For a variety of reasons.
+
+First, Good and Evil may have been fine back in the eighties (or the forties, when D&D arch-inspiration The Lord of the Rings was being written), but I’d like to think we have a more nuanced understanding of human behavior today. More appallingly, Good and Evil in D&D is often applied in ways that are regressive and frankly horrendous.
+
+Because nothing says “Universally Evil Society” like a matriarchy of black-skinned individuals.***
+
+The Lawful and Chaotic axis suffers similarly. And I love this axis. When I ran my sprawling, two-year epic campaign back in college, the struggle between Law and Chaos formed the backbone of the narrative. Part of the problem is that the term “Lawful” is just too loaded. There’s a connotation to “law” that equates it to “good.” This is reasonable in our society, since we generally expect the law to enforce the larger moral good. So we end up with a world where “Lawful” often means “civilized” and “Chaotic” often means “savage,” and all of the ugliness that logically follows.
+
+There may be some problematic cultural signifiers here.****
+
+On top of that, the assumption of the game is that player characters aren’t evil, which reduces the nine archetypes given above by a third.
+
+Finally, Neutral is boring. Neutrality is not a concept that drives character action or a guiding principle that inspires the kind of heroic action that D&D revels in.***** It’s an empty space. Characters are Good, Evil, or Not Either. They’re Lawful, Chaotic, or, uh, not.
+
+So l quite like the intent of the system, but I think its implementation is pretty terrible.
+
+But how do we fix it?
+
+Going forward, I think when I run D&D (as if that’s a thing I do regularly) I believe I’m going to use a somewhat revised pair of axes. Feel free to steal them if they appeal to you and your group.
+
+The First Axis describes a not only a character’s general disposition towards society, but how they go about responding to the world and solving problems. Some take careful, measured steps, while others are free-thinkers. Others take each situation as it comes, retaining a flexible approach to life’s challenges.
+
+On the First Axis, characters are Orderly, Pragmatic, or Chaotic.
+
+The Second Axis describes a character’s general approach to existing in the world and their personal tendency towards making, breaking, or protecting. Some respond to the world by being inspired by it, others by trying to take care of it, and others by imposing force upon it.
+
+On the Second Axis, characters are Creative, Sustaining, or Destructive.
+
+Note that Destructive is value-neutral from a moral perspective. It simply means your default method of solving problems is by removing them. With pointy metal objects when necessary.
+
+I think that the combinations that result immediately inspire ideas for the kinds of characters that might fall into these categories:
+
+An Orderly Creative character may be an architect or a lawmaker.
+
+An Orderly Sustaining character might be a doctor or teacher.
+
+An Orderly Destructive character may be a soldier or guard.
+
+A Pragmatic Creative character may be a scientist or undercover investigator.
+
+A Pragmatic Sustaining character may be a battlefield medic or ecologist. Or Druid, I suppose.
+
+A Pragmatic Destructive character may be a mercenary or private eye.
+
+A Chaotic Creative character may be a frenzied artist or revolutionary.
+
+A Chaotic Sustaining character may be a farmer or this guy:
+
+A Chaotic Destructive character may be a political saboteur or a berserker.
+
+I love these phrases. They’re active. They’re complex. They’re universal and elemental. Best of all, there’s no reason that these can’t have the same kind of impact on characters that the old Alignments did. A Circle Against Destruction could be incredibly useful. As could the spell “Sense Pragmatic.”
+
+I can’t wait to use these in a game. I hope you get something out of them, too.
+
+Cheers,
+
+A
+
+*At some point maybe I should talk about my feelings on Star Wars.
+
+**From https://rantingsoftheninjarobot.wordpress.com/2012/01/05/harry-potter-alignment-chart/
+
+***That’s sarcasm, for my contextually-challenged readers.
+
+**** From http://digital-art-gallery.com/picture/15830
+
+*****In fairness, I once had a lot of fun playing a True Neutral wizard devoted to the deity of Neutral Magic, but a lot of that came out of the tension between the character’s devotion to universal balance (which is arguably a Lawful drive) and the rest of the party’s strong tendency towards Good.
+
+Advertisements
+
+Like this: Like Loading... Related

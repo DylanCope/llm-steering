@@ -1,0 +1,24 @@
+jupyter
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+torch
+transformer-lens @ git+https://github.com/neelnanda-io/TransformerLens@v1.6.1
+torch==1.13.1
+numpy>=1.22.1
+pandas>=1.4.4
+jaxtyping>=0.2.14
+prettytable>=3.6.0
+openai>=0.27.2
+nltk>=3.8.1
+kaleido>=0.2.1
+pytest
+plotly
+nbformat
+Ipython
+ipywidgets
+tuned_lens
+wandb
+gputil

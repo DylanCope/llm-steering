@@ -1,0 +1,35 @@
+An open letter to U.S. companies
+
+Publicerad 2017-06-20 13:40
+
+A similar version of this letter will be sent to many of the American companies who are opposed to the U.S. government's decision to leave the Paris Agreement.
+
+Dear Tim Cook,
+
+Let's Make America Green Again!
+
+The last few weeks have been turbulent for many of us and for many reasons. Since the U.S government’s decision to withdraw from the Paris agreement, European countries have invited U.S. companies to move their business over to Europe to better fight the climate change.
+
+We at Bahnhof understand that moving your entire business to another country is a big, messy and probably a bit intimidating step for any company at any size. Moving your data and IT infrastructure however is, by comparison, quite a lot easier.
+
+We are Bahnhof, a Swedish ISP, data center and cloud service provider that has been an independent provider since 1994. At our multiple data centers, we host a broad range of companies and Swedish government agencies, both in traditional data centers and also more spectacular sites, like our nuclear proof bunker Pionen in the heart of Stockholm.
+
+All our data centers have a Triple Green Certification. That means that:
+
+All the excess heat from our data centers is used to heat nearby households through our partnerships with the local district heating company, reducing the need for fossil fuels.
+
+All electricity comes from renewable energy sources (hydro power).
+
+All our backup power is powered by an extremely environmental fuel called Ecopar.
+
+Thus, our data centers make your cloud services as sustainable as possible. We are completely unique in providing and pioneering this cutting edge sustainable solution for your IT needs, no matter the size of your organization.
+
+That is not all however. We live in a world where security breaches and corporate espionage unfortunately is something not unheard of. To fight this, all our data centers are certified with the Based in Sweden certification. That means all data and communications are Sweden based and falls under Swedish constitution.
+
+Last but not least, don’t worry about the physical location being far away. Our Remote Hands service will make it feel as if you we’re on site every day (and you will also have a perfect opportunity to combine a trip to our data centers in the heart of Stockholm with a nice vacation).
+
+So take a stand for the environment, security and the future of our planet by placing your IT in the hand of what probably is the most sustainable IT company in the world (companies based outside the U.S. are of course more than welcome as well).
+
+Sincerely
+
+Jon Karlung, CEO Bahnhof AB

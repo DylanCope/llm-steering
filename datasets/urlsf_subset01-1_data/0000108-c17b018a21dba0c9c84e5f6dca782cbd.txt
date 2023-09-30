@@ -1,0 +1,23 @@
+WASHINGTON (Reuters) - Telecommunications giant AT&T struck back on Wednesday at Sen. Herb Kohl, chair of a congressional antitrust panel, saying the lawmaker’s concerns about a lack of competition in the wireless industry were unfounded.
+
+Kohl wrote to the Justice Department’s top antitrust regulator Christine Varney and Federal Communications Commission Chairman Julius Genachowski on Monday to reiterate concerns over texting prices, large carriers failing to cooperate with smaller carriers to resolve roaming disputes, disputes over spectrum and deals that give one or another carrier exclusive access to popular phones like the iPhone.
+
+AT&T argued that cell service had become progressively cheaper, with revenue per minute falling 89 percent since 1994.
+
+“U.S. wireless prices are much lower than in any other major industrialized country,” wrote James Cicconi, an AT&T senior executive vice president.
+
+Cicconi argued that texting prices had fallen because of package deals, “dropping almost 70 percent since January 2007,” and asserted that the pay-per-use price cited by Kohl represented less than 1 percent of AT&T’s customers.
+
+Cicconi also argued that exclusive handset arrangements allowed a carrier and a manufacturer to split the high cost of marketing “an inventive but unproven new device.” Kohl had called the deals “a serious barrier to competition.”
+
+“I think AT&T is right on the handset exclusivity,” said Orrick antitrust expert David Smutny, who argued that telecommunications firms were vying to help manufacturers to come up with the new cool phone — the iPhone killer — in order to compete with the AT&T/Apple alliance.
+
+“What AT&T cares about is getting people to sign up for its service and what Apple cares about is getting people to get its cool phone. That’s pretty pro-consumer,” he said.
+
+Cicconi said that AT&T complied with FCC regulations, which required it to allow other companies’ customers to roam to get voice service but not data, which means that they may not get email or Internet service on their phones if they are out of their servers’ area.
+
+AT&T also defended early termination fees as a way for the company to recoup money spent discounting handsets.
+
+Overall, Orrick’s Smutny said he failed to see significant antitrust issues in the wireless industry.
+
+“Most people are served by at least three and sometimes five or six wireless carriers,” he said. “On the specific issues that Sen. Kohl raises, I think that AT&T has the better of the argument.”

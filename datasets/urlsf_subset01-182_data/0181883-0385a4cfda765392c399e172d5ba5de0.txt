@@ -1,0 +1,13 @@
+Science can’t yet tell us whether they have more fun – but it has uncovered a new genetic change that makes people blonde. And contrary to long held belief, it seems golden hair hasn’t simply been introduced across the globe by travelling tow heads, but instead evolved separately in different human populations.
+
+Indigenous people of the Solomon Islands in the South Pacific have some of the darkest skin pigmentation outside of Africa. But unlike most other tropical populations, they also have a high prevalence of blonde hair. Up to 10 per cent of the population is fair haired, the highest proportion outside of Europe. Until now, this odd trait had generally been attributed to the introduction of blonde genes by European explorers and traders in preceding centuries. “We originally thought, well that must be a Captain Cook allele,” says Carlos Bustamante at Stanford University.
+
+Yet a closer look revealed that the genetics behind blonde hair in Brussels are distinct from those leading to flaxen locks in the South Pacific.
+
+Bustamante, Sean Myles and colleagues at Stanford discovered this after analysing saliva samples from 43 blondes and 42 dark-haired Solomon Islanders. A genome-wide scan pointed to a single strong difference between the groups at a gene called TYRP1. Further analysis revealed that a single-letter change in the gene accounted for 46 per cent of the population’s hair colour variation, with the blonde allele being recessive to the dark hair allele. The blonde mutation wasn’t found in any of the 900 other individuals sampled from outside the South Pacific (Science, DOI: 10.1126/science.1217849).
+
+Advertisement
+
+TYRP1 is known to be involved in skin and hair pigmentation in several species. In normally black mice, for example, a mutation in the gene produces light brown coats. A rare kind of human albinism is also caused by mutations in TYRP1, which produces reddish skin colour and ginger hair. TYRP1 isn’t, however, one of the genes that produces blonde hair in Europeans. The novel blonde mutation in Solomon Islanders is likely to have cropped up around 10,000 years ago, and it appears to be the same one behind blondness in Fiji and other regions of the South Pacific.
+
+“Before this, everybody would have thought, blonde hair evolved once in humans,” says Bustamante. “This tells us we can’t really assume that even these common mutations are common across different human populations. Non-European populations are critical to study to find mutations that may be underlying the vast phenotypic variation of humans.”

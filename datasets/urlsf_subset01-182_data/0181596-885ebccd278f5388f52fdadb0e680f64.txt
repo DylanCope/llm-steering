@@ -1,0 +1,11 @@
+The next version of Ubuntu Server is expected to include Nginx in the main archive, meaning it will "sit alongside Apache in 14.04 with full security updates over the life of the release," Canonical employee Jorge Castro wrote today.
+
+Further Reading A faster Web server: ripping out Apache for Nginx after Apache, noted by Ars Reviews Editor Lee Hutchinson for being a "lightweight speed demon." Nginx's upgrade to the main archive comes at a good time because the 14.04 release in April 2014 will be Ubuntu's Long Term Support edition and will thus receive five years of support."This is excellent news for those of you using stacks that tend to use nginx; increasing our support of nginx has been something many Ubuntu Server users have been telling me they’d like to see and it’s good to see us make some progress in this area," Castro wrote.
+
+Castro credited developer Thomas Ward for getting Nginx ready for the upgrade, having maintained the Nginx packages "for every Ubuntu release since 10.04" in April 2010. Castro also noted that features in Ubuntu's Juju automation software can help users "dynamically swap between Apache and nginx."
+
+"Having NGINX packages added to any distribution is a great benefit to both our users and the broader web consumer community," Nginx technical evangelist and community manager Sarah Novotny told Ars. "Ubuntu is particularly exciting as it has such a tremendous position as the operating system on the cloud. We are looking forward to working with the Ubuntu community to support their packaging."
+
+For a detailed tutorial on setting up Nginx on Ubuntu, check out the first part of our Web Served series.
+
+Ubuntu won't be the first Linux distribution to add this higher level of support for Nginx. Red Hat spokesperson John Terrill told Ars that "Fedora has included Nginx for some time and it receives updates at the same level as Apache and other packages that are included in Fedora."

@@ -1,0 +1,17 @@
+It's been two years since the net came together to raise funds to support Werner Koch, who maintains the absolutely vital GnuPG email encryption system, used daily by millions to protect the privacy and integrity of their email.
+
+
+
+Now, Koch and the GnuPG foundation are trying to raise at least €15,000/month to fund three full-time developers to work on this piece of vital internet infrastructure -- they're hoping to shoot past that and hit €30,000/month, which would allow the project to support ancillary pieces of the GnuPG ecosystem like GPGTools.
+
+I've given $100.
+
+Due to a lack of contracts, Werner Koch, GnuPG's lead developer, was forced to lay off the only other person working on GnuPG full-time. And, by 2014, Werner had to take side jobs unrelated to GnuPG to supplement his income.
+
+The situation looked so bad that Werner was ready to give up. But, friends convinced him to give a donation campaign one last shot. The response was amazing. Not only did he receive enough money to fund himself, but he pulled in 250 000 euros in small donations, and Stripe, Facebook and the Linux Foundation each committed to donating about 50 000 euros per year.
+
+Given this amazing response, Werner decided to grow the team again. To date, he has hired 5 developers, and the past two years have seen a number of improvements to GnuPG and the surrounding ecosystem. For instance, we've worked on simplifying key discovery, adopted a set of Python bindings for GPG, contributed some improvements to Enigmail, and supported the Gnuk project—a free source and free hardware security token.
+
+We want to continue this work in the long term. But, we want to do so in such a way that our first loyalty is unambiguously to the general public. This means making sure that a majority of our funding comes from individual donors, and not corporations. Further, to ensure long-term stability, our focus is on recurring donations and not one-time donations.
+
+Our primary goal is to get donation commitments for 15 000 euros per month—enough to fund 3 developers. We can reach this goal if just 2000 people donate 5 or 10 euros each month, the equivalent of just 2 or 3 cups of coffee.

@@ -1,0 +1,39 @@
+October 10th, 2011
+
+RMS – Too Crude to Lose
+
+When it comes to software freedom, Richard Stallman is a bomb throwing anarchist. That’s a good thing. The FOSS community needs a few bomb throwers in its arsenal.
+
+His job is to keep the bad guys, those who constantly attempt to usurp our principles for their own gain, at bay. More importantly, his job is to expose them, which helps keep us FOSSers from believing the spinmasters when they use Orwellian magic to convince us that “closed is open.”
+
+We are susceptible to such spin.
+
+We love our Linux, we love our GPL, we love our “free and open” so much that we often jump on the bandwagon to proclaim projects “free and open” just because they contain some open source code. Look how pleased many of us are that Android runs atop the Linux kernel. That means it’s got to be FOSS, doesn’t it?
+
+
+
+Nope. Nyet. Nada.
+
+We get confused. We think that OSS is the same as FOSS, which it isn’t. There are lots of open source licenses that don’t guarantee software freedom, and the closed source guys are always more than willing to take advantage of them. Take Apple’s OS X for example. It’s built atop one of the open sourced BSDs. Apple makes most of the source code available for a look see and attempts to win us over by calling that “open source.”
+
+But what can you do with with the OS X source code after you look at it? Can you install it on your vanilla version X86 machine? Can you distribute it freely to all of your friends? Can you modify it and make those modifications available to the public? The answers: nope, nope and nope.
+
+The list of companies pushing non free software on us under the banner of “open source” is long. There are also companies embedding open source software in their devices in ways that are completely contrary to license restrictions. We FOSSers often drink the Flavor Ade and accept non free software as free because we get drunk on the idea that we’re winning, just because there’s OSS in the lineage. As for free code that’s hidden in devices, we’d never even know it was there if not for the suspicious minds of Stallman and his ilk keeping a wary eye out.
+
+**********
+
+So Stallman said that he’s glad Steve Jobs is gone. Now everyone is acting surprised, exclaiming “I can’t believe he said that” and calling for his head on a stick. This reaction is just nuts. Of course he said that. What part of RMS do you not understand? He’s a bomb throwing anarchist, remember. Also remember, we need bomb throwing anarchists – and we don’t need them to just throw bombs when it pleases us.
+
+When he threw the Jobs bomb, FOSS media was covering the death of Apple’s founder as if he was a tech Gandhi. Being caught up in the spirit of the moment, we were drinking the Flavor Ade being served up by the mainstream press. Wasn’t that an inspiring commencement speech he gave at Stanford? Didn’t his products make computing more assessable to the public and didn’t the iPhone revolutionize mobile computing? The answers: yep, yep, and yep.
+
+However, we were about to forget that those things were only a part of Steve Jobs. We were about to forget that Steve Jobs had a dark side and that he was absolutely no friend to FOSS.
+
+That’s when RMS threw his bomb or slapped us in the face or (insert your metaphor here).
+
+Steve Jobs was also a tyrant; you wouldn’t want to work for him. And what about the way that Apple, under his direction, was going about filing lawsuits seeking to stop Android at every turn? Or how about the fact that much, if not most, of Apple’s software is built on open source code that has been turned proprietary and closed – with very little being returned to the open source community?
+
+Yes indeed, Mr. Stallman is very crude. His farts probably stink and his piss probably smells like urine. I doubt whether RMS cares whether we like him or not. He just wants to stop the bad guys. He just sees himself as a software freedom fighter – which I guess he is. If we win the war for software freedom, a consequence might be we’ll find we’ve won other freedoms as well.
+
+I’m sorry that Mr. Stallman can be a jerk – but I’m glad he’s on our side.
+
+Related

@@ -1,0 +1,7 @@
+Collecting jaxtyping
+  Downloading jaxtyping-0.2.22-py3-none-any.whl (25 kB)
+Requirement already satisfied: typing-extensions>=3.7.4.1 in /usr/local/lib/python3.10/dist-packages (from jaxtyping) (4.7.1)
+Requirement already satisfied: numpy>=1.20.0 in /usr/local/lib/python3.10/dist-packages (from jaxtyping) (1.23.5)
+Requirement already satisfied: typeguard>=2.13.3 in /usr/local/lib/python3.10/dist-packages (from jaxtyping) (2.13.3)
+Installing collected packages: jaxtyping
+Successfully installed jaxtyping-0.2.22

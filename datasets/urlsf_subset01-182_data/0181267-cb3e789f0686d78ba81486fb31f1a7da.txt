@@ -1,0 +1,15 @@
+Bing has been unceremoniously dumped by Facebook. The social network had been using the Microsoft search tool to power its Graph Search platform for some time now, but no longer. While no announcement has been made, Facebook confirmed the news to Reuters.
+
+The lack of official announcement meant that the dropping of Bing was immediately noticed. Facebook does not have a replacement partner in mind -- there is no danger of the social network teaming up with Google -- but will go it alone instead.
+
+It seems that the decision tied in with Facebook's recent updating of its own search tool. A few days ago, the search tool was updated to make it possible to find specific posts rather than users and pages. This made Facebook Search more like a "proper" search engine, and probably led to questions about the value of maintaining links with Bing. But there are other reasons behind ditching Bing.
+
+Facebook issued a statement to VentureBeat in which it explained the switch in focus:
+
+We're not currently showing web search results in Facebook Search because we're focused on helping people find what's been shared with them on Facebook.
+
+While Microsoft will undoubtedly be unhappy with Facebook's decision, it's one that will probably go down well with users of the site. The move is an interesting one, if not one that is entirely surprising. The problem with using Bing to display web search results within Facebook was that it did just that -- display search results from the wider web rather than just Facebook.
+
+This meant that while there was arguably a better experience for users thanks to the extra features, there was a far stronger risk that people would navigate away from Facebook and stop consuming ads. It's not yet clear whether Facebook will start to cast its search net wider, displaying results and pages in a closely controlled built-in browser, but this is certainly something to look out for further down the line.
+
+Photo credit: 1000 Words /Shutterstock

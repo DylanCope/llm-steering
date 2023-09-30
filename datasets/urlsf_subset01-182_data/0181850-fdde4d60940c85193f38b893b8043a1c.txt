@@ -1,0 +1,43 @@
+Tangle is a JavaScript library for creating reactive documents. Your readers can interactively explore possibilities, play with parameters, and see the document update immediately. Tangle is super-simple and easy to learn.
+
+This is a simple reactive document.
+
+When you eat cookies, you consume calories.
+
+This is the HTML for that example.
+
+When you eat <span data-var="cookies" class="TKAdjustableNumber"> cookies</span>,
+
+you consume <span data-var="calories"> calories</span>.
+
+And this is the JavaScript.
+
+var tangle = new Tangle(document, {
+
+initialize: function () { this.cookies = 3; },
+
+update: function () { this.calories = this.cookies * 50; }
+
+});
+
+Write your document with HTML and CSS, as you normally would. Use special HTML attributes to indicate variables. Write a little JavaScript to specify how your variables are calculated. Tangle ties it all together.
+
+* * *
+
+Try out some examples.
+
+Proposition 21: Vehicle License Fee for State Parks The way it is now: California has state parks, including state beaches and historic parks. The current $ million budget is insufficient to maintain these parks, and parks will be shut down at least part-time. Most parks charge per vehicle for admission. What Prop 21 would do: Proposes to charge car owners an extra $18 on their annual registration bill, to go into the state park fund. Cars that pay the charge would have free park admission. Analysis: Suppose that an extra was charged to % of California taxpayersvehicle registrations. Park admission would be for those who paid the chargeeveryone. This would collect an extralose $ million ($ million from the tax, plusminus $ million additionallost revenue from admission) for a total state park budget of $ million. This is not sufficient to maintain the parks, and parks would be shut down at least part-time. This is sufficient to maintain the parks in their current state, but not fund a program to bring safety and cleanliness up to acceptable standards. This is sufficient to maintain the parks in their current state, plus fund a program to bring safety and cleanliness up to acceptable standards over the next years. This is sufficient to maintain the parks and bring safety and cleanliness up to acceptable standards, leaving a $ million per year surplus. Park attendance would risefall by , to million visits each year.
+
+Below is a simplified digital adaptation of the analog state variable filter. This topology is particularly useful for embedded audio processing, because F c (cutoff frequency) and Q (resonance) are controlled by independent coefficients, k f and k q . (With most filters, the coefficients are functions of both parameters, which precludes pre-calculated lookup tables.) The coefficients and transfer function are: Some example frequency responses: F c =
+
+Q = Unstable F c =
+
+Q = Unstable
+
+For a more extensive example, see Ten Brighter Ideas.
+
+For the motivation and philosophy behind reactive documents, see Explorable Explanations.
+
+Or learn how to get started with Tangle.
+
+Tweet

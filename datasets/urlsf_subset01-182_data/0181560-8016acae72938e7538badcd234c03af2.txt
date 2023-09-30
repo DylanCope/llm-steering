@@ -1,0 +1,19 @@
+Snapchat Is at It Again and Blocks Root Users — but for How Long?
+
+Despite many security concerns from the past, Snapchat is still one of the most popular social media service available for smartphones. According to reports, it has 100 million of active users, and 65% of them upload photos.
+
+Snapchat users would easily become the 13th biggest country in the world if we take population as a measure.
+
+Snapchat’s fast way of sharing photos to multiple friends at the time is highly regarded by users. However, many of you, Snapchat users will soon face, if not already, a serious inconvenience, as Snapchat will stop working on your devices. Yes, Snapchat will not work on rooted devices.
+
+The newest update brings a new security check. The application is now looking for superuser existence in the system upon logging in. A nice explanation of the problem was made by XDA Senior Member MaaarZ, who is also a creator of Snapprefs, an Xposed Framework module which enhances the limited Snapchat’s utility. According to MaaarZ, Snapchat is now performing a few tests and if at least one of them is positive, an application kills itself when Superuser is found in the system. Needless to say that most of currently available custom ROMs on XDA contain root, so this change may affect thousands if not millions of people.
+
+Looking from user’s perspective, the security should always be kept at the highest level. Blocking application on rooted devices is nevertheless an extremely poor move. Thousands of users will look for an alternative instead of keeping their devices in vanilla state. The social media market is very tight and it’s extremely easy to find a nice replacement without such ridiculous obstacles. I bet that many developers or companies are looking forward to delivering a similar, better-written software alternative with all users in mind, which will fill the gap in no time.
+
+I’m not a security expert, so I’ve asked our very own Senior Recognized Developer pulser_g2 to share his opinion regarding this move. Here’s what he had to say:
+
+Any application which tries to enforce client-side security, as part of its core use-case, is fundamentally flawed. If you are delivering the data to the user, they have it, and you must assume they have it forever. If this was a hobbyist’s “fun” project, it would be acceptable – OK sure, someone can screenshot images, or store them, but that’s fair enough. This isn’t a hobby app though, and it’s trying to do something unachievable. They want to implement DRM on a still image, when even the content producers haven’t managed to make effective DRM. Music labels gave up on it – the idea doesn’t work. Snapchat would be better putting their time into improving the application – they won’t stop people from screenshotting snapchats (without alerting the other person), if someone actually wants to – next thing, someone will just hook into the kernel and dump the framebuffer output. Good luck detecting or stopping that.
+
+This inconvenience will result in many users dropping Snapchat and looking for some alternative, which will be more user-friendly, customizable and hopefully safe without applying these weird “patches”. If you, however, plan to stick with either Snapchat and root, you might have to give the Snapprefs a spin. MaarZ promised to deliver an update which will remove the root checks from the app. XDA will always find a way!
+
+Is Snapchat’s decision correct? Are you going to stop using this application? Let us know in the comments below!

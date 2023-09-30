@@ -1,0 +1,51 @@
+Two landmark developments on Aug. 16 give momentum to the growing interest of cities and counties in addressing the mortgage crisis using eminent domain:
+
+The Washington State Supreme Court held in Bain v. MERS, et al., that an electronic database called Mortgage Electronic Registration Systems (MERS) is not a "beneficiary" entitled to foreclose under a deed of trust; and San Bernardino County, Calif., passed a resolution to consider plans to use eminent domain to address the glut of underwater borrowers by purchasing and refinancing their loans.
+
+MERS is the electronic smokescreen that allowed banks to build their securitization Ponzi scheme without worrying about details like ownership and chain of title. According to property law attorney Neil Garfield, properties were sold to multiple investors or conveyed to empty trusts, subprime securities were endorsed as triple A, and banks earned up to 40 times what they could earn on a paying loan, using credit default swaps in which they bet the loan would go into default. As the dust settles from collapse of the scheme, homeowners are left with underwater mortgages with no legitimate owners to negotiate with. The solution now being considered is for municipalities to simply take ownership of the mortgages through eminent domain. This would allow them to clear title and start fresh, along with some other lucrative dividends.
+
+A major snag in these proposals has been that to make them economically feasible, the mortgages would have to be purchased at less than fair market value, in violation of eminent domain laws. But for troubled properties with MERS in the title - -which now seems to be the majority of them -- this may no longer be a problem. If MERS is not a beneficiary entitled to foreclose, as held in Bain, it is not entitled to assign that right or to assign title. Title remains with the original note holder; and in the typical case, the note holder can no longer be located or established, since the property has been used as collateral for multiple investors. In these cases, counties or cities may be able to obtain the mortgages free and clear. The county or city would then be in a position to "do the fair thing," settling with stakeholders in proportion to their legitimate claims, and refinancing or reselling the properties, with proceeds accruing to the city or county.
+
+Bain v. MERS: No Rights Without the Original Note
+
+Although Bain is binding precedent only in Washington State, it is well reasoned and is expected to be followed elsewhere. The question, said the panel, was "whether MERS and its associated business partners and institutions can both replace the existing recording system established by Washington statutes and still take advantage of legal procedures established in those same statutes." The Court held that they could not have it both ways:
+
+Simply put, if MERS does not hold the note, it is not a lawful beneficiary... MERS suggests that, if we find a violation of the act, "MERS should be required to assign its interest in any deed of trust to the holder of the promissory note, and have that assignment recorded in the land title records, before any non-judicial foreclosure could take place." But if MERS is not the beneficiary as contemplated by Washington law, it is unclear what rights, if any, it has to convey. Other courts have rejected similar suggestions. [Citations omitted.]
+
+If MERS has no rights that it can assign, the parties are back to square one: The original holder of the promissory note must be found. The problem is that many of these mortgage companies are no longer in business, and even if they could be located, it is too late in most cases to assign the note to the trusts that are being tossed this hot potato.
+
+Mortgage-backed securities are sold to investors in packages representing interests in trusts called REMICs (Real Estate Mortgage Investment Conduits), which are designed as tax shelters. To qualify for that status, however, they must be "static." Mortgages can't be transferred in and out once the closing date has occurred. The REMIC Pooling and Servicing Agreement typically states that any transfer after the closing date is invalid. Yet few, if any, properties in foreclosure seem to have been assigned to these REMICs before the closing date, in blatant disregard of legal requirements.
+
+The whole business is quite complicated, but the bottom line is that title has been clouded not only by MERS but because the trusts purporting to foreclose do not own the properties by the terms of their own documents. Legally, the latter defect may be even more fatal than filing in the name of MERS in establishing a break in the chain of title to securitized properties.
+
+What This Means for Eminent Domain Plans: Focus on San Bernardino
+
+Under the plans that the San Bernardino County board of supervisors voted to explore, the county would take underwater mortgages by eminent domain and then help the borrowers into mortgages with significantly lower monthly payments.
+
+Objections voiced at the Aug. 16 hearing included suspicions concerning the role of Mortgage Resolution Partners, the private venture capital firm bringing the proposal (would it make off with the profits and leave the county footing the bills?), and where the county would get the money for the purchases.
+
+
+
+A way around these objections might be to eliminate the private middleman and proceed through a county land bank of the sort set up in other states. If the land bank focused on properties with MERS in the chain of title (underwater, foreclosed or abandoned), it might obtain a significant inventory of properties free and clear.
+
+
+
+The county would simply need to give notice in the local newspaper of intent to exercise its right of eminent domain. The burden of proof would then transfer to the claimant to establish title in a court proceeding. If the court followed Bain, title typically could not be proved and would pass free and clear to the county land bank, which could sell or rent the property and work out a fair settlement with the parties.
+
+That would resolve not only the funding question but whether using eminent domain to cure mortgage problems constitutes an unconstitutional taking of private property. In these cases, there would be no one to take from, since no one would be able to prove title. The investors would take their place in line as unsecured creditors with claims in equity for actual damages. In most cases, they would be protected by credit default swaps and could recover from those arrangements.
+
+The investors, banks and servicers all profited from the smokescreen of MERS, which shielded them from liability. As noted in Bain:
+
+Critics of the MERS system point out that after bundling many loans together, it is difficult, if not impossible, to identify the current holder of any particular loan, or to negotiate with that holder... Under the MERS system, questions of authority and accountability arise, and determining who has authority to negotiate loan modifications and who is accountable for misrepresentation and fraud becomes extraordinarily difficult.
+
+Like MERS itself, the investors must deal with the consequences of an anonymity so remote that they removed themselves from the chain of title.
+
+On Aug. 15, the Federal Housing Finance Agency threatened to take action against municipalities condemning federal property. But to establish its claim, the FHFA, too, would have to establish that the mortgages were federal property; and under the Bain ruling, this could be difficult.
+
+Setting Things Right
+
+While banks and investors were busy counting their profits behind the curtain of MERS, homeowners and counties have been made to bear the losses. The city of San Bernardino is in such dire straits that on Aug. 1, it filed for bankruptcy.
+
+San Bernardino and other counties are drowning in debt from a crisis created when Wall Street's real estate securitization bubble burst. By using eminent domain, they can clean up the destruction of their land title records and 400 years of real property law. And by setting up their own banks, counties and other municipalities can use their own capital and revenues to generate credit for local purposes.
+
+Homeowners who paid much more for a home than it was worth as a result of the securitization bubble have little chance of challenging the legitimacy of their underwater mortgages on their own. Insisting that their state and local governments follow the lead of Washington State and San Bernardino County may be their best shot at escaping debt peonage to their mortgage lenders.

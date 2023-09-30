@@ -1,0 +1,17 @@
+Posted on June 23, 2017 at 3:38 PM
+
+More than 800,000 customers having particular routers have been cautioned to change their passwords with immediate effect following investigations from Virgin Media since hackers could get access and steal their details.
+
+The default passwords which were only eight characters long and had only lowercase letters from A-Z were termed vulnerable to hackers since they had only two letters wiped off and therefore the hackers had an easy mode of guessing and accessing their personal data.
+
+Investigations of the smart home devices and appliances brought about the discovery. It was found that these devices and appliances were connected to home networks and therefore hackers could access them in less than 4 days and in such an easy way.
+
+SureCloud accessed the Virgin Super Hub 2 router and other routers of the same age marking them less safe. A Virgin Media spokesperson deemed the security of their customers as the most important thing to them. He further added that they were upgrading their systems and equipment so that they could meet standards as per the industry.
+
+The spokesperson continued further by saying that they regularly support their customers despite the fact that all happened due to technology, this support is associated with advice and updates such as giving them chances of upgrading to Hub 3.0 which had a stronger security.
+
+The research was conducted on popular smart gadgets and devices such as Bluetooth toys, smart padlocks, and wireless cameras. Some of these devices appeared difficult to hack, unlike others. Among the 15 tested devices, 8 were found to have at least one security flaw. It was found that some gadgets and devices, such as the Fredi Megapix home CCTV camera system operated over the internet without a password, but instead possessed a default administrator account. Similar cameras were also found and consisted of the same.
+
+The Watchdog report revealed that hackers had the potential to tilt the cameras and hence monitor any activity in the house, a condition which would easily provide access to people with malicious plans. SureCloud had a chance to hack the CloudPets stuffed toy hence allowing messages to be sent as an own voice to the child from family and friends. The messages acted as an alert on flaws to the manufacturers of the 8 affected products but neither Fredi Megapix nor CloudPets responded to this.
+
+The consumer group said that seriousness on security on the internet enabled and related devices were to be taken by the industry. This was to be done by addressing the basics such as password issue among others. Alex Neil, Managing Director of home products said that smart home gadgets are of great benefit and therefore needed to be taken seriously on daily basis. He further added that people need to take some steps so as to protect their home, though hackers are becoming more sophisticated. He insisted that manufacturers ought to sell secure smart products.

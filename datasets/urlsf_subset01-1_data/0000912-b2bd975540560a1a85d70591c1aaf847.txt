@@ -1,0 +1,7 @@
+By Coleman Larned (@thesoccerswell)
+
+MLS will not be a top league until its coaches find better ways to connect projection metrics to tactical changes. Ben Olsen is showing he may be on the right track. The more data that is collected on variables such as game variability, individual player contributions and spatial frequency, the more information there is to digest and to affect playing, teaching and coaching. Therefore the issue lies in the translation of such data into meaningful, impactful resolutions that can be measured by on-field progress.
+
+There's an opportunity for both sides of the analytical coin to learn and communicate more effectively. Can large data aggregation along with sound, statistics application give insight into the complexities of soccer from a perspective lost from the naked eye? Can tangible trials and consistent experiences within the sport mold the direction in which data is aggregated?
+
+In this piece we'll take a look at the recent seasons of DC United and how they've usually outperformed our xG projections in order to better understand this disconnect. In recent MLS memory DC United has surprised, frequently outpacing projection metrics and 'punching above their weight'. Let's talk look at what Olsen has done tactically and managerially from 2012 to the current 2015 season to remain stubbornly successful.

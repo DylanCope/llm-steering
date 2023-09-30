@@ -1,0 +1,30 @@
+Tonight, we will begin rolling out the next Xbox One system update. Again, I’d like to thank all of the Xbox Live members who previewed features with us and shared some of their feedback. Their input helped shape this system update, and we look forward to expanding our list of previewing Xbox Live members in the coming months.
+
+Here’s the final breakdown of the features rolling out to Xbox One systems starting tonight and over the next few days:
+
+Game and app saves and updates. A game save progress bar will show you the status of your game saves. You will also be able to easily tell what games and apps are being updated or have been updated recently.
+
+A game save progress bar will show you the status of your game saves. You will also be able to easily tell what games and apps are being updated or have been updated recently. Friends improvements. Notifications will be added to see when favorites and friends sign in to Xbox Live. This was one of the most frequently requested features, so we made it a priority to include it in this update. Also, friends who are in multiplayer will be identified in the friends list.
+
+Notifications will be added to see when favorites and friends sign in to Xbox Live. This was one of the most frequently requested features, so we made it a priority to include it in this update. Also, friends who are in multiplayer will be identified in the friends list. Kinect voice and motion improvements will continue to be fine-tuned for quality and reliability of Xbox One commands. For example, we’ve updated some of the gesture functionality to reduce false positives on non-hand objects triggering gesture commands.
+
+will continue to be fine-tuned for quality and reliability of Xbox One commands. For example, we’ve updated some of the gesture functionality to reduce false positives on non-hand objects triggering gesture commands. Improved GameDVR video quality through compression algorithm improvements.
+
+through compression algorithm improvements. Blu-ray player supports 50 Hz video output for content recorded at 50 Hz. We’ll also be updating the Blu-ray Player app in the coming days to round out these improvements.
+
+50 Hz video output for content recorded at 50 Hz. We’ll also be updating the Blu-ray Player app in the coming days to round out these improvements. Controller and headset adaptor firmware updates will reduce audio static and improve wireless connectivity.
+
+will reduce audio static and improve wireless connectivity. Silent reboot after system updates and system update on demand now available. If your console is in Instant On mode, the update will happen automatically and return to standby upon completion. This means you won’t need to power on your console after an update moving forward. If you want to take future updates when available without waiting for your console to do it on its own, we’ve added this option under system settings and you’ll be able to use it next update. It will only show as available when there is an update to take.
+
+Thanks again for everyone’s feedback on particular features previewed these past few months and keep the feedback coming.
+
+
+
+
+
+
+
+
+
+
+
