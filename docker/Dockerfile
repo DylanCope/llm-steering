@@ -18,5 +18,5 @@ RUN git config --global --add safe.directory /home/ray
 # RUN sudo chmod 0777 /home/ray/project
 
 # LaTeX for matplotlib
-# RUN apt-get install texlive-binaries texlive texlive-latex-extra texlive-fonts-recommended dvipng cm-super -y
-# RUN pip install latex
+RUN apt-get install texlive-binaries texlive texlive-latex-extra texlive-fonts-recommended dvipng cm-super -y --fix-missing
+RUN pip install latex
