@@ -28,7 +28,7 @@ setup(
         "nbformat",
         "Ipython",
         "ipywidgets",
-        "tuned_lens",
+        "plotly",
     ],
     extras_require={
         "dev": [
