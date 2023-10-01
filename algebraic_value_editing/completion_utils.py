@@ -84,7 +84,7 @@ def gen_using_model(
         t.manual_seed(seed)
 
     tokenized_prompts: Int[t.Tensor, "batch pos"] = model.to_tokens(
-        prompt_batch
+        prompt_batch, padding_side='left'
     )
     completions: Float[t.Tensor, "batch pos"] = model.generate(
         input=tokenized_prompts,
@@ -119,8 +119,8 @@ def gen_using_model(
     results = pd.DataFrame(
         {
             "prompts": prompt_batch,
-            "completions": model.to_string(trimmed_completions),
             "loss": list(average_loss),
+            "completions": model.to_string(trimmed_completions),
         }
     )
 
