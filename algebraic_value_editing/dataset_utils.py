@@ -14,7 +14,6 @@ from algebraic_value_editing.prompt_utils import get_block_name
 
 import dataset_svd.utils
 
-
 class ActivationAdditionDataset:
     """Specifies a prompt (e.g. "Bob went") and a coefficient and a
     location in the model, with an `int` representing the block_num in the
@@ -74,7 +73,7 @@ class ActivationAdditionDataset:
             self.tokens = tokens
         else:
             self.prompt = prompt  # type: ignore (this is guaranteed to be str)
-
+        
         # Set whether this is from a dataset
         self.from_dataset = from_dataset
 
@@ -89,6 +88,8 @@ class ActivationAdditionDataset:
 
         # Set whether this is from a difference
         self.from_difference = from_difference
+
+        self.cache = None
 
     def __repr__(self) -> str:
         if hasattr(self, "prompt"):
@@ -115,7 +116,7 @@ def activation_principal_component(
         location=location,
         max_batch_size=2,
         use_all_activations=activation_addition.use_all_activations,
-    ).cuda()
+    )
 
     # Find the average l2 norm of the rows of the activations
     average_l2_norm = torch.mean(torch.linalg.norm(activations, dim=1))
@@ -174,4 +175,8 @@ def get_dataset_activations_difference(
         use_all_activations=use_all_activations,
     ).reshape(1, 1, -1).cuda()
 
-    return activation_addition.coeff * feature_vector
+    steering_vector = activation_addition.coeff * feature_vector
+
+    activation_addition.cache = steering_vector
+
+    return steering_vector

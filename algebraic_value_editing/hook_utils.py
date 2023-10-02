@@ -68,12 +68,16 @@ def get_activation_dict(
                     get_dataset_activations(model, activation_addition)
                 )
             elif activation_addition.from_difference:
-                activation_dict[activation_addition.act_name].append(
-                    get_dataset_activations_difference(model, activation_addition)
-                )
-        
+                # Use cached activations if available
+                if activation_addition.cache is not None:
+                    activation_dict[activation_addition.act_name].append(
+                        activation_addition.cache
+                    )
+                else:
+                    activation_dict[activation_addition.act_name].append(
+                        get_dataset_activations_difference(model, activation_addition)
+                    )
 
-            
         # Otherwise, use normal prompt activations
         else:
             activation_dict[activation_addition.act_name].append(
@@ -215,6 +219,7 @@ def hook_fn_from_activations(
         )
 
     activations_seq_len: int = activations.shape[1]
+    # print(f"activations_seq_len: {activations_seq_len}")
 
     def prompt_hook(
         resid_pre: Float[torch.Tensor, "batch pos d_model"],
