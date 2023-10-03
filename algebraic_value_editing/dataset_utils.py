@@ -89,7 +89,7 @@ class ActivationAdditionDataset:
         # Set whether this is from a difference
         self.from_difference = from_difference
 
-        self.cache = None
+        self.feature_vector_cache = None
 
     def __repr__(self) -> str:
         if hasattr(self, "prompt"):
@@ -161,6 +161,9 @@ def get_dataset_activations_difference(
     """
     assert activation_addition.prompt_2 is not None, "Must specify a second prompt to use this method."
 
+    if activation_addition.feature_vector_cache is not None:
+        return activation_addition.coeff * activation_addition.feature_vector_cache
+
     target_dataset = activation_addition.prompt
     baseline_dataset = activation_addition.prompt_2
     location = activation_addition.location
@@ -175,8 +178,6 @@ def get_dataset_activations_difference(
         use_all_activations=use_all_activations,
     ).reshape(1, 1, -1).cuda()
 
-    steering_vector = activation_addition.coeff * feature_vector
+    activation_addition.feature_vector_cache = feature_vector
 
-    activation_addition.cache = steering_vector
-
-    return steering_vector
+    return activation_addition.coeff * feature_vector

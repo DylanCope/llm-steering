@@ -68,15 +68,9 @@ def get_activation_dict(
                     get_dataset_activations(model, activation_addition)
                 )
             elif activation_addition.from_difference:
-                # Use cached activations if available
-                if activation_addition.cache is not None:
-                    activation_dict[activation_addition.act_name].append(
-                        activation_addition.cache
-                    )
-                else:
-                    activation_dict[activation_addition.act_name].append(
-                        get_dataset_activations_difference(model, activation_addition)
-                    )
+                activation_dict[activation_addition.act_name].append(
+                    get_dataset_activations_difference(model, activation_addition)
+                )
 
         # Otherwise, use normal prompt activations
         else:
