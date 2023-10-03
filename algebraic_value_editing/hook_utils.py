@@ -62,7 +62,7 @@ def get_activation_dict(
     for activation_addition in activation_additions:
         # If the activation addition is based on a dataset,
         # then we use our own functions to get the activations
-        if activation_addition.from_dataset:
+        if hasattr(activation_addition, 'from_dataset') and activation_addition.from_dataset:
             if activation_addition.from_pca:
                 activation_dict[activation_addition.act_name].append(
                     get_dataset_activations(model, activation_addition)
